@@ -418,99 +418,7 @@ AOD HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AodH
 TV1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playlist.m3u8
 TV8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8
 
-外國頻道▪电視,#genre#
-Mediacorp CH-5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8
-Mediacorp CH-8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8
-Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8
-Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8
-RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8
-ASSP 5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
-NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NTV News24,https://www.news24.jp/livestream/index.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-TBS Channel,http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
-no,http://51.79.193.108:8080/hls/j00033/index.m3u8
-TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-대전MBC,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-KCTV 광주 CH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-摇滚娱乐,https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
-摇滚至尊,https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
-FTV4,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FTV4,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-Fox Tallahassee FL (WTWC-,https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-Bloomberg Quicktake (1080,https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-Bloomberg Quicktake (720p,https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-Bloomberg TV Australia (7,https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-Bloomberg TV Australia (2,https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-Bloomberg TV Europe (720p,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-Bloomberg TV Europe (360p,https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5+HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+HD,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-广东体育,http://nettvpro.live/hls/zjkp.php?id=8
-sport,http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
-博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-TNTSPORTS 1[1280*720],https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNTSPORTS 2[1280*720],https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-北京纪实8K(4320p),http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
-CCTV8K超高清,http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV4K HDR,https://p.ggiptv.com/v/4k.m3u8
-CCTV4K HDR,http://ye23.win/iptv/4k.cctv.php
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV奥运4k,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-探索4k,http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-广东综艺4k,http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-QXTV4k,http://101.33.26.234/d1--cn-gotcha04.bilivideo.com/live-bvc/698138/live_429652939_44047359.flv
-纯享4k,http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-绚影4K,http://182.136.139.72:4022/rtp/239.93.42.33:5140
-爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-1MV4K,http://136.243.42.146:1499
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 黑莓▪专区,#genre#
 黑莓动画[1920*1080],http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
@@ -520,6 +428,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 黑莓电影[1920*1080],http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 黑莓电竞[1920*1080],http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 黑莓电竞[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+
 YY▪电影,#genre#
 斗鱼音乐一FHD[1920*1080],http://zzy789.xyz/douyu1.php?id=9588891
 模特DJ[772*434],http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
@@ -862,7 +771,6 @@ SING女团】《风陵渡口》歌词版PV[640*360],https://vdse.bdstatic.com//a
 韩国DJ Soda Remix 2021 电音[1920*1080],https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 推荐9首DJ舞曲，首首甜美醉人[1920*1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》[1920*1080],https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
-车载必备DJ《殇雪》《潮湿的心》《酒醉的蝴蝶》《多年以后》[1920*1080],https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 DJ《心在跳情在烧》[1920*1080],https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 郭镐鸣《野摩托》[1920*1080],https://vd3.bdstatic.com/mda-mekfm7wu6f4rtt99/1080p/cae_h264/1621595318412084671/mda-mekfm7wu6f4rtt99.mp4
 赵蕾蕾《寂寞的城伤心的人》[1920*1080],https://vd2.bdstatic.com/mda-mesdm11tdp69a9ye/1080p/cae_h264/1622115758783335310/mda-mesdm11tdp69a9ye.mp4
@@ -913,10 +821,12 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 《爱难求情难断…》[1920*1080],https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
 酒吧DJ舞曲[1920*1080],https://vdse.bdstatic.com//5208fb24e1d76b0e81f992e91537f086.mp4
 花都开了你来不来DJ[854*480],https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
+
 彩虹▪电影,#genre#
 松视2台[1280*720],https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松视3台[1280*720],https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 潘多拉1[1280*720],https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+
 国产▪电影,#genre#
 高颜值女神沈樵度剧情我的漂亮后妈[1280*720],https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
 沈樵首部大尺度古装剧情七旬老农女鬼诱惑[1920*1080],https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
@@ -999,6 +909,7 @@ DYTM008抖音旅行射第8期贵州侗族民族风[1280*720],https://t11.cdn2020
 星空传媒淫蛇-刘清韵[1280*720],https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/ee2ce840/index.m3u8
 星空传媒民国旗袍系列2-无双[1280*720],https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
 少年阿宾第二季篇章五寒假开始[1280*720],https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
+
 外国▪电影,#genre#
 一本道1[720*404],https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道2[720*404],https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
@@ -1014,7 +925,6 @@ DYTM008抖音旅行射第8期贵州侗族民族风[1280*720],https://t11.cdn2020
 一本道4[720*404],https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
 一本道5[720*404],https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
 一本道6[720*404],https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
-m/20210207/Lyhqjp3z/index.m3u8?skipl=1
 欧美1[1920*1080],https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美2[1280*720],https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
 欧美3[1280*720],https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
@@ -1023,6 +933,7 @@ LAA-0004性爱瑜伽[1280*720],https://t12.cdn2020.com:12337/video/m3u8/2021/11/
 少妇做爱[1920*1080],https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/eca6b7ec/index.m3u8
 大合集[1920*1080],https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 美丽的奴隶[1920*1080],https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
+
 麻豆▪电影,#genre#
 补新01[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 补新03[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
