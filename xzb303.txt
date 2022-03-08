@@ -952,7 +952,7 @@ LAA-0004性爱瑜伽[1280*720],https://t12.cdn2020.com:12337/video/m3u8/2021/11/
 补最新10[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/616a05e13bbafc7181324c80/playlist.m3u8
 补最新11[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/616a05693bbafc7181324c7f/playlist.m3u8
 补最新12[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6168888e82e0243986ca6ac5/playlist.m3u8
-补最新13https://zo392.cdnedge.live/file/avple-images/hls/6168881582e0243986ca6ac4/playlist.m3u8
+补最新13[1280*720],https://zo392.cdnedge.live/file/avple-images/hls/6168881582e0243986ca6ac4/playlist.m3u8
 补最新14[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/6168872582e0243986ca6ac2/playlist.m3u8
 补最新15[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/6168879d82e0243986ca6ac3/playlist.m3u8
 补最新麻豆01[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/616717a551121708a790a1ba/playlist.m3u8
