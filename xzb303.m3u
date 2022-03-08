@@ -835,190 +835,6 @@ http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Celestial/p
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playlist.m3u8
 #EXTINF:-1 group-title="港澳台頻道▪电視,#genre#",TV8
 http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Mediacorp CH-5
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Mediacorp CH-8
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Mediacorp CH-U
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Awani
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",RTM Sports HD
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",ASSP 5
-http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",NHK
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",NHK
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",NTV News24
-https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Animax
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",New Japan Pro Wrestling W
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",日本购物1[1280*720]
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Animax
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Animax
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TBS Channel
-http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",no
-http://51.79.193.108:8080/hls/j00033/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TJB SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",KBC(SBS 光州)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",대전MBC
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",KCTV 광주 CH05
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",NBS Korea Agricultural Br
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",摇滚娱乐
-https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",摇滚至尊
-https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",FTV4
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",FTV4
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Fox Tallahassee FL (WTWC-
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg Quicktake (1080
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg Quicktake (720p
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV Asia (720p)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV Australia (7
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV Australia (2
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV Europe (720p
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV Europe (360p
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV US (720p)
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV US (720p)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV US (360p)
-https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV US (360p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Bloomberg TV US (180p)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5
-http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5+HD
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5+HD
-http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV5+HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",五星体育
-http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",魅力足球
-http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",精品体育
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",超级体育
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",超级体育
-http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",超级体育
-http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",咪咕视频·PP体育1
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",广东体育
-http://nettvpro.live/hls/zjkp.php?id=8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",sport
-http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",博斯运动2
-http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TNTSPORTS 1[1280*720]
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TNTSPORTS 2[1280*720]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TNTSPORTS 3[1280*720]
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TNTSPORTS 4[1280*720]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",TNTSPORTS 5[1280*720]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",北京纪实8K(4320p)
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV8K超高清
-http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV4K HDR
-https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV4K HDR
-http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",CCTV奥运4k
-http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",探索4k
-http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",广东综艺4k
-http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",QXTV4k
-http://101.33.26.234/d1--cn-gotcha04.bilivideo.com/live-bvc/698138/live_429652939_44047359.flv
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",纯享4k
-http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",纯享4k
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",绚影4K
-http://182.136.139.72:4022/rtp/239.93.42.33:5140
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",爱上4K
-http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",1MV4K
-http://136.243.42.146:1499
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",VTC13 4K
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="外國頻道▪电視,#genre#",LoveNature4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="黑莓▪专区,#genre#",黑莓动画[1920*1080]
 http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="黑莓▪专区,#genre#",黑霉动画[1920*1080]
@@ -1715,8 +1531,6 @@ https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766
 https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 #EXTINF:-1 group-title="YY▪电影,#genre#",动感DJ《苦了累了听听歌》[1920*1080]
 https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
-#EXTINF:-1 group-title="YY▪电影,#genre#",车载必备DJ《殇雪》《潮湿的心》《酒醉的蝴蝶》《多年以后》[1920*1080]
-https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 #EXTINF:-1 group-title="YY▪电影,#genre#",DJ《心在跳情在烧》[1920*1080]
 https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 #EXTINF:-1 group-title="YY▪电影,#genre#",郭镐鸣《野摩托》[1920*1080]
@@ -2013,21 +1827,21 @@ https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
 https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
 #EXTINF:-1 group-title="外国▪电影,#genre#",一本道6[720*404]
 https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",欧美1[1920*1080]
+#EXTINF:-1 group-title="外国▪电影,#genre#",欧美1[1920*1080]
 https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",欧美2[1280*720]
+#EXTINF:-1 group-title="外国▪电影,#genre#",欧美2[1280*720]
 https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",欧美3[1280*720]
+#EXTINF:-1 group-title="外国▪电影,#genre#",欧美3[1280*720]
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",LAA-0004性爱瑜伽[1280*720]
+#EXTINF:-1 group-title="外国▪电影,#genre#",LAA-0004性爱瑜伽[1280*720]
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe8/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",金毛狮[1280*720]
+#EXTINF:-1 group-title="外国▪电影,#genre#",金毛狮[1280*720]
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/aad5c620/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",少妇做爱[1920*1080]
+#EXTINF:-1 group-title="外国▪电影,#genre#",少妇做爱[1920*1080]
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/eca6b7ec/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",大合集[1920*1080]
+#EXTINF:-1 group-title="外国▪电影,#genre#",大合集[1920*1080]
 https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
-#EXTINF:-1 group-title="m/20210207/Lyhqjp3z/index.m3u8?skipl=1",美丽的奴隶[1920*1080]
+#EXTINF:-1 group-title="外国▪电影,#genre#",美丽的奴隶[1920*1080]
 https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
 #EXTINF:-1 group-title="麻豆▪电影,#genre#",补新01[1280*720]
 https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
