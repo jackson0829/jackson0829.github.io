@@ -439,120 +439,79 @@ CHC高清电影,http://111.20.106.16:6610/yinhe/2/ch00000090990000002065/index.m
 ③影院HD,http://117.148.179.157/PLTV/88888888/224/3221231763/index.m3u8
 ②影院HD,http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8
 
-台灣频道-1,#genre#
-民視,http://www.ubvip1688.com/ublive/b53808b6bce5483d.m3u8
-台視,http://www.ubvip1688.com/ublive/25b05b569a4a801a.m3u8
-中視,http://www.ubvip1688.com/ublive/2a21ee1cdca179f1.m3u8
-中視新聞,http://www.ubvip1688.com/ublive/079f0f2e26b92ff9.m3u8
-華視,http://www.ubvip1688.com/ublive/3b9cfee20ab366e3.m3u8
-八大精彩,http://www.ubvip1688.com/ublive/8da1e61ccaa6b814.m3u8
-八大綜合,http://www.ubvip1688.com/ublive/b11663b6863aa115.m3u8
-非凡商業,http://www.ubvip1688.com/ublive/bb745bd7823d8797.m3u8
-TVBS歡樂,http://www.ubvip1688.com/ublive/964ef2aefccbaccf.m3u8
-TVBS精采,http://www.ubvip1688.com/ublive/c7be12c7aa408112.m3u8
-東森新聞,http://www.ubvip1688.com/ublive/036c36fcaf48f956.m3u8
-中天新聞,http://www.ubvip1688.com/ublive/efb956b6b904abe7.m3u8
-民視新聞,http://www.ubvip1688.com/ublive/42bb1a346fec91c1.m3u8
-TVBS新聞,http://www.ubvip1688.com/ublive/7a997ccc0de14249.m3u8
-TVBS_HD,http://www.ubvip1688.com/ublive/ba7d5c1cb87c9c69.m3u8
-東森財經新聞,http://www.ubvip1688.com/ublive/7ca83631bbd65e45.m3u8
-非凡新聞,http://www.ubvip1688.com/ublive/ce54e332bc19fd31.m3u8
-龍華卡通,http://www.ubvip1688.com/ublive/e25f8070872cbdd7.m3u8
-龍華戲劇,http://www.ubvip1688.com/ublive/3e263608d450d4b2.m3u8
-龍華日本,http://www.ubvip1688.com/ublive/4d75d0c29879afe1.m3u8
-龍華偶像,http://www.ubvip1688.com/ublive/3b482c7af6a2f1bb.m3u8
-龍華電影,http://www.ubvip1688.com/ublive/1cbe7516f0b68567.m3u8
-靖天電影,http://www.ubvip1688.com/ublive/6a0632923139de91.m3u8
-數位電影台,http://www.ubvip1688.com/ublive/684540a79e673f2d.m3u8
-亞洲旅游,http://www.ubvip1688.com/ublive/2302c878b7f939be.m3u8
-中天亞洲,http://www.ubvip1688.com/ublive/cf7487b9e189eeee.m3u8
-寰宇新聞二,http://www.ubvip1688.com/ublive/4c035e3fe150bda8.m3u8
-寰宇新聞,http://www.ubvip1688.com/ublive/69e68c811f4b39be.m3u8
-民視第一,http://www.ubvip1688.com/ublive/1c5560a857a51fe5.m3u8
-民視台灣,http://www.ubvip1688.com/ublive/cdf3f290b383af4e.m3u8
-博斯運動一,http://www.ubvip1688.com/ublive/39517d86d9cfe571.m3u8
-博斯運動二,http://www.ubvip1688.com/ublive/bac5151a196767e8.m3u8
-博斯高球,http://www.ubvip1688.com/ublive/3744f1b0f6b1810f.m3u8
-博斯高球二,http://www.ubvip1688.com/ublive/f87d58f737409660.m3u8
-博斯魅力,http://www.ubvip1688.com/ublive/2247552d2ab690a9.m3u8
-博斯網球,http://www.ubvip1688.com/ublive/f4e94ca8fc54f948.m3u8
-博斯無限,http://www.ubvip1688.com/ublive/0aa3212d87a0a570.m3u8
-博斯無限二,http://www.ubvip1688.com/ublive/f48d28ecde89cedd.m3u8
-靖天日本,http://www.ubvip1688.com/ublive/01381026e269770f.m3u8
-靖天綜合,http://www.ubvip1688.com/ublive/fdb08709614ce1ba.m3u8
-靖天歡樂,http://www.ubvip1688.com/ublive/ce847462be0bdc5c.m3u8
+台灣,#genre#
+民視,rtmp://59.124.75.138/sat/tv051
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+台視,rtmp://59.124.75.157/sat/tv071
+中視,rtmp://59.124.75.157/sat/tv091
+華視,rtmp://59.124.75.157/sat/tv111
+三立台湾,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+三立都会,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+衛視中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw#http://212.95.133.2/tv/js.php?id=31
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+TVBS歡樂,rtmp://59.124.75.157/sat/tv421
+原住民頻道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來日本,rtmp://59.124.75.157/sat/tv771
+東森戲劇台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+中天娛樂,http://60.250.91.85:8585/.m3u8
+MoMo綜合台,rtmp://59.124.75.138/sat/tv761
+MoMo綜合台,rtmp://59.124.75.138:1935/sat/tv761
 
-台灣频道-2,#genre#
-卫视中文台,http://jiekou.gq/zhibo/api.php?id=12
-纬来日本台,http://jiekou.gq/zhibo/api.php?id=13
-纬来体育台,http://jiekou.gq/zhibo/api.php?id=14
-龙祥时代,http://jiekou.gq/zhibo/api.php?id=15
-龙祥时代,http://jiekou.gq/zhibo/api.php?id=16
-天映频道,http://jiekou.gq/zhibo/api.php?id=17
-SPO TV,http://jiekou.gq/zhibo/api.php?id=18
-八大娱乐台,http://jiekou.gq/zhibo/api.php?id=19
-八大第一台,http://jiekou.gq/zhibo/api.php?id=20
-八大综合台,http://jiekou.gq/zhibo/api.php?id=21
-三立台湾台,http://jiekou.gq/zhibo/api.php?
-三立都会台,http://jiekou.gq/zhibo/api.php?id=23
-东森洋片台,http://jiekou.gq/zhibo/api.php?id=24
-东森电影台,http://jiekou.gq/zhibo/api.php?id=25
-东森幼幼台,http://jiekou.gq/zhibo/api.php?id=26
-东森综合台,http://jiekou.gq/zhibo/api.php?id=27
-壹电视新闻台,http://jiekou.gq/zhibo/api.php?id=28
-壹电视综合台,http://jiekou.gq/zhibo/api.php?id=29
-TVBS欢乐台,http://jiekou.gq/zhibo/api.php?id=30
-TVBS综合台,http://jiekou.gq/zhibo/api.php?id=31
-中天亚洲台,http://jiekou.gq/zhibo/api.php?id=33
-中天综合台,http://jiekou.gq/zhibo/api.php?id=35
-中天新闻台,http://jiekou.gq/zhibo/api.php?id=36
-台湾公视,http://jiekou.gq/zhibo/api.php?id=37
-台湾民视,http://jiekou.gq/zhibo/api.php?id=38
-台湾台视,http://jiekou.gq/zhibo/api.php?id=39
-华视,http://jiekou.gq/zhibo/api.php?id=40
-中视,http://jiekou.gq/zhibo/api.php?id=41
-寰宇台湾,http://jiekou.gq/zhibo/api.php?id=42
-寰宇新闻,http://jiekou.gq/zhibo/api.php?id=43
-民视新闻台,http://jiekou.gq/zhibo/api.php?id=47
-非凡新闻台,http://jiekou.gq/zhibo/api.php?id=48
-年代新闻台,http://jiekou.gq/zhibo/api.php?id=49
-纬来电影台,http://jiekou.gq/zhibo/api.php?id=50
-三立新闻台,http://jiekou.gq/zhibo/api.php?id=51
-东森新闻台,http://jiekou.gq/zhibo/api.php?id=52
-国家地理,http://jiekou.gq/zhibo/api.php?id=54
-大爱一台,http://jiekou.gq/zhibo/api.php?id=69
-大爱二台,http://jiekou.gq/zhibo/api.php?id=70
-GoodTV,http://jiekou.gq/zhibo/api.php?id=71
-CNBC新闻/好莱坞电影,http://jiekou.gq/zhibo/api.php?id=72
-原住民电视,http://jiekou.gq/zhibo/api.php?id=73
-阳光卫视,http://jiekou.gq/zhibo/api.php?id=74
-亚洲新闻,http://jiekou.gq/zhibo/api.php?id=75
-彭博财经,http://jiekou.gq/zhibo/api.php?id=76
-点掌财经,http://jiekou.gq/zhibo/api.php?id=77
-东森幼幼台,http://jiekou.gq/zhibo/api.php?id=78
-中台湾生活网,http://jiekou.gq/zhibo/api.php?id=79
-中天娱乐台,http://jiekou.gq/zhibo/api.php?id=80#http://jiekou.gq/zhibo/api.php?id=34
-龙华卡通,http://jiekou.gq/zhibo/api.php?id=81
-龙华日韩,http://jiekou.gq/zhibo/api.php?id=82
-GoodTV新视野,http://jiekou.gq/zhibo/api.php?id=83
-GoodTV道在人间,http://jiekou.gq/zhibo/api.php?id=84
-亚美卫视,http://jiekou.gq/zhibo/api.php?id=85
-NHK·综合,http://jiekou.gq/zhibo/api.php?id=86
-香港卫视,http://jiekou.gq/zhibo/api.php?id=87
-大立电视,http://jiekou.gq/zhibo/api.php?id=88
-唯心电视,http://jiekou.gq/zhibo/api.php?id=89
-希望电视,http://jiekou.gq/zhibo/api.php?id=90
-半岛电视,http://jiekou.gq/zhibo/api.php?id=91
-半岛新闻,http://jiekou.gq/zhibo/api.php?id=92
-TVB1nv,http://jiekou.gq/zhibo/api.php?id=93
-东森新闻台,http://jiekou.gq/zhibo/api.php?id=94
-TVBS新闻台,http://jiekou.gq/zhibo/api.php?id=98
-民视新闻台,http://jiekou.gq/zhibo/api.php?id=95
-三立财经新闻台,http://jiekou.gq/zhibo/api.php?id=96
-三立新闻台,http://jiekou.gq/zhibo/api.php?id=97
-中天新闻,http://jiekou.gq/zhibo/api.php?id=99
-龙祥时代,http://jiekou.gq/zhibo/api.php?id=101
-霹靂台灣台,http://jiekou.gq/zhibo/api.php?id=107
+台灣新聞,#genre#
+台視新聞,http://p06.iptv2asia.com:18888/http/004
+民視新聞,mitv://ns2.hellotvvod.com:9906/0b0cb3a6e5534a4c8c32eada573dcbd7
+三立新聞,http://211.23.114.106:8643/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立Live新聞,http://hh0808.hk3.20212021.ml:80/iptv.php?tid=gt&id=57
+三立Live新聞,http://xztv.putids.com:80/user/dl/llllwww.php?id=48
+三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+三立INEWS,http://dm1133.kglink.xyz/live/10.flv
+三立INEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立財經新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8
+三立財經新聞台,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立直播新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中天新聞,http://211.23.114.106:8641/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+東森新聞,http://211.23.114.106:8640/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+TVBS新聞,rtmp://59.124.75.157/sat/tv551
+壹新聞,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+壹新聞,http://xztv.putids.com:80/user/dl/llllwww.php?id=57
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+年代新聞,http://211.23.114.106:8617/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+東森財經新聞,rtmp://59.124.75.138:1935/sat/tv571
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
+亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
+台灣動畫,#genre#
+東森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
+海綿寶寶 ,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
+貓和老鼠 ,http://txtest-xp2p.p2p.huya.com/1099531768063-1099531768063-86501873997053952-2199063659582-10057-A-0-1.xs
+成龍歷險記 ,http://txtest-xp2p.p2p.huya.com/1099531768061-1099531768061-86501865407119360-2199063659578-10057-A-0-1.xs
+哆啦A夢 ,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
+蠟筆小新 ,http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+貓和老鼠 ,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+成龍歷險記 ,http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+路飛海盜 ,http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+爆笑蟲子 ,http://txtest-xp2p.p2p.huya.com/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
+中華小當家 ,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
+小品 ,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+獅子王國 ,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+倒霉特熊 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+反轉星球 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+雲朵媽媽 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊大熊二 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大過年 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+豬俠英雄 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 成人频道,#genre#
 NYX MEDIA4,http://195.154.231.101:8080/live/pi2021001/456321/369.m3u8
