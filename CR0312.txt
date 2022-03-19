@@ -1,4 +1,4 @@
-港澳台电視頻道(1),#genre#
+港澳台(1),#genre#
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
@@ -155,7 +155,7 @@ BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18
 哈哈炫动,http://117.148.179.36/PLTV/88888888/224/3221229065/index.m3u8
 法治天地,http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
 
-港澳台电視頻道(2),#genre#
+港澳台(2),#genre#
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
 J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
@@ -345,7 +345,7 @@ FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 
-港澳台电視頻道(3),#genre#
+港澳台(3),#genre#
 民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -403,7 +403,7 @@ TV1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playl
 TV8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8
 
 
-港澳台电視頻道(4),#genre#
+港澳台(4),#genre#
 民視,rtmp://59.124.75.138/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 台視,rtmp://59.124.75.157/sat/tv071
@@ -473,7 +473,7 @@ momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 
-兒童卡通動畫,#genre#
+兒童卡通,#genre#
 東森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 哆啦A夢,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
