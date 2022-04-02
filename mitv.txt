@@ -455,7 +455,7 @@ beINSports3,P2p://ns2.hellotvvod.com:9906/66d53b4e1827499483f14c21eda95773.ts
 越南Mnet,P2p://ns2.hellotvvod.com:9906/46795795b36a4e4eb3129587704c6416.ts
 印度IndiaTV,P2p://ns2.hellotvvod.com:9906/614c1ecb3bb8433fb97703949fcf3b7c.ts
 ROCKEntertainment,P2p://ns2.hellotvvod.com:9906/071a37fd0a194b279724bff24fa4f057.ts
-Pandora_5300,#genre#
+Pandora,#genre#
 香蕉台,P2p://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts
 惊艳电影台,P2p://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178.ts
 潘朵啦粉虹台,P2p://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba.ts
