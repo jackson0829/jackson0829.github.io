@@ -45,8 +45,13 @@ TLC旅游生活频道,P2p://ns2.hellotvvod.com:9906/df3c8d2c1a38422abb36710efd9a
 亚洲旅游台,P2p://ns2.hellotvvod.com:9906/43b25dee86ca4309a8c7fd22e723cf1b.ts
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/c3c6af00613e456eac023ab2f1cbbe7c.ts
 粤语片台,P2p://ns2.hellotvvod.com:9906/54189aa34eb2442ab0e509336d0fe6bd.ts
+佛卫慈悲台,P2p://ns2.hellotvvod.com:9906/3c8a3ea66be84c52b0babe5fcb792168.ts
+
+澳门特区,#genre#
 澳亚卫视,P2p://ns2.hellotvvod.com:9906/d0bdd6dd2e3747ed9611bc286a157d4f.ts
 澳门莲花,P2p://ns2.hellotvvod.com:9906/c55c6ac182ab4cb38992449f6d155d81.ts
+
+
 台湾地区,#genre#
 TVBS,P2p://ns2.hellotvvod.com:9906/d1bdb5f9c9254278b6d11b52ed1ff945.ts
 TVBS欢乐台,P2p://ns2.hellotvvod.com:9906/521f6d66cd58414ab968ddc75d7dbc2d.ts
@@ -140,8 +145,8 @@ ELEVEN体育PLUS,P2p://ns2.hellotvvod.com:9906/90ca1fb937da4b079e2e7ffccc5e760c.
 博斯无限二台,P2p://ns2.hellotvvod.com:9906/89bd015ae4764af2a79b9cca01080c51.ts
 博斯无限台,P2p://ns2.hellotvvod.com:9906/060ce59f1ecf4882a9dadff5f432c19f.ts
 博斯运动,P2p://ns2.hellotvvod.com:9906/f8422d3da42f4f508ee5060ebff19bd0.ts
-佛卫慈悲台,P2p://ns2.hellotvvod.com:9906/3c8a3ea66be84c52b0babe5fcb792168.ts
 博斯运动二台,P2p://ns2.hellotvvod.com:9906/c762cbc365414f5b879bace32c5acb2a.ts
+
 新 加 坡,#genre# 
 Mediacorp5,P2p://ns2.hellotvvod.com:9906/29e504fb771f4d41b6ae96bb36b8c49a.ts
 Mediacorp8,P2p://ns2.hellotvvod.com:9906/a2adeded9c5d40a9bbb70b079b77d2df.ts
@@ -149,6 +154,7 @@ MediacorpU,P2p://ns2.hellotvvod.com:9906/75b72132e16d427b9f2f01541b89b949.ts
 CNA,P2p://ns2.hellotvvod.com:9906/ad62d84a2e734a4dbcc4b620100033e4.ts
 Vasantham,P2p://ns2.hellotvvod.com:9906/6009aa7c0d3644c4ac34bc2562439077.ts
 Suria,P2p://ns2.hellotvvod.com:9906/bd1ce1187ca3422eb25def4694662de4.ts
+
 马来西亚,#genre#
 8TV,P2p://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
 Al-Hijrah,P2p://ns2.hellotvvod.com:9906/1645da922771498cb69e845778fadb33.ts
@@ -235,6 +241,7 @@ VoiceTV,P2p://ns2.hellotvvod.com:9906/68b78f0f3d6a4e22a2da0054976c7c58.ts
 WorkpointTV,P2p://ns2.hellotvvod.com:9906/481b2da770b8484ab291f2b8a86abff9.ts
 ZeeNung,P2p://ns2.hellotvvod.com:9906/31330af0f077473ab446024e786ef2fe.ts
 ZeeTamil,P2p://ns2.hellotvvod.com:9906/13e14e9cdec641398889dca8bc6694e6.ts
+
 日　　本,#genre#
 BS-1,P2p://ns2.hellotvvod.com:9906/8d0806356f5c4764bb515340d9a302ed.ts
 BS11,P2p://ns2.hellotvvod.com:9906/fa35109d8068440f892fd7f66b06c373.ts
@@ -283,6 +290,36 @@ KBSDrama,P2p://ns2.hellotvvod.com:9906/ddd29fb309f94b36b7c6a5a4c241b898.ts
 KBSJoy,P2p://ns2.hellotvvod.com:9906/d920db9ae2684c619ea5b2e09845376c.ts
 KBSWorld,P2p://ns2.hellotvvod.com:9906/9360874ebb1f4082896589c164cba811.ts
 KBS京都,P2p://ns2.hellotvvod.com:9906/e73b254cd5a14e9896d3a475b1d0a57f.ts
+HD,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+HD,http://wliveout.kollus.com/shinsegaetvshopping_h0000k/index.m3u8
+KCTV  CH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+
+mgugaklive,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+NBSKoreaAgriculturalBroad,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Biz720*400720*400[720*400],http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
+SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
+SBSTJB,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+TJBISBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+НТВ+ Спорт,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+머니투데이방송,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+plus3,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+Bright Smart Channel (Opt-2),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 世界新闻,#genre#
 ABCAustralia,P2p://ns2.hellotvvod.com:9906/89ad8233011348deb7c6990dd601db4b.ts
 半岛国际新闻台,P2p://ns2.hellotvvod.com:9906/fa8b443dfb8343ec8115e6b415218ca2.ts
@@ -305,6 +342,7 @@ FoxNews,P2p://ns2.hellotvvod.com:9906/a38c7d4ad78f4f888628b30efc7ae213.ts
 France24,P2p://ns2.hellotvvod.com:9906/03003d73acfe4050973420d63eb74f74.ts
 News1,P2p://ns2.hellotvvod.com:9906/29322c176c684e04b5159b0c3bfcdb64.ts
 SkyNews,P2p://ns2.hellotvvod.com:9906/57df836f89bb496481845cdd638301af.ts
+
 地理探索,#genre#
 BBCEarth,P2p://ns2.hellotvvod.com:9906/013e068b13b74a7eb8294fdd371cd1d0.ts
 BBCLifestyle,P2p://ns2.hellotvvod.com:9906/8433f4f630b44424a54d2c96339d4288.ts
@@ -327,6 +365,7 @@ OUTDOOR,P2p://ns2.hellotvvod.com:9906/16c810c52f0241da86d0a6af3c2902a6.ts
 FashionTV,P2p://ns2.hellotvvod.com:9906/1425348e0a9f4fe9abfb4931c76a58f7.ts
 Discovery,P2p://ns2.hellotvvod.com:9906/4c71eae98a6e4a909e632a0a6ab99b3d.ts
 CI 罪案侦查频道,P2p://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468.ts
+
 电影娱乐,#genre#
 tvN,P2p://ns2.hellotvvod.com:9906/d861d8edb38d4235a9ae26851f2f4f29.ts
 tvNMoviesHD,P2p://ns2.hellotvvod.com:9906/d5e30882d3e54bc59f0334727e42dd7b.ts
@@ -382,6 +421,7 @@ YTN,P2p://ns2.hellotvvod.com:9906/9e71fc75be4f42f58e6a8596457811d7.ts
 纬来戏剧台,P2p://ns2.hellotvvod.com:9906/65df73222bb4432483fd1ac2820d5b57.ts
 纬来育乐台,P2p://ns2.hellotvvod.com:9906/0fd41b1db97244be9f875bac0ba93b49.ts
 纬来综合台,P2p://ns2.hellotvvod.com:9906/d79e6259d1b5489d95b56a7398e52173.ts
+
 少儿卡通,#genre#
 BabyTV,P2p://ns2.hellotvvod.com:9906/3789e26669cf4c66938c6b64c6cde18f.ts
 CN卡通频道,P2p://ns2.hellotvvod.com:9906/07009961cba04ec79ed8dd20ca7b360e.ts
@@ -396,6 +436,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/88994f34b2ff49e5a63925f073639db2.ts
 Disney,P2p://ns2.hellotvvod.com:9906/55aafd2acd4246e7aa9c538789742293.ts
 DREAMWORKS,P2p://ns2.hellotvvod.com:9906/39a38457b5cb403c87bade9887fb3b04.ts
 HandsUp,P2p://ns2.hellotvvod.com:9906/be7e73dc6bdc433b8ff26536a90b1d1e.ts
+
 居家&旅游,#genre#
 TravelChannel,P2p://ns2.hellotvvod.com:9906/e198a9c5efab4e39939bd535ffd1f59b.ts
 EVE,P2p://ns2.hellotvvod.com:9906/8f9ece269a2c4db7a33688e7589f5812.ts
@@ -403,6 +444,8 @@ EYETV旅游台,P2p://ns2.hellotvvod.com:9906/6e51f164a666426c943c67f8a91935cd.ts
 EYETV戏剧台,P2p://ns2.hellotvvod.com:9906/d37e5f14233e4684b2ddb0d64a16f9b1.ts
 HGTV居家乐活,P2p://ns2.hellotvvod.com:9906/f242fcf6e5844d9dacdc24348652192b.ts
 Lifetime,P2p://ns2.hellotvvod.com:9906/48ea021864e343eb8d992ff7c19e4c49.ts
+
+
 世界音乐,#genre#
 MTV,P2p://ns2.hellotvvod.com:9906/0fe81a19250145f89bd6ebde188c0047.ts
 MTVLive,P2p://ns2.hellotvvod.com:9906/c436aba60d1442a9a4e73c6accaac6c2.ts
@@ -410,9 +453,11 @@ MusicJapanTV,P2p://ns2.hellotvvod.com:9906/337f5ef562e94bdabcb131ac25de5346.ts
 CLASSICA古典乐,P2p://ns2.hellotvvod.com:9906/308680a1d8814388a0bd9197f7f77e7a.ts
 CMusic,P2p://ns2.hellotvvod.com:9906/1a39d947774d4bb68d08934db13253e2.ts
 SunMusic,P2p://ns2.hellotvvod.com:9906/aa7f804d45594ab9a742e022db703a5a.ts
+
 体育电竞,#genre#
 eGGNetwork,P2p://ns2.hellotvvod.com:9906/1cce832b918d4f64b5fa49795cfbf1ef.ts
 ROCKExtreme,P2p://ns2.hellotvvod.com:9906/57cc8c82a13f4e31bd85f5014ff780c3.ts
+
 MEZZOLIVEHD,P2p://ns2.hellotvvod.com:9906/2ea0a50d4fb54f6db1335e9cdad0287d.ts
 Z频道,P2p://ns2.hellotvvod.com:9906/52463fcc2bbc4c5999e0024dec3daa10.ts
 KIX,P2p://ns2.hellotvvod.com:9906/3ae28b94fcf2497e84083fec74e1b9bb.ts
@@ -449,12 +494,15 @@ TrueSport7,P2p://ns2.hellotvvod.com:9906/83b22d1b4ada4d7d9bff27d24be00c91.ts
 beINSports,P2p://ns2.hellotvvod.com:9906/38daba85641241c98b9029fe4f1c0df1.ts
 beINSports2,P2p://ns2.hellotvvod.com:9906/4bad4a2b07a04c23be4c0c2184696272.ts
 beINSports3,P2p://ns2.hellotvvod.com:9906/66d53b4e1827499483f14c21eda95773.ts
+
 其　　它,#genre#
 印尼Indosiar,P2p://ns2.hellotvvod.com:9906/f5c3bc87db244d7da13661a6f0ed7a86.ts
 印尼MakkalTV,P2p://ns2.hellotvvod.com:9906/a188f746775c4c8e88150558a9cd3ed6.ts
 越南Mnet,P2p://ns2.hellotvvod.com:9906/46795795b36a4e4eb3129587704c6416.ts
 印度IndiaTV,P2p://ns2.hellotvvod.com:9906/614c1ecb3bb8433fb97703949fcf3b7c.ts
 ROCKEntertainment,P2p://ns2.hellotvvod.com:9906/071a37fd0a194b279724bff24fa4f057.ts
+
+
 Pandora,#genre#
 香蕉台,P2p://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts
 惊艳电影台,P2p://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178.ts
@@ -469,3 +517,5 @@ HAPPY,P2p://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts
 HOT,P2p://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa.ts
 LOOKTV,P2p://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts
 PLAYBOY,P2p://ns2.hellotvvod.com:9906/5a627ba45e9542df8ec11d690d111ad0.ts
+
+
