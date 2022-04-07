@@ -624,56 +624,6 @@ CHC高清电影,http://111.20.106.16:6610/yinhe/2/ch00000090990000002065/index.m
 熊大過年 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 豬俠英雄 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
-成人频道,#genre#
-NYX MEDIA4,http://195.154.231.101:8080/live/pi2021001/456321/369.m3u8
-NYX MEDIA3,http://195.154.231.101:8080/live/pi2021001/456321/368.m3u8
-iBiza Media2,http://195.154.231.101:8080/live/pi2021001/456321/367.m3u8
-iBiza Media,http://195.154.231.101:8080/live/pi2021001/456321/366.m3u8
-NYX MEDIA2,http://195.154.231.101:8080/live/pi2021001/456321/365.m3u8
-NYX MEDIA,http://195.154.231.101:8080/live/pi2021001/456321/364.m3u8
-素人,http://195.154.231.101:8080/live/pi2021001/456321/363.m3u8
-HOT,http://195.154.231.101:8080/live/pi2021001/456321/362.m3u8
-红松2,http://195.154.231.101:8080/live/pi2021001/456321/361.m3u8
-红松,http://195.154.231.101:8080/live/pi2021001/456321/360.m3u8
-NYX MEDIA4,http://api.hstv.me:8080/live/pi2021001/456321/369.m3u8
-NYX MEDIA3,http://api.hstv.me:8080/live/pi2021001/456321/368.m3u8
-iBiza Media2,http://api.hstv.me:8080/live/pi2021001/456321/367.m3u8
-iBiza Media,http://api.hstv.me:8080/live/pi2021001/456321/366.m3u8
-NYX MEDIA2,http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8
-NYX MEDIA,http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8
-素人,http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8
-HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
-红松2,http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8
-红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8
-AV女王,rtmp://202.39.64.234:1936/live/964
-人妻不倫,rtmp://202.39.64.234:1936/live/636
-水多多,rtmp://202.39.64.234:1936/live/968
-近親相姦,rtmp://202.39.64.234:1937/live/967
-彩虹通道,rtmp://202.39.64.234:1937/live/944
-PLAYBOY,rtmp://202.39.64.234:1937/live/943
-KMP,rtmp://202.39.64.234:1937/live/942
-午夜藍,rtmp://202.39.64.234:1937/live/945
-櫻桃,rtmp://202.39.64.234:1937/live/947
-大學女援交妹,rtmp://202.39.64.234:1937/live/966
-做愛輸入,rtmp://202.39.64.234:1938/live/949
-Hot,rtmp://125.227.196.250:1935/live/hot
-Happy,rtmp://125.227.196.250:1935/live/HAPPY
-松視1台,rtmp://125.227.196.250:1935/live/PineVision1
-松視2台,rtmp://125.227.196.250:1935/live/PineVision2
-松視3台,rtmp://125.227.196.250:1935/live/PineVision3
-潘朵啦高畫質粉紅台,rtmp://125.227.196.250:1935/live/PandoraPink
-潘朵啦高畫質玩美台,rtmp://125.227.196.250:1935/live/PandoraPlays
-JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
-驚豔成人電影台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
-香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
-K 頻道,rtmp://125.227.196.250:1935/live/Kchannel
-彩虹e台,rtmp://125.227.196.250:1935/live/Rainbowmovie
-彩虹電影台,rtmp://118.163.221.79:1936/live/RainbowE
-Look TV,rtmp://118.163.221.79:1936/live/LookHD
-潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-
 好听歌曲,#genre#
 好听歌曲1,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
 好听歌曲2,https://vd3.bdstatic.com/mda-nau8s7vhuzc0yk80/480p/h264_delogo/1643441110772997050/mda-nau8s7vhuzc0yk80.mp4
