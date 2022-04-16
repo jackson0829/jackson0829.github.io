@@ -244,46 +244,47 @@ ELEVEN體育二台,rtmp://59.124.75.138/sat/tv741
 東森財經,rtmp://59.124.75.138/sat/tv571
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
 
-必勝影視,#genre#
-VB翡翠台,http://liucc.usa7.20212021.ga/ns.php?id=78
-有線新聞台,http://liucc.usa7.20212021.ga/ns.php?id=62
-有線18台,http://liucc.usa7.20212021.ga/ns.php?id=59
-香港開電視,http://liucc.usa7.20212021.ga/ns.php?id=95
-澳視高清台,http://liucc.usa7.20212021.ga/ns.php?id=52
-ViuTv,http://liucc.usa7.20212021.ga/ns.php?id=94
-澳視體育台,http://liucc.usa7.20212021.ga/ns.php?id=50
-非凡新聞,http://liucc.usa7.20212021.ga/ns.php?id=6
-澳門葡語,http://liucc.usa7.20212021.ga/ns.php?id=51
-年代新聞,http://liucc.usa7.20212021.ga/ns.php?id=7
-RHK32,http://liucc.usa7.20212021.ga/ns.php?id=97
-無線財經台,http://liucc.usa7.20212021.ga/ns.php?id=79
-衛視中文,http://liucc.usa7.20212021.ga/ns.php?id=4
-緯來電影,http://liucc.usa7.20212021.ga/ns.php?id=9
-八大娛樂台,http://liucc.usa7.20212021.ga/ns.php?id=20
-緯來體育,http://liucc.usa7.20212021.ga/ns.php?id=11
-蓮花衛視,http://liucc.usa7.20212021.ga/ns.php?id=88
-中視新聞,http://liucc.usa7.20212021.ga/ns.php?id=19
-八大第一台,http://liucc.usa7.20212021.ga/ns.php?id=21
-三立台灣,http://liucc.usa7.20212021.ga/ns.php?id=24
-三立都會,http://liucc.usa7.20212021.ga/ns.php?id=25
-緯來日本,http://liucc.usa7.20212021.ga/ns.php?id=10
-三立新聞,http://liucc.usa7.20212021.ga/ns.php?id=26
-東森綜合,http://liucc.usa7.20212021.ga/ns.php?id=32
-東森新聞,http://liucc.usa7.20212021.ga/ns.php?id=33
-TVBS,http://liucc.usa7.20212021.ga/ns.php?id=37
-TVBS新聞,http://liucc.usa7.20212021.ga/ns.php?id=38
-有線好萊塢電影,http://liucc.usa7.20212021.ga/ns.php?id=54
-龍祥時代,http://liucc.usa7.20212021.ga/ns.php?id=13
-中天娛樂,http://liucc.usa7.20212021.ga/ns.php?id=40
-中天綜合,http://liucc.usa7.20212021.ga/ns.php?id=41
-中天新聞,http://liucc.usa7.20212021.ga/ns.php?id=42
-民視,http://liucc.usa7.20212021.ga/ns.php?id=44
-緯來綜合,http://liucc.usa7.20212021.ga/ns.php?id=12
-華視,http://liucc.usa7.20212021.ga/ns.php?id=46
-中視,http://liucc.usa7.20212021.ga/ns.php?id=47
-台視,http://liucc.usa7.20212021.ga/ns.php?id=45
-壹電視新聞台,http://liucc.usa7.20212021.ga/ns.php?id=34
-衛視電影台,http://liucc.usa7.20212021.ga/ns.php?id=16
+太陽直播太陽直播,#genre#
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+民視新聞 HD,http://seb.sason.top/ptv/ftv.php?id=ms
+東森新聞 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+台視新聞 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+東森財經新聞 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立財經新聞 HD,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
+民視第一 HD,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣 HD,http://seb.sason.top/ptv/ftv.php?id=tw
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+MoMo綜合台,rtmp://59.124.75.138/sat/tv761
+HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+FOX電影頻道,http://125.227.210.37:13498/VideoInput/play.ts
+CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+東方影視FHD,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+極限電影台,http://125.227.210.37:19020/VideoInput/play.ts
+NewTV動作電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV搏擊運動,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+eleven1,http://125.227.210.37:10677/VideoInput/play.ts
+Discovery,http://125.227.210.37:10388/VideoInput/play.ts
+國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
+緯來體育台 HD,http://125.227.210.37:18358/VideoInput/play.ts
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+世新綜合台,http://61.58.60.230:9319/live/49.m3u8
+CNBC,http://125.227.210.37:16415/VideoInput/play.ts
+NEWS,http://125.227.210.37:18184/VideoInput/play.ts
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc
+NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK Chinese Vision,https://nhkw-zh-
 
 兒童卡通,#genre#
 東森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
