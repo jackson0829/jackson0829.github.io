@@ -55,7 +55,6 @@ CN卡通频道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=md272f875bb69
 三立台湾台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立都会台,http://50.7.218.42:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
 三立综合台,http://50.7.218.42:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-
 东森综合台,http://50.7.218.42:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 中天综合台,http://50.7.218.42:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天娱乐台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
