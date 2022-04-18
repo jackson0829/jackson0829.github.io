@@ -1,5 +1,6 @@
 CR0312N2,#genre#
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+寰宇新闻台,P2p://51.81.90.178:9906/b48fb293ebd749ff8391f43399d65429.ts
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
