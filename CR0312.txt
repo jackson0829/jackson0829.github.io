@@ -85,6 +85,58 @@ BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 时尚频道,http://50.7.218.42:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d
 
+0418有效源,#genre#
+民視HD[1280*720],rtmp://59.124.75.138/sat/tv051
+民視HD[1280*720],rtmp://219.80.97.35/sat/tv051
+台視HD[1280*720],rtmp://59.124.75.138/sat/tv071
+台視HD[1280*720],rtmp://219.80.97.35/sat/tv071
+中視HD[1280*720],rtmp://59.124.75.138/sat/tv091
+中視HD[1280*720],rtmp://219.80.97.35/sat/tv091
+華視HD[1280*720],rtmp://59.124.75.138/sat/tv111
+華視HD[1280*720],rtmp://219.80.97.35/sat/tv111
+東森超視[1280*720],rtmp://59.124.75.138/sat/tv331
+東森超視[1280*720],rtmp://219.80.97.35/sat/tv331
+TVBS歡樂[1280*720],rtmp://59.124.75.138/sat/tv421
+TVBS歡樂[1280*720],rtmp://219.80.97.35/sat/tv421
+TVBS新聞[1280*720],rtmp://59.124.75.138/sat/tv551
+TVBS新聞[1280*720],rtmp://219.80.97.35/sat/tv551
+東森財經[1280*720],rtmp://59.124.75.138/sat/tv571
+東森財經[1280*720],rtmp://219.80.97.35/sat/tv571
+緯來育樂[1280*720],rtmp://59.124.75.138/sat/tv701
+緯來育樂[1280*720],rtmp://219.80.97.35/sat/tv701
+緯來體育[1280*720],rtmp://59.124.75.138/sat/tv721
+緯來體育[1280*720],rtmp://219.80.97.35/sat/tv721
+ELEVEN 1[1280*720],rtmp://59.124.75.138/sat/tv731
+ELEVEN 1[1280*720],rtmp://219.80.97.35/sat/tv731
+ELEVEN 2[1280*720],rtmp://59.124.75.138/sat/tv741
+ELEVEN 2[1280*720],rtmp://219.80.97.35/sat/tv741
+MOMO綜合[1280*720],rtmp://59.124.75.138/sat/tv761
+MOMO綜合[1280*720],rtmp://219.80.97.35/sat/tv761
+緯來日本[1280*720],rtmp://59.124.75.138/sat/tv771
+緯來日本[1280*720],rtmp://219.80.97.35/sat/tv771
+三立台灣[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+三立都會[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+東森戲劇[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+衛視中文[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+中台灣生活[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+MAV LIFE[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+海豚綜合[1920*1080],http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+智林體育[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+南投新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+
+P2P有效源,#genre#
+寰宇新闻台,P2p://51.81.90.178:9906/b48fb293ebd749ff8391f43399d65429.ts
+私人影院,p2p://45.92.126.18:9906/612b76530005bddc0079e572c66e5249.ts
+龍華日韓,p2p://45.92.126.18:9906/622d8f58000746a019319bab97a3bae9.ts
+龍華電影,p2p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts 
+龍華洋片,p2p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts 
+龍華戲劇,p2p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
+天映经典台/CCM,tvbus://6r1Pjz22LkaguGSR3cpgRHWoDfCgJKT5ApuDnEFYNd46p7hu8y
+AMC,tvbus://8gEJzUxNCYWfRh3kUCBAmwG65UfNcugqPHz57TUyxRVhUvEjGR
+好莱坞电影/HOLLYWOOD,tvbus://87J4R9Yr1ZrYh6XB9LiWbKKaqvEc537gE3jihnAcwRkAAiiBMf
+
 台灣頻道(A),#genre#
 民視,rtmp://59.124.75.138/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
