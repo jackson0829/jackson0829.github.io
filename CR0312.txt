@@ -1,6 +1,5 @@
 CR0312N2,#genre#
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-寰宇新闻台,P2p://51.81.90.178:9906/b48fb293ebd749ff8391f43399d65429.ts
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
@@ -125,17 +124,6 @@ MAV LIFE[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunkli
 南投新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-
-P2P有效源,#genre#
-寰宇新闻台,P2p://51.81.90.178:9906/b48fb293ebd749ff8391f43399d65429.ts
-私人影院,p2p://45.92.126.18:9906/612b76530005bddc0079e572c66e5249.ts
-龍華日韓,p2p://45.92.126.18:9906/622d8f58000746a019319bab97a3bae9.ts
-龍華電影,p2p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts 
-龍華洋片,p2p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts 
-龍華戲劇,p2p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
-天映经典台/CCM,tvbus://6r1Pjz22LkaguGSR3cpgRHWoDfCgJKT5ApuDnEFYNd46p7hu8y
-AMC,tvbus://8gEJzUxNCYWfRh3kUCBAmwG65UfNcugqPHz57TUyxRVhUvEjGR
-好莱坞电影/HOLLYWOOD,tvbus://87J4R9Yr1ZrYh6XB9LiWbKKaqvEc537gE3jihnAcwRkAAiiBMf
 
 台灣頻道(A),#genre#
 民視,rtmp://59.124.75.138/sat/tv051
