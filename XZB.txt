@@ -17,8 +17,6 @@ TVBS欢乐台,rtmp://219.80.97.35/sat/tv421
 momo综合,rtmp://219.80.97.35/sat/tv761
 ELEVEN1,rtmp://219.80.97.35/sat/tv731
 ELEVEN2,rtmp://219.80.97.35/sat/tv741
-
-50.7,#genre# 
 WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 无线新闻台,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 无线财经台,http://50.7.218.42:8278/j5_twn/playlist.m3u8?tid=m3b7232941813&ct=18336&tsum=2652e4efd153feaf5e425047082469ea
