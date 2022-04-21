@@ -124,24 +124,23 @@ MAV LIFE[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunkli
 南投新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 雲林新聞[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-东森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
-卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
-Discovery,http://125.227.210.37:10388/VideoInput/play.ts
-CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
-国家地理,http://125.227.210.37:16408/VideoInput/play.ts
-年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
-迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
-eleven1,http://125.227.210.37:10677/VideoInput/play.ts
-三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
-中天娱乐,http://125.227.210.37:15796/VideoInput/play.ts
-非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
-TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
-东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
-CNBC,http://125.227.210.37:16415/VideoInput/play.ts
-NEWS,http://125.227.210.37:18184/VideoInput/play.ts
-FOX频道,http://125.227.210.37:13498/VideoInput/play.ts
-纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
+三立新聞[1920*1080],http://125.227.210.37:15589/VideoInput/play.ts
+三立台灣[1920*1080],http://125.227.210.37:15714/VideoInput/play.ts
+中天娛樂[1920*1080],http://125.227.210.37:15796/VideoInput/play.ts
+TVBS新聞[1920*1080],http://125.227.210.37:16329/VideoInput/play.ts
+非凡新聞[1920*1080],http://125.227.210.37:15078/VideoInput/play.ts
+HBO HD[1920*1080],http://125.227.210.37:16027/VideoInput/play.ts
+國家地理[1920*1080],http://125.227.210.37:16408/VideoInput/play.ts
+CN卡通[1920*1080],http://125.227.210.37:16671/VideoInput/play.ts
+BBC[1920*1080],http://125.227.210.37:10246/VideoInput/play.ts
+Discovery[1920*1080],http://125.227.210.37:10388/VideoInput/play.ts
+Eleven-1[1280*720],http://125.227.210.37:10677/VideoInput/play.ts
+CNBC[1920*1080],http://125.227.210.37:16415/VideoInput/play.ts
+CNA[1920*1080],http://125.227.210.37:17524/VideoInput/play.ts
+緯來體育[1920*1080],http://125.227.210.37:18358/VideoInput/play.ts
+StarWorld電影[1920*1080],http://125.227.210.37:13498/VideoInput/play.ts
+FoodNetwork[1920*1080],http://125.227.210.37:14250/VideoInput/play.ts
+CNN[1920*1080],http://125.227.210.37:10797/VideoInput/play.ts
 
 台灣頻道(A),#genre#
 民視,rtmp://59.124.75.138/sat/tv051
@@ -1333,8 +1332,13 @@ C52,https://video.caomin5168.com/20190522/9tGx7UNB/index.m3u8
 C53,https://video.caomin5168.com/20190508/hy4joauG/index.m3u8
 
 
-
-
+成人▪电影,#genre#
+香蕉台[1920*1080],http://125.227.210.37:11055/VideoInput/play.ts
+成人台(1)[1920*1080],http://125.227.210.37:13420/VideoInput/play.ts
+成人台(2)[873*480],http://125.227.210.37:14583/VideoInput/play.ts
+成人台(3)[1920*1080],http://125.227.210.37:18685/VideoInput/play.ts
+成人台(4)[1920*1080],http://125.227.210.37:18789/VideoInput/play.ts
+極限電影[1920*1080],http://125.227.210.37:19020/VideoInput/play.ts
 松視➊臺備,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
 松視➊臺備,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
 松視➊臺備,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
@@ -1401,10 +1405,7 @@ LAA-0004性爱瑜伽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe
 大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 美丽的奴隶,https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
 
-
-
 麻豆▪电影,#genre#
-
 补新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 补新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
