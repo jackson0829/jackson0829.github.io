@@ -108,9 +108,6 @@ TVBS歡樂台,https://pull-hls-l1.ixigua.com/live/ffdc7777ef1bbee857efdb4e3d2fcb
 Eleven-1,https://pull-hls-l1.ixigua.com/live/ba006dda55c19405e8aae14de25f6faa/playlist.m3u8
 Eleven-2,https://pull-hls-l1.ixigua.com/live/0bf97fcedbc0bbfa5df252e2fdaefd37/playlist.m3u8
 
-
-
-
 0418有效源,#genre#
 民視HD[1280*720],rtmp://59.124.75.138/sat/tv051
 民視HD[1280*720],rtmp://219.80.97.35/sat/tv051
