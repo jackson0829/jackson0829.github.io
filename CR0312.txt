@@ -84,7 +84,7 @@ BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 时尚频道,http://50.7.218.42:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d
 
-Acloudtwei台灣頻道,#genre#
+Acloudtwei分享,#genre#
 寰宇新聞,https://pull-hls-l1.ixigua.com/live/7fd2b33bffea507402535486541896e2/playlist.m3u8
 TVBS新聞台,https://pull-hls-l1.ixigua.com/live/17508084123ce640d29342debb651a5d/playlist.m3u8
 中天新聞,https://pull-hls-l1.ixigua.com/live/cef4f1f29aadd1a8a1c14af0ef76837d/playlist.m3u8
