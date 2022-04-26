@@ -234,7 +234,7 @@ StarWorld電影[1920*1080],http://125.227.210.37:13498/VideoInput/play.ts
 FoodNetwork[1920*1080],http://125.227.210.37:14250/VideoInput/play.ts
 CNN[1920*1080],http://125.227.210.37:10797/VideoInput/play.ts
 
-機哥分享,#genre#
+威哥分享,#genre#
 台視HD, http://220.134.196.147:8911/http/116.50.42.18:8081/hls/72/814/ch46.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 中視HD, http://220.134.196.147:8912/http/116.50.42.18:8081/hls/72/814/ch47.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 華視HD, http://220.134.196.147:8913/http/116.50.42.18:8081/hls/72/814/ch48.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
