@@ -1,22 +1,3 @@
-油管频道,#genre# 
-中视[1280*720],rtmp://219.80.97.35/sat/tv091
-华视[1280*720],rtmp://219.80.97.35/sat/tv111
-台视[1280*720],rtmp://219.80.97.35/sat/tv071
-民视[1280*720],rtmp://219.80.97.35/sat/tv051
-莲花卫视[1920*1080],http://nettvpro.live/hls/lotustv.php
-TVBS新闻台[1280*720],rtmp://219.80.97.35/sat/tv551
-TVBS欢乐台[1280*720],rtmp://219.80.97.35/sat/tv421
-有线18台[1280*720],rtmp://219.80.97.35/sat/hk041
-好消息综合台[1280*720],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-纬来育乐[1280*720],rtmp://219.80.97.35/sat/tv701
-纬来体育[1280*720],rtmp://219.80.97.35/sat/tv721
-纬来日本[1280*720],rtmp://219.80.97.35/sat/tv771
-东森财经[1280*720],rtmp://219.80.97.35/sat/tv571
-东森超视[1280*720],rtmp://219.80.97.35/sat/tv331
-momo综合[1280*720],rtmp://219.80.97.35/sat/tv761
-ELEVEN1[1280*720],rtmp://219.80.97.35/sat/tv731
-ELEVEN2[1280*720],rtmp://219.80.97.35/sat/tv741
-
 4GTV,#genre#
 4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
@@ -299,67 +280,6 @@ RAW[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333
 2021玩命關頭9[1920*1080],https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
 
 
-成人點播頻道,#genre#
-今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
-性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
-叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
-鮑魚游戲-孟若羽[960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
-肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
-反差淫女初登場-楚夢舒[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/6219ebe2b9e8e9119a2f1fee/playlist.m3u8
-桃色誘惑閨蜜發騷-尋小小[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219eba7b9e8e9119a2f1fed/playlist.m3u8
-活潑OL初次拍攝[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
-飢渴人妻大膽淫誘-蜜蘇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/6219e98ab9e8e9119a2f1fe7/playlist.m3u8
-鋼琴老師的激情樂章[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219e94eb9e8e9119a2f1fe6/playlist.m3u8
-色欲熏心強奸堂妹-金寶媛[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62104c9a9d14d648884aa814/playlist.m3u8
-交換我們的愛妻來互相內[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605637386/1000/1970/1970.m3u8
-淫靡大小姐の瘋狂性愛[1920*1080],https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
-內穴服務-孟若羽[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
-淫亂生活-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
-小姨勾引親外甥-白星雨[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
-背德性愛EP1對母性[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/61ee464a4e82d1622de7f24b/playlist.m3u8
-閨蜜帶著弟弟來轉大人[1920*1080],https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
-老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
-合租之偷窺-季曉彤,chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
-爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
-口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
-白色妖姬 -美樂蒂[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
-阿爾法車震台中篇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
-宅男初體驗s級性愛機器人[1920*1080],https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
-大嫂[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
-綠茶女友[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
-婚內情-楊桃[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610cf1adff7a912d5bde15c3/playlist.m3u8
-父女的不倫之戀-李小藍[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
-艷母2-孟若羽[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
-菜鳥特務-袁子儀[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
-兄弟新交的女朋友-李雪[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
-泳裝妹妹的誘惑相奸-韓棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
-釋放淫欲的神女-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
-笨女孩的聰明想法-蘇語棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
-我的妹妹不可能這麼可愛2-穆娜[1280*720],https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
-自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
-AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
-就算一直暗戀的青梅竹馬小倉由菜已經結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
-女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
-女朋友的姐姐葵的全力走光誘惑我[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
-夜宿美女同事岬奈奈美家裡被沒穿胸罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
-憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
-公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
-
-
-成人直播頻道,#genre#
-Extasy[1920*1080],http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-直播平台2[648*360],https://b-hls-17.doppiocdn.com/hls/68766062/68766062.m3u8
-直播平台4[1280*720],https://b-hls-09.doppiocdn.com/hls/45956822/45956822.m3u8
-dorcel tv[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
-olala[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
-tiny4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
-bangbros[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
-Asian[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
-japan[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
-cum4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
-babes[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
-hardx[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
-vivid[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
 
 NewTV,#genre#
 NewTV爱情喜剧,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
@@ -514,4 +434,66 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+
+成人點播頻道,#genre#
+今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
+性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
+叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
+鮑魚游戲-孟若羽[960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
+肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
+反差淫女初登場-楚夢舒[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/6219ebe2b9e8e9119a2f1fee/playlist.m3u8
+桃色誘惑閨蜜發騷-尋小小[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219eba7b9e8e9119a2f1fed/playlist.m3u8
+活潑OL初次拍攝[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
+飢渴人妻大膽淫誘-蜜蘇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/6219e98ab9e8e9119a2f1fe7/playlist.m3u8
+鋼琴老師的激情樂章[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219e94eb9e8e9119a2f1fe6/playlist.m3u8
+色欲熏心強奸堂妹-金寶媛[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62104c9a9d14d648884aa814/playlist.m3u8
+交換我們的愛妻來互相內[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605637386/1000/1970/1970.m3u8
+淫靡大小姐の瘋狂性愛[1920*1080],https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
+內穴服務-孟若羽[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
+淫亂生活-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
+小姨勾引親外甥-白星雨[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
+背德性愛EP1對母性[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/61ee464a4e82d1622de7f24b/playlist.m3u8
+閨蜜帶著弟弟來轉大人[1920*1080],https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
+老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
+合租之偷窺-季曉彤,chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
+爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
+口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
+白色妖姬 -美樂蒂[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
+阿爾法車震台中篇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
+宅男初體驗s級性愛機器人[1920*1080],https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
+大嫂[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
+綠茶女友[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
+婚內情-楊桃[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610cf1adff7a912d5bde15c3/playlist.m3u8
+父女的不倫之戀-李小藍[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
+艷母2-孟若羽[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
+菜鳥特務-袁子儀[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
+兄弟新交的女朋友-李雪[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
+泳裝妹妹的誘惑相奸-韓棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
+釋放淫欲的神女-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
+笨女孩的聰明想法-蘇語棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
+我的妹妹不可能這麼可愛2-穆娜[1280*720],https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
+自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
+AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
+就算一直暗戀的青梅竹馬小倉由菜已經結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
+女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
+女朋友的姐姐葵的全力走光誘惑我[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
+夜宿美女同事岬奈奈美家裡被沒穿胸罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
+憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
+公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
+
+成人直播頻道,#genre#
+Extasy[1920*1080],http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+直播平台2[648*360],https://b-hls-17.doppiocdn.com/hls/68766062/68766062.m3u8
+直播平台4[1280*720],https://b-hls-09.doppiocdn.com/hls/45956822/45956822.m3u8
+dorcel tv[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
+olala[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
+tiny4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
+bangbros[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
+Asian[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
+japan[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
+cum4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
+babes[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
+hardx[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
+vivid[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
 
