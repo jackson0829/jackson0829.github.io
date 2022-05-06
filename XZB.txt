@@ -138,123 +138,230 @@ MoMo综合台[1280*720],rtmp://59.124.75.150/sat/tv761
 CNBC[1920*1080],http://61.221.81.93:8595/hls/77/80/ch62.m3u8
 博斯運動[1920*1080],http://61.221.81.93:8596/hls/77/80/ch62.m3u8
 
+台灣,#genre#
+民視[640*360],http://seb.sason.top/ptv/ftv.php?id=ms
+民視[1280*720],rtmp://59.124.75.150/sat/tv051
+台視[1280*720],rtmp://59.124.75.150/sat/tv071
+中視[1280*720],rtmp://59.124.75.150/sat/tv091
+華視[1280*720],rtmp://59.124.75.150/sat/tv111
+三立台灣台[1920*1080],http://125.227.210.55:15714/VideoInput/play.ts
+三立都会[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+民視台灣台[640*360],http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅遊台[640*360],http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一台[640*360],http://seb.sason.top/ptv/ftv.php?id=dy
+民視綜藝台[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台[640*360],http://seb.sason.top/ptv/ftv.php?id=yj
+TVBS歡樂[1280*720],rtmp://59.124.75.150/sat/tv421
+原住民頻道[1920*1080],https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+大爱一台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+東森戲劇台[1920*1080],http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 
-海外頻道,#genre#
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-GCN24 English,http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_high/playlist.m3u8
-Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
-MB,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TVWorkNe,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-KBC 광주방송,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-KCTV 광주 CH05,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-Aniplus (Indonesian Subs),http://210.210.155.35/dr9445/h/h02/index.m3u8
-TBC 대구 (SBS 大邱),http://221.157.125.239:1935/live/psike/playlist.m3u8
-CJB청주방송 (SBS 淸州),http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-One (Indonesian Sub),http://210.210.155.35/uq2663/h/h143/02.m3u8
-中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-MBC频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-lKCTV中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-lEBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EBS少儿频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBSE频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-国防电视,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-ARS,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-NHK国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-日テレ,http://203.162.235.41:16905
-,http://203.162.235.41:16908
-,http://203.162.235.41:16906
-,http://203.162.235.41:16907
-WOWOW シネマ,http://203.162.235.41:16916
-NHK総合,http://203.162.235.41:16903
-,http://203.162.235.41:16910
-DUBAI SPORTS,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
-DUBAI RACING,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
-DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-CNN,http://203.162.235.41:16904
-,http://203.162.235.41:16911
-BS 东京,http://203.162.235.41:16915
-BS 朝日,http://203.162.235.41:16914
-BS TBS,http://203.162.235.41:16913
-Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-Animax Japan (印尼语),http://210.210.155.35/dr9445/h/h144/01.m3u8
-AT-X,https://sub2.neetball.net/live/neet.m3u8
-Fuji TV,https://fujitv2.mov3.co/hls/fujitv.m3u8
-GSTV,https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-Hiroshima Weather Informa,https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
-TBS,https://tbs1.mov3.co/hls/tbs.m3u8
-New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NHK General TV,https://nhk2.mov3.co/hls/nhk.m3u8
-NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK World Japan,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World Japan,https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8
-NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-Nippon TV,https://ntv2.mov3.co/hls/ntv.m3u8
-NTV News24 (480p),https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-NTV News24 (480p),https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
-Shop Channel (1080p),https://stream3.shopch.jp/HLS/master.m3u8
-Tokyo MX1,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-Tokyo MX1,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-Tokyo MX1,https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-Tokyo MX2,https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+台灣新聞,#genre#
+台視新聞[1920*1080],http://seb.sason.top/sc/tsxw_fhd.m3u8
+三立INEWS[1920*1080],http://seb.sason.top/sc/slinews_fhd.m3u8
+三立財經新聞[1920*1080],http://seb.sason.top/sc/slinews_fhd.m3u8
+TVBS新聞[1280*720],rtmp://59.124.75.150/sat/tv551
+壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/playlist.m3u8
+東森財經新聞[1920*1080],http://seb.sason.top/sc/dscjxw_fhd.m3u8
+非凡新聞台[1920*1080],http://125.227.210.37:15078/VideoInput/play.ts
+亞洲新聞台[960*540],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+CNBC[1920*1080],http://61.221.81.93:8595/hls/24/80/cnbc90.m3u8
+凤凰中文[1920*1080],http://61.221.81.93:8514/hls/76/818/ch63.m3u8
+Bloomberg[1920*1080],http://61.221.81.93:8581/hls/210/10016/cstv16.m3u8
+东森新闻[1920*1080],http://61.221.81.93:8542/hls/63/805/ch10.m3u8
+Baby TV[1920*1080],http://61.221.81.93:8546/hls/35/80/babytv.m3u8
+StarWorld[1920*1080],http://61.221.81.93:8562/hls/61/803/ch02.m3u8
+卫视中文[1920*1080],http://61.221.81.93:8503/hls/62/804/ch05.m3u8
+卫视电影[1920*1080],http://61.221.81.93:8507/hls/62/804/ch07.m3u8
+卫视电影GOLD[1920*1080],http://61.221.81.93:8561/hls/62/804/ch08.m3u8
+龙华卡通[1920*1080],http://61.221.81.93:8594/hls/210/10013/cstv13.m3u8
+龙华偶像[1920*1080],http://61.221.81.93:8591/hls/210/10012/cstv12.m3u8
+龙华戏剧[1920*1080],http://61.221.81.93:8593/hls/210/10010/cstv10.m3u8
+龙华日韩[1920*1080],http://61.221.81.93:8592/hls/210/10011/cstv11.m3u8
+龙华电影[1920*1080],http://61.221.81.93:8597/hls/210/10014/cstv14.m3u8
+凤凰资讯[1920*1080],http://61.221.81.93:8513/hls/65/807/ch843.m3u8
+博斯运动I[1920*1080],http://61.221.81.93:8596/hls/210/10018/cstv18.m3u8
+ELEVEN 2[1920*1080],http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+国家地理[1920*1080],http://61.221.81.93:8590/hls/61/803/ch01.m3u8
 
-NewTV電影,#genre#
+
+台灣動畫,#genre#
+英文兒歌[896*504],http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
+童年經典[896*672],http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+玩具樂園[896*504],http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
+貓和老鼠[896*600],http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
+懷舊動畫[896*680],http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+小豬佩寄[896*504],http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
+寶寶課堂[896*504],http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+奧特曼[896*672],http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+喜羊羊[1920*1080],http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+名貞探柯南[896*488],http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+動畫電影[896*480],http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+動畫小天地[896*728],http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+兔小貝爾歌[896*504],http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
+兒童樂園[896*504],http://118.26.120.23:55336/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
+兒歌大全[896*504],http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+倒霉熊[896*504],http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
+親子小遊戲[896*504],http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
+親子啟蒙[896*504],http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
+海綿寶寶[720*540],http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
+蠟筆小新[960*736],http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+貓和老鼠[640*464],http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+成龍歷險記[640*480],http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+路飛海盜[1920*1080],http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+爆笑蟲子[1920*1080],http://txtest-xp2p.p2p.huya.com/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
+小品[852*480],http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+獅子王國[640*360],https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+倒霉特熊[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+反轉星球[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+雲朵媽媽[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊大熊二[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大過年[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+豬俠英雄[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+深圳少兒[1280*720],http://ye23.win/iptv/sztv.php?id=7
+浙江少兒[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+福州少兒[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+南京少兒[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+河北少兒[960*540],http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+杭州少兒[1920*1080],http://hms403nc1880172791.live.aikan.miguvideo.com/wh7f454c46tw2117141557_-1207487654/PLTV/88888888/224/3221229316/index.m3u8
+重慶少兒[1920*1080],http://starylw.yagetang.cn:4000/udp/225.0.4.191:7980
+遼寧教育青少[785*576],http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
+鄭州婦兒[768*576],http://live.zztv.tv/zztv5/playlist.m3u8
+黑龍江少兒[785*576],http://39.134.65.149/PLTV/88888888/224/3221226002/1.m3u8
+
+
+體育直播,#genre#
+緯來育樂[1280*720],rtmp://59.124.75.150/sat/tv701
+緯來體育[1280*720],rtmp://59.124.75.150/sat/tv721
+eleven[1280*720],rtmp://59.124.75.150/sat/tv731
+足球[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
+籃球[854*480],http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+籃球1[854*480],http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+籃球2[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627800-1099531627800-85899448999215104-2199063379056-10057-A-0-1.xs
+籃球3[1920*1080],http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
+籃球5[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
+籃球7[1280*720],http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
+籃球8[960*544],http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+籃球9[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627785-1099531627785-85899384574705664-2199063379026-10057-A-0-1.xs
+斯諾克[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
+WWE[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
+MASFIGHT[640*360],http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.xs
+泰拳[1280*720],http://txtest-xp2p.p2p.huya.com/1199546362707-1199546362707-5370801297354129408-2399092848870-10057-A-0-1.xs
+拳擊[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
+游泳[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs
+冰壺[1920*1080],http://txtest-xp2p.p2p.huya.com/1447756350-1447756350-6218066175826329600-2895636156-10057-A-0-1.xs
+棒球[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531739891-1099531739891-86380876178391040-2199063603238-10057-A-0-1.xs
+皮划艇[1280*720],http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
+賽車[1920*1080],http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
+摩托車[1280*720],http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
+體育賽場[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
+第一賽場[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531739778-1099531739778-86380390847086592-2199063603012-10057-A-0-1.xs
+田徑場[1920*1080],http://txtest-xp2p.p2p.huya.com/2452891977-2452891977-10535090821835784192-4905907410-10057-A-0-1.xs
+歐足1[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
+歐足2[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs
+足球1[1280*720],http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
+足球2[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
+足球3[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
+足球5[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
+足球6[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2199063581160-10057-A-0-1.xs
+足球7[1920*1080],http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
+1場[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
+2場[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
+3場[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
+4場[1920*1080],http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
+街波王子[1280*720],http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
+雲賽場[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627815-1099531627815-85899513423724544-2199063379086-10057-A-0-1.xs
+斯諾克1[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
+斯諾克2[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
+丁俊暉[1920*1080],http://txtest-xp2p.p2p.huya.com/1447756352-1447756352-6218066184416264192-2895636160-10057-A-0-1.xs
+奧沙利文[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627956-1099531627956-85900119014113280-2199063379368-10057-A-0-1.xs
+特魯姆普[1280*720],http://txtest-xp2p.p2p.huya.com/1099531627782-1099531627782-85899371689803776-2199063379020-10057-A-0-1.xs
+羅伯遜[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627945-1099531627945-85900071769473024-2199063379346-10057-A-0-1.xs
+WWE1[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
+WWE2[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
+SD[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.xs
+RAW[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
+巨石強森[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728843-1099531728843-86333425379704832-2199063581142-10057-A-0-1.xs
+頂級大賽[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.xs
+視頻秀[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
+清流1路[1280*720],http://txtest-xp2p.p2p.huya.com/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs
+
+
+最新電影點播頻道,#genre#
+2021尚氣與十環傳奇[1920*804],https://sod.bunediy.com/20211110/MpyfWo6r/index.m3u8
+2021猛毒2：血蜘蛛[1920*1080],https://sod.bunediy.com/20211111/56GUOks3/index.m3u8
+2021火線突圍[1920*816],https://new.iskcd.com/20210903/SWpImSm6/index.m3u8
+2021刺客密令[1454*606],https://c1.monidai.com/20210830/g1VQqvME/index.m3u8
+2021咒術屍戰[1920*804],https://sod.bunediy.com/20210813/FMsmJsO5/index.m3u8
+2021自煞突擊隊集結[1920*1080],https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
+2021玩命關頭9[1920*1080],https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
+
+
+成人點播頻道_0970117708,#genre#
+今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
+性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
+叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
+鮑魚游戲-孟若羽[960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
+肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
+反差淫女初登場-楚夢舒[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/6219ebe2b9e8e9119a2f1fee/playlist.m3u8
+桃色誘惑閨蜜發騷-尋小小[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219eba7b9e8e9119a2f1fed/playlist.m3u8
+活潑OL初次拍攝[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
+飢渴人妻大膽淫誘-蜜蘇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/6219e98ab9e8e9119a2f1fe7/playlist.m3u8
+鋼琴老師的激情樂章[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219e94eb9e8e9119a2f1fe6/playlist.m3u8
+色欲熏心強奸堂妹-金寶媛[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62104c9a9d14d648884aa814/playlist.m3u8
+交換我們的愛妻來互相內[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605637386/1000/1970/1970.m3u8
+淫靡大小姐の瘋狂性愛[1920*1080],https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
+內穴服務-孟若羽[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
+淫亂生活-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
+小姨勾引親外甥-白星雨[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
+背德性愛EP1對母性[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/61ee464a4e82d1622de7f24b/playlist.m3u8
+閨蜜帶著弟弟來轉大人[1920*1080],https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
+老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
+合租之偷窺-季曉彤,chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
+爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
+口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
+白色妖姬 -美樂蒂[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
+阿爾法車震台中篇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
+宅男初體驗s級性愛機器人[1920*1080],https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
+大嫂[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
+綠茶女友[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
+婚內情-楊桃[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610cf1adff7a912d5bde15c3/playlist.m3u8
+父女的不倫之戀-李小藍[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
+艷母2-孟若羽[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
+菜鳥特務-袁子儀[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
+兄弟新交的女朋友-李雪[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
+泳裝妹妹的誘惑相奸-韓棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
+釋放淫欲的神女-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
+笨女孩的聰明想法-蘇語棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
+我的妹妹不可能這麼可愛2-穆娜[1280*720],https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
+自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
+AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
+就算一直暗戀的青梅竹馬小倉由菜已經結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
+女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
+女朋友的姐姐葵的全力走光誘惑我[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
+夜宿美女同事岬奈奈美家裡被沒穿胸罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
+憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
+公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
+
+成人直播頻道_0970117708,#genre#
+Extasy[1920*1080],http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+直播平台2[648*360],https://b-hls-17.doppiocdn.com/hls/68766062/68766062.m3u8
+直播平台4[1280*720],https://b-hls-09.doppiocdn.com/hls/45956822/45956822.m3u8
+dorcel tv[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
+olala[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
+tiny4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
+bangbros[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
+Asian[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
+japan[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
+cum4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
+babes[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
+hardx[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
+vivid[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
+
+NewTV,#genre#
 NewTV爱情喜剧,http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
 NewTV爱情喜剧,http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
 NewTV爱情喜剧,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
