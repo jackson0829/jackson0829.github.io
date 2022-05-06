@@ -137,6 +137,26 @@ BaBy-TV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18
 206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 
 必勝影視,#genre#
+寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+中视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中视HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+民视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+DW,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+新唐人亞太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+ARIRANG阿里郎频道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 民视[1280*720],rtmp://59.124.75.150/sat/tv051
 台视[1280*720],rtmp://59.124.75.150/sat/tv071
 中视[1280*720],rtmp://59.124.75.150/sat/tv091
