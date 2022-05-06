@@ -299,7 +299,7 @@ RAW[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333
 2021玩命關頭9[1920*1080],https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
 
 
-成人點播頻道_0970117708,#genre#
+成人點播頻道,#genre#
 今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
 性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
 叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
@@ -346,7 +346,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
 
-成人直播頻道_0970117708,#genre#
+成人直播頻道,#genre#
 Extasy[1920*1080],http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 直播平台2[648*360],https://b-hls-17.doppiocdn.com/hls/68766062/68766062.m3u8
 直播平台4[1280*720],https://b-hls-09.doppiocdn.com/hls/45956822/45956822.m3u8
