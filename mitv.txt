@@ -688,4 +688,70 @@ Hustler,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
 Hustler,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
 Vivid Red,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 
+加密频道,#genre#
+松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+Hot,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+Happy,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+彩虹e台,mitv://860969650:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+K 頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+Look TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+驚豔台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+香蕉台,mitv://860969650:9906/1362bb778dae475288955810c1ab2aaa.ts
+潘朵拉玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+潘朵拉粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+JStar極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+彩虹电影台,mitv://860969650:9906/2a020e712d4d436691da2ea78eafebdc.ts
+LOOK TV,mitv://860969650:9906/d6795ca162e34cb89be51befc6dfe594.ts
+潘朵啦玩美台,mitv://860969650:9906/d3ece42c680544de95e35183ac5b5389.ts
+惊艳成人电影台,mitv://860969650:9906/6a4958e7000e4e0db866b28a0790f477.ts
+松视1台,mitv://860969650:9906/5525509395864b4697e17d784c856aac.ts
+松视2台,mitv://860969650:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+潘朵啦粉红台,mitv://860969650:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+PLAYBOY,mitv://860969650:9906/84371c47b4b54e36b0065d3a2a773379.ts
+HOT,mitv://860969650:9906/82d829e45ddb4433ae62280e78e84f64.ts
+松视3台,mitv://860969650:9906/eddc3d313451476097ea7506d1d0867d.ts
+JStar极限台,mitv://860969650:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+HAPPY,mitv://860969650:9906/338ec38c41e94ac2a7a556096b6964ea.ts
+BANG BROS FHD,http://ott3.alwaysdata.net/live/lv.php?id=35
+BHOT FHD,http://ott3.alwaysdata.net/live/lv.php?id=75
+BRAZZERS FHD,http://ott3.alwaysdata.net/live/lv.php?id=22
+CBLISS 4K,http://ott3.alwaysdata.net/live/lv.php?id=72
+DDF NETWORK FHD,http://ott3.alwaysdata.net/live/lv.php?id=17
+EROX FHD,http://ott3.alwaysdata.net/live/lv.php?id=96
+FAKE TAXI FHD,http://ott3.alwaysdata.net/live/lv.php?id=02
+HARD X FHD,http://ott3.alwaysdata.net/live/lv.php?id=18
+HiTZEFREi! FHD,http://ott3.alwaysdata.net/live/lv.php?id=20
+HOLED.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=21
+HOTGUYS FUCK FHD,http://ott3.alwaysdata.net/live/lv.php?id=23
+JAPANHDV FHD,http://ott3.alwaysdata.net/live/lv.php?id=25
+LEO TV FHD,http://ott3.alwaysdata.net/live/lv.php?id=01
+lesbea.com FHD,http://ott3.alwaysdata.net/live/lv.php?id=27
+LETHAL PASS FHD,http://ott3.alwaysdata.net/live/lv.php?id=29
+METART.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=33
+MYLF FHD,http://ott3.alwaysdata.net/live/lv.php?id=16
+MYLF.COM FHD,http://ott3.alwaysdata.net/live/lv.php?id=36
+NAUGHTY AMERICA FHD,http://ott3.alwaysdata.net/live/lv.php?id=37
+NUBILES FHD,http://ott3.alwaysdata.net/live/lv.php?id=38
+PLAY BOY FHD,http://ott3.alwaysdata.net/live/lv.php?id=42
+PRIVATE FHD,http://ott3.alwaysdata.net/live/lv.php?id=45
+PublicAgent FHD,http://ott3.alwaysdata.net/live/lv.php?id=46
+REALITY KINGS 2FHD,http://ott3.alwaysdata.net/live/lv.php?id=48
+REALITY KINGS 3FHD,http://ott3.alwaysdata.net/live/lv.php?id=49
+REALITY KINGS FHD,http://ott3.alwaysdata.net/live/lv.php?id=47
+REDXXX FHD,http://ott3.alwaysdata.net/live/lv.php?id=81
+TINY  4K,http://ott3.alwaysdata.net/live/lv.php?id=58
+TUSHY FHD,http://ott3.alwaysdata.net/live/lv.php?id=61
+TUSHY RAW FHD,http://ott3.alwaysdata.net/live/lv.php?id=62
+VIVID RED FHD,http://ott3.alwaysdata.net/live/lv.php?id=64
+VIXEN FHD,http://ott3.alwaysdata.net/live/lv.php?id=65
+WHITEBOXXX FHD,http://ott3.alwaysdata.net/live/lv.php?id=67
+WICKED FHD,http://ott3.alwaysdata.net/live/lv.php?id=68
+xyMAX FHD,http://ott3.alwaysdata.net/live/lv.php?id=86
+xyMIX FHD,http://ott3.alwaysdata.net/live/lv.php?id=87
+xyPLUS FHD,http://ott3.alwaysdata.net/live/lv.php?id=88
+两只兔子 FHD,http://ott3.alwaysdata.net/live/lv.php?id=60
 
