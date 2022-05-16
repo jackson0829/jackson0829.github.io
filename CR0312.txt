@@ -370,7 +370,7 @@ IPTV台灣分類3,#genre#
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
 
-VAMOS分享,#genre#
+茶客分享,#genre#
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
@@ -701,7 +701,6 @@ CHC高清电影,http://111.20.106.16:6610/yinhe/2/ch00000090990000002065/index.m
 黑莓动画,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 黑莓动画,http://39.135.140.104:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
 黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-
 黑莓电影,http://223.110.243.136/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://223.110.243.171/PLTV/3/224/3221227520/index.m3u8
 黑莓电影,http://223.110.243.137/PLTV/3/224/3221225567/index.m3u8
