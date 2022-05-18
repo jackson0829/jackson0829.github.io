@@ -686,7 +686,7 @@ K频道,p5p://174.128.239.250:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 
 
-会员2_00000,#genre#
+会员2,#genre#
 🔞香蕉台,p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts#rtmp://v3948069e.live.126.net/live/fwq5/RHK32rhg
 🔞松视1,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts#vjms://50.7.253.59:8500/live/cid=262#mitv://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
 🔞松视2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts#vjms://50.7.253.59:8500/live/cid=267#mitv://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
@@ -709,11 +709,7 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 🔞REDLIGHT,http://ub.wakds.xyz/tv.php?p=452#http://27.124.3.48/m336666/jiegectx.php?id=452
 
 
-
-
-
-
-会员3视频_00000,#genre#
+会员3视频,#genre#
 美雲あい,https://www.ugbcdn.com/20201225/mEYRxQPe/index.m3u8
 橋本玲美,https://www.ugbcdn.com/20201225/HEonUPSq/index.m3u8
 豊田ゆう,https://www.ugbcdn.com/20201225/WJ4vKKiO/index.m3u8
