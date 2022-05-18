@@ -686,80 +686,6 @@ K频道,p5p://174.128.239.250:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 
 
-会员2,#genre#
-🔞香蕉台,p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts#rtmp://v3948069e.live.126.net/live/fwq5/RHK32rhg
-🔞松视1,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts#vjms://50.7.253.59:8500/live/cid=262#mitv://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
-🔞松视2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts#vjms://50.7.253.59:8500/live/cid=267#mitv://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
-🔞松视3,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts#vjms://50.7.253.59:8500/live/cid=268
-🔞HOT星颜,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
-🔞happy,p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
-🔞驚豔台,p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts#mitv://ns2.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
-🔞彩虹k,p8p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-🔞彩虹e,p8p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts#mitv://ns2.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
-🔞彩虹电影,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts#mitv://ns2.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
-🔞潘朵拉完美,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts#mitv://ns2.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
-🔞潘朵拉粉红,p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
-🔞花花公子,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
-🔞极限電影,mitv://ns2.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
-🔞LOOK,mitv://ns2.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
-🔞一本道,http://ub.wakds.xyz/tv.php?p=414#http://27.124.3.48/m336666/jiegectx.php?id=414
-🔞二本道,http://ub.wakds.xyz/tv.php?p=415#http://27.124.3.48/m336666/jiegectx.php?id=415
-🔞東京熱,http://ub.wakds.xyz/tv.php?p=416#http://27.124.3.48/m336666/jiegectx.php?id=416
-🔞HUSTLER,http://ub.wakds.xyz/tv.php?p=451#http://27.124.3.48/m336666/jiegectx.php?id=451
-🔞REDLIGHT,http://ub.wakds.xyz/tv.php?p=452#http://27.124.3.48/m336666/jiegectx.php?id=452
-
-
-会员3视频,#genre#
-美雲あい,https://www.ugbcdn.com/20201225/mEYRxQPe/index.m3u8
-橋本玲美,https://www.ugbcdn.com/20201225/HEonUPSq/index.m3u8
-豊田ゆう,https://www.ugbcdn.com/20201225/WJ4vKKiO/index.m3u8
-中崎じゅ,https://www.ugbcdn.com/20201225/ApoJe6G4/index.m3u8
-西園さく,https://www.ugbcdn.com/20201225/rocRg9fL/index.m3u8
-気持ちが,https://www.ugbcdn.com/20201225/boOHXh7W/index.m3u8
-藤嶋直夫,https://www.ugbcdn.com/20201211/rStrvmAX/index.m3u8
-加藤えま,https://www.ugbcdn.com/20201211/dhCLzriB/index.m3u8
-宇佐美た,https://www.ugbcdn.com/20201211/Pwq8vctx/index.m3u8
-水澄ひか,https://www.ugbcdn.com/20201211/ouzyeE8t/index.m3u8
-水原梨花,https://www.ugbcdn.com/20201211/ktCNqBD1/index.m3u8
-宮園もも,https://www.ugbcdn.com/20201211/mAFcmOgz/index.m3u8
-白季マリ,https://www.ugbcdn.com/20201211/Cs4yMoIy/index.m3u8
-早川夏美,https://www.ugbcdn.com/20201211/h1rDCmD4/index.m3u8
-真沙美反,https://www.ugbcdn.com/20201211/vpkdsvym/index.m3u8
-水卜えみ,https://www.ugbcdn.com/20201211/Qg0J2hGf/index.m3u8
-桃井りの,https://www.ugacdn.com/20201107/51jUAgui/index.m3u8
-北条麻妃,https://www.ugacdn.com/20201107/XY0fbnAm/index.m3u8
-朝比奈菜,https://www.ugacdn.com/20201107/KTcw0QcM/index.m3u8
-島崎あや,https://www.ugacdn.com/20201107/Xpud0r5t/index.m3u8
-北山かん,https://www.ugacdn.com/20201107/WiLwjpwJ/index.m3u8
-藍原優香,https://www.ugacdn.com/20201107/rDTQw634/index.m3u8
-美咲愛続,https://www.ugacdn.com/20201104/rGtSWijR/index.m3u8
-美堂かな,https://www.ugacdn.com/20201023/Wj83hBcS/index.m3u8
-折原ほの,https://www.ugacdn.com/20201023/mewyFG9v/index.m3u8
-藍原優香,https://www.ugacdn.com/20201023/rUQzVWIf/index.m3u8
-星野ゆめ,https://www.ugacdn.com/20201023/YML0RitA/index.m3u8
-上原茉咲,https://www.ugacdn.com/20201023/L8tpNL18/index.m3u8
-美堂かな,https://www.ugacdn.com/20201021/hUENMR2Q/index.m3u8
-姫川ゆう,https://www.ugacdn.com/20201021/4kEZoDmL/index.m3u8
-立花瑠莉,https://www.ugacdn.com/20201021/GqemxVGv/index.m3u8
-柴田玲子,https://www.ugacdn.com/20200925/iJ8bQKwS/index.m3u8
-北島玲女,https://www.ugacdn.com/20200917/O3vjIypA/index.m3u8
-三浦裕子,https://www.ugacdn.com/20200913/Lbl3EB1g/index.m3u8
-美原咲子,https://www.ugacdn.com/20200905/ZzL16yN5/index.m3u8
-本山茉莉,https://www.ugacdn.com/20200829/iTDA57X3/index.m3u8
-大貫あず,https://www.ugacdn.com/20200829/AezH66wc/index.m3u8
-冴君麻衣,https://www.ugacdn.com/20200821/AeJAmtB9/index.m3u8
-三倉紗帆,https://www.ugacdn.com/20200819/mjOn9J65/index.m3u8
-和登ここ,https://www.ugacdn.com/20200819/pkSiLcxe/index.m3u8
-黒川ひか,https://www.ugacdn.com/20200817/jFDPpS2r/index.m3u8
-木下寧々,https://www.ugacdn.com/20200815/mLvibCEK/index.m3u8
-千野くる,https://www.ugacdn.com/20200813/JBPnd19x/index.m3u8
-秋吉慶子,https://www.ugbcdn.com/20201226/uWy3cOWN/index.m3u8
-官能着姿,https://www.ugbcdn.com/20201226/fe9I5TGS/index.m3u8
-裕子さん,https://www.ugbcdn.com/20201226/P1xS2qyN/index.m3u8
-成宮はる,https://www.ugbcdn.com/20201226/GRRUTpFn/index.m3u8
-早川怜子,https://www.ugbcdn.com/20201226/vMPxWN6z/index.m3u8
-近親相姦,https://www.ugbcdn.com/20201226/AHXVlVDU/index.m3u8
-
 国产, #genre#
 80,https://play3166.com/20201215/FK5qPyMF/index.m3u8
 79,https://play3166.com/20201213/p8luxqkg/index.m3u8
@@ -843,7 +769,6 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 1,https://play3166.com/20201102/lqLmQF1y/index.m3u8
 
 日本, #genre#
-
 80,https://play3166.com/20201125/FQXqkUyQ/index.m3u8
 79,https://play3166.com/20201125/nRoW1oWi/index.m3u8
 78,https://play3166.com/20201125/AEP3fD3V/index.m3u8
