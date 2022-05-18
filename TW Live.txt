@@ -686,7 +686,7 @@ K频道,p5p://174.128.239.250:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 
 
-国产, #genre#
+国产,#genre#
 80,https://play3166.com/20201215/FK5qPyMF/index.m3u8
 79,https://play3166.com/20201213/p8luxqkg/index.m3u8
 78,https://play3166.com/20201213/3yGX3BdF/index.m3u8
@@ -768,7 +768,7 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 2,https://play3166.com/20201110/fuOLvqPv/index.m3u8
 1,https://play3166.com/20201102/lqLmQF1y/index.m3u8
 
-日本, #genre#
+日本,#genre#
 80,https://play3166.com/20201125/FQXqkUyQ/index.m3u8
 79,https://play3166.com/20201125/nRoW1oWi/index.m3u8
 78,https://play3166.com/20201125/AEP3fD3V/index.m3u8
@@ -850,7 +850,7 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 2,https://play3166.com/20201023/H0ydawTo/index.m3u8
 1,https://play3166.com/20201023/A3OAWg7f/index.m3u8
 
-欧美, #genre#
+欧美,#genre#
 80,https://play3166.com/20201210/CVkX0cuV/index.m3u8
 79,https://play3166.com/20201210/HKLCBUjO/index.m3u8
 78,https://play3166.com/20201210/KwcbZDjL/index.m3u8
