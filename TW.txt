@@ -117,6 +117,308 @@ LS Time龙祥时代电影台[1920*1080][1920*1080],http://120.84.96.25:808/hls/3
 204精選動漫台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 205華語戲劇台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 
+東方TV,#genre#
+民视 HD[1280*720],http://51.79.193.109:8080/hlsok/fd841196/index.m3u8
+中视 HD[1280*720],http://51.79.193.109:8080/hlsok/7b007f53/index.m3u8
+台视 HD[1280*720],http://51.79.193.109:8080/hlsok/0610e13c/index.m3u8
+华视 HD[1280*720],http://51.79.193.109:8080/hlsok/3d2107b0/index.m3u8
+公视 HD[1280*720],http://51.79.193.109:8080/hlsok/a98ccb72/index.m3u8
+CN卡通[1280*720],http://51.79.193.109:8080/hlsok/7fb19ba9/index.m3u8
+Animax[1280*720],http://51.79.193.109:8080/hlsok/4d696d82/index.m3u8
+Baby TV[1280*720],http://51.79.193.109:8080/hlsok/5c624ce4/index.m3u8
+东森电影[1280*720],http://51.79.193.109:8080/hlsok/75d7613b/index.m3u8
+东森洋片[1280*720],http://51.79.193.109:8080/hlsok/14561539/index.m3u8
+好莱坞[1280*720],http://51.79.193.109:8080/hlsok/a78680e4/index.m3u8
+龙祥电影[1280*720],http://51.79.193.109:8080/hlsok/e4a13cc1/index.m3u8
+纬来电影[1280*720],http://51.79.193.109:8080/hlsok/75966caf/index.m3u8
+TVBS[1280*720],http://51.79.193.109:8080/hlsok/e9c339cc/index.m3u8
+TVBS欢乐[1280*720],http://51.79.193.109:8080/hlsok/c9692259/index.m3u8
+TVBS新闻[1280*720],http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
+东森新闻[1280*720],http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
+三立新闻[1280*720],http://51.79.193.109:8080/hlsok/0ebc9684/index.m3u8
+非凡新闻[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+民视新闻[1280*720],http://51.79.193.109:8080/hlsok/ced345d4/index.m3u8
+中视新闻[1280*720],http://51.79.193.109:8080/hlsok/66836176/index.m3u8
+台视新闻[1280*720],http://51.79.193.109:8080/hlsok/c23f3737/index.m3u8
+华视新闻[1280*720],http://51.79.193.109:8080/hlsok/091887ce/index.m3u8
+凤凰中文 HD[1280*720],http://51.79.193.109:8080/hlsok/a1ddeef5/index.m3u8
+凤凰资讯 HD[1280*720],http://51.79.193.109:8080/hlsok/2c3cc674/index.m3u8
+凤凰香港 HD[1280*720],http://51.79.193.109:8080/hlsok/b18b32b6/index.m3u8
+Z频道[1280*720],http://51.79.193.109:8080/hlsok/12158ea6/index.m3u8
+国兴卫视[1280*720],http://51.79.193.109:8080/hlsok/9cd6fcae/index.m3u8
+HBO HD[1920*1080],http://51.79.193.109:8080/hlsok/8fdeabec/index.m3u8
+HBO强档 HD[1280*720],http://51.79.193.109:8080/hlsok/335d6895/index.m3u8
+HBO家庭 HD[1280*720],http://51.79.193.109:8080/hlsok/1a67a2aa/index.m3u8
+HBO原创 HD[1280*720],http://51.79.193.109:8080/hlsok/3c54101b/index.m3u8
+探索亚洲 HD[1280*720],http://51.79.193.109:8080/hlsok/37c6ad51/index.m3u8
+探索頻道 HD[1280*720],http://51.79.193.109:8080/hlsok/592cd26f/index.m3u8
+探索科學 HD[1280*720],http://51.79.193.109:8080/hlsok/bf60aa18d/index.m3u8
+探索动力 HD[1280*720],http://51.79.193.109:8080/hlsok/c4421e308/index.m3u8
+國家地理 HD[1280*720],http://51.79.193.109:8080/hlsok/cab58bd3/index.m3u8
+地理野生 HD[1280*720],http://51.79.193.109:8080/hlsok/dc882466/index.m3u8
+TLC HD[1280*720],http://51.79.193.109:8080/hlsok/3beb476b/index.m3u8
+动物星球 HD[1280*720],http://51.79.193.109:8080/hlsok/76011b82/index.m3u8
+AXN HD[1280*720],http://51.79.193.109:8080/hlsok/c1c18f78/index.m3u8
+CINEMAX HD[1280*720],http://51.79.193.109:8080/hlsok/79be7824/index.m3u8
+WarnerTV HD[1280*720],http://51.79.193.109:8080/hlsok/9cb32ea0/index.m3u8
+亞洲美食 HD[1280*720],http://51.79.193.109:8080/hlsok/32fa8773/index.m3u8
+美食网 HD[1280*720],http://51.79.193.109:8080/hlsok/1dd145d4f/index.m3u8
+Star Movies HD[1280*720],http://51.79.193.109:8080/hlsok/716adb39/index.m3u8
+CI HD[1280*720],http://51.79.193.109:8080/hlsok/aad39e7d/index.m3u8
+Travel 旅游 HD[1280*720],http://51.79.193.109:8080/hlsok/06340a57/index.m3u8
+KMTV HD[1280*720],http://51.79.193.109:8080/hlsok/6d88eabe/index.m3u8
+HISTORY HD[1280*720],http://51.79.193.109:8080/hlsok/5c2de6d6/index.m3u8
+HGTV HD[1280*720],http://51.79.193.109:8080/hlsok/54506ff9/index.m3u8
+LIFE Time HD[1280*720],http://51.79.193.109:8080/hlsok/f25a92cc/index.m3u8
+翡翠台[1920*1080],http://51.79.193.109:8080/hlsok/892debf01/index.m3u8
+J2[1280*720],http://51.79.193.109:8080/hlsok/67eed8f2c/index.m3u8
+無線财经[1280*720],http://51.79.193.109:8080/hlsok/bf90c099d/index.m3u8
+無線新聞[1280*720],http://51.79.193.109:8080/hlsok/f104404f0/index.m3u8
+明珠台[1280*720],http://51.79.193.109:8080/hlsok/df1763cf9/index.m3u8
+卫视电影台[1280*720],http://51.79.193.109:8080/hlsok/2359ba51/index.m3u8
+卫视中文台[1280*720],http://51.79.193.109:8080/hlsok/3b15e6b2/index.m3u8
+星卫电影HD[1280*720],http://51.79.193.109:8080/hlsok/cfcece47/index.m3u8
+星卫娱乐台[1280*720],http://51.79.193.109:8080/hlsok/2657344c/index.m3u8
+elevensports1[1280*720],http://51.79.193.109:8080/hlsok/9eec5c46/index.m3u8
+elevensports2[1280*720],http://51.79.193.109:8080/hlsok/a4970c8d/index.m3u8
+欧洲体育[1280*720],http://51.79.193.109:8080/hlsok/c3afb811/index.m3u8
+NBA动态[1280*720],http://51.79.193.109:8080/hlsok/ec8e7fc2/index.m3u8
+高點綜合[1280*720],http://51.79.193.109:8080/hlsok/9569303e/index.m3u8
+壹新聞[1280*720],http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
+壹综合[1280*720],http://51.79.193.109:8080/hlsok/f0546361/index.m3u8
+壹電影[1280*720],http://51.79.193.109:8080/hlsok/4dcedbb6/index.m3u8
+年代新聞[1280*720],http://51.79.193.109:8080/hlsok/3abbaa2d/index.m3u8
+博斯高球1[1280*720],http://51.79.193.109:8080/hlsok/69e91b16/index.m3u8
+博斯高球2[1280*720],http://51.79.193.109:8080/hlsok/331f6d9d/index.m3u8
+博斯无限[1280*720],http://51.79.193.109:8080/hlsok/da31cc90/index.m3u8
+博斯網球[1280*720],http://51.79.193.109:8080/hlsok/bdec2954/index.m3u8
+博斯运动1[1280*720],http://51.79.193.109:8080/hlsok/967c8913/index.m3u8
+博斯运动2[1280*720],http://51.79.193.109:8080/hlsok/231c4866/index.m3u8
+博斯魅力[1280*720],http://51.79.193.109:8080/hlsok/5c2d477b/index.m3u8
+东风37[1280*720],http://51.79.193.109:8080/hlsok/c1809a12/index.m3u8
+年代MUCH[1280*720],http://51.79.193.109:8080/hlsok/9755ce73/index.m3u8
+JET综合[1280*720],http://51.79.193.109:8080/hlsok/0c5bc08e/index.m3u8
+霹靂台灣台[1280*720],http://51.79.193.109:8080/hlsok/7b8dd162/index.m3u8
+東森財經[1280*720],http://51.79.193.109:8080/hlsok/7a3a85b7/index.m3u8
+東森戲劇[1280*720],http://51.79.193.109:8080/hlsok/35bb9175/index.m3u8
+東森綜合[1280*720],http://51.79.193.109:8080/hlsok/d3cc16e5/index.m3u8
+東森幼幼[1280*720],http://51.79.193.109:8080/hlsok/917ed93a/index.m3u8
+东森超视[1280*720],http://51.79.193.109:8080/hlsok/53633d87/index.m3u8
+纬来育乐[1280*720],http://51.79.193.109:8080/hlsok/f1a7b27f/index.m3u8
+纬来体育[1280*720],http://51.79.193.109:8080/hlsok/04a6b392/index.m3u8
+緯來戲劇[1280*720],http://51.79.193.109:8080/hlsok/f04a37c7/index.m3u8
+緯來綜合[1280*720],http://51.79.193.109:8080/hlsok/6bfaef10/index.m3u8
+纬来日本[1280*720],http://51.79.193.109:8080/hlsok/b9c4ab9a/index.m3u8
+中天新闻[1280*720],http://51.79.193.109:8080/hlsok/565046de1/index.m3u8
+中天綜合[1280*720],http://51.79.193.109:8080/hlsok/cd862c57/index.m3u8
+中天娱乐[1280*720],http://51.79.193.109:8080/hlsok/8767613c/index.m3u8
+三立財經[1280*720],http://51.79.193.109:8080/hlsok/5ff59fda/index.m3u8
+三立台灣[1280*720],http://51.79.193.109:8080/hlsok/04cace76/index.m3u8
+三立都會[1280*720],http://51.79.193.109:8080/hlsok/6fd6bcf8/index.m3u8
+三立戏剧[1280*720],http://51.79.193.109:8080/hlsok/e27df090/index.m3u8
+八大第一台[1280*720],http://51.79.193.109:8080/hlsok/0c1c9c69/index.m3u8
+八大綜合[1280*720],http://51.79.193.109:8080/hlsok/41bea7e4/index.m3u8
+八大娛樂[1280*720],http://51.79.193.109:8080/hlsok/ae8d3762/index.m3u8
+八大戲劇[1280*720],http://51.79.193.109:8080/hlsok/ecd48897/index.m3u8
+非凡新聞[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+寰宇新闻[1280*720],http://51.79.193.109:8080/hlsok/1fb0838b/index.m3u8
+BABYfIRST[1280*720],http://51.79.193.109:8080/hlsok/d959b037/index.m3u8
+EYE旅游[1280*720],http://51.79.193.109:8080/hlsok/bb7e06ef/index.m3u8
+美食星球[1280*720],http://51.79.193.109:8080/hlsok/00740cb7/index.m3u8
+历史H2[1280*720],http://51.79.193.109:8080/hlsok/59d690d3/index.m3u8
+靖天戏剧[1280*720],http://51.79.193.109:8080/hlsok/ec8952ba/index.m3u8
+靖天日本[1280*720],http://51.79.193.109:8080/hlsok/22b2a3c1/index.m3u8
+MTV[1280*720],http://51.79.193.109:8080/hlsok/d909dee0/index.m3u8
+EVE[1280*720],http://51.79.193.109:8080/hlsok/f5fffbfc/index.m3u8
+公视台语台[1280*720],http://51.79.193.109:8080/hlsok/49ab3435/index.m3u8
+公視3HD[1280*720],http://51.79.193.109:8080/hlsok/a804122f/index.m3u8
+原住民[1280*720],http://51.79.193.109:8080/hlsok/8d6f904e/index.m3u8
+客家电视[1280*720],http://51.79.193.109:8080/hlsok/6caa4479/index.m3u8
+中视菁采台[1280*720],http://51.79.193.109:8080/hlsok/44aa1843/index.m3u8
+台视综合[1280*720],http://51.79.193.109:8080/hlsok/1364de9b/index.m3u8
+台视财经台[1280*720],http://51.79.193.109:8080/hlsok/1088d24f/index.m3u8
+MOMO親子[1280*720],http://51.79.193.109:8080/hlsok/e56e53b8/index.m3u8
+MOMO綜合[1280*720],http://51.79.193.109:8080/hlsok/cb76e2e5/index.m3u8
+人間衛視[1280*720],http://51.79.193.109:8080/hlsok/20880537/index.m3u8
+大爱电视台[1280*720],http://51.79.193.109:8080/hlsok/0fe40b1c/index.m3u8
+好消息[1280*720],http://51.79.193.109:8080/hlsok/9e23bf25/index.m3u8
+好消息2[1280*720],http://51.79.193.109:8080/hlsok/c56f11e4/index.m3u8
+
+台湾,#genre#
+民视 HD[1280*720],http://51.79.193.109:8080/hlsok/fd841196/index.m3u8
+中视 HD[1280*720],http://51.79.193.109:8080/hlsok/7b007f53/index.m3u8
+台视 HD[1280*720],http://51.79.193.109:8080/hlsok/0610e13c/index.m3u8
+华视 HD[1280*720],http://51.79.193.109:8080/hlsok/3d2107b0/index.m3u8
+公视 HD[1280*720],http://51.79.193.109:8080/hlsok/a98ccb72/index.m3u8
+CN卡通[1280*720],http://51.79.193.109:8080/hlsok/7fb19ba9/index.m3u8
+Animax[1280*720],http://51.79.193.109:8080/hlsok/4d696d82/index.m3u8
+Baby TV[1280*720],http://51.79.193.109:8080/hlsok/5c624ce4/index.m3u8
+东森电影[1280*720],http://51.79.193.109:8080/hlsok/75d7613b/index.m3u8
+东森洋片[1280*720],http://51.79.193.109:8080/hlsok/14561539/index.m3u8
+好莱坞[1280*720],http://51.79.193.109:8080/hlsok/a78680e4/index.m3u8
+龙祥电影[1280*720],http://51.79.193.109:8080/hlsok/e4a13cc1/index.m3u8
+纬来电影[1280*720],http://51.79.193.109:8080/hlsok/75966caf/index.m3u8
+TVBS[1280*720],http://51.79.193.109:8080/hlsok/e9c339cc/index.m3u8
+TVBS欢乐[1280*720],http://51.79.193.109:8080/hlsok/c9692259/index.m3u8
+TVBS新闻[1280*720],http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
+东森新闻[1280*720],http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
+三立新闻[1280*720],http://51.79.193.109:8080/hlsok/0ebc9684/index.m3u8
+非凡新闻[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+民视新闻[1280*720],http://51.79.193.109:8080/hlsok/ced345d4/index.m3u8
+中视新闻[1280*720],http://51.79.193.109:8080/hlsok/66836176/index.m3u8
+台视新闻[1280*720],http://51.79.193.109:8080/hlsok/c23f3737/index.m3u8
+华视新闻[1280*720],http://51.79.193.109:8080/hlsok/091887ce/index.m3u8
+Z频道[1280*720],http://51.79.193.109:8080/hlsok/12158ea6/index.m3u8
+国兴卫视[1280*720],http://51.79.193.109:8080/hlsok/9cd6fcae/index.m3u8
+HBO HD[1920*1080],http://51.79.193.109:8080/hlsok/8fdeabec/index.m3u8
+HBO强档 HD[1280*720],http://51.79.193.109:8080/hlsok/335d6895/index.m3u8
+HBO家庭 HD[1280*720],http://51.79.193.109:8080/hlsok/1a67a2aa/index.m3u8
+HBO原创 HD[1280*720],http://51.79.193.109:8080/hlsok/3c54101b/index.m3u8
+探索亚洲 HD[1280*720],http://51.79.193.109:8080/hlsok/37c6ad51/index.m3u8
+探索頻道 HD[1280*720],http://51.79.193.109:8080/hlsok/592cd26f/index.m3u8
+探索科學 HD[1280*720],http://51.79.193.109:8080/hlsok/bf60aa18d/index.m3u8
+探索动力 HD[1280*720],http://51.79.193.109:8080/hlsok/c4421e308/index.m3u8
+國家地理 HD[1280*720],http://51.79.193.109:8080/hlsok/cab58bd3/index.m3u8
+地理野生 HD[1280*720],http://51.79.193.109:8080/hlsok/dc882466/index.m3u8
+TLC HD[1280*720],http://51.79.193.109:8080/hlsok/3beb476b/index.m3u8
+动物星球 HD[1280*720],http://51.79.193.109:8080/hlsok/76011b82/index.m3u8
+AXN HD[1280*720],http://51.79.193.109:8080/hlsok/c1c18f78/index.m3u8
+CINEMAX HD[1280*720],http://51.79.193.109:8080/hlsok/79be7824/index.m3u8
+WarnerTV HD[1280*720],http://51.79.193.109:8080/hlsok/9cb32ea0/index.m3u8
+亞洲美食 HD[1280*720],http://51.79.193.109:8080/hlsok/32fa8773/index.m3u8
+美食网 HD[1280*720],http://51.79.193.109:8080/hlsok/1dd145d4f/index.m3u8
+Star Movies HD[1280*720],http://51.79.193.109:8080/hlsok/716adb39/index.m3u8
+CI HD[1280*720],http://51.79.193.109:8080/hlsok/aad39e7d/index.m3u8
+Travel 旅游 HD[1280*720],http://51.79.193.109:8080/hlsok/06340a57/index.m3u8
+TVN HD[1280*720],http://51.79.193.109:8080/hlsok/c3efccf2/index.m3u8
+KMTV HD[1280*720],http://51.79.193.109:8080/hlsok/6d88eabe/index.m3u8
+HISTORY HD[1280*720],http://51.79.193.109:8080/hlsok/5c2de6d6/index.m3u8
+HGTV HD[1280*720],http://51.79.193.109:8080/hlsok/54506ff9/index.m3u8
+LIFE Time HD[1280*720],http://51.79.193.109:8080/hlsok/f25a92cc/index.m3u8
+卫视电影台[1280*720],http://51.79.193.109:8080/hlsok/2359ba51/index.m3u8
+卫视中文台[1280*720],http://51.79.193.109:8080/hlsok/3b15e6b2/index.m3u8
+星卫电影HD[1280*720],http://51.79.193.109:8080/hlsok/cfcece47/index.m3u8
+星卫娱乐台[1280*720],http://51.79.193.109:8080/hlsok/2657344c/index.m3u8
+美亚电影[1280*720],http://51.79.193.109:8080/hlsok/558343fa/index.m3u8
+elevensports1[1280*720],http://51.79.193.109:8080/hlsok/9eec5c46/index.m3u8
+elevensports2[1280*720],http://51.79.193.109:8080/hlsok/a4970c8d/index.m3u8
+欧洲体育[1280*720],http://51.79.193.109:8080/hlsok/c3afb811/index.m3u8
+NBA动态[1280*720],http://51.79.193.109:8080/hlsok/ec8e7fc2/index.m3u8
+高點綜合[1280*720],http://51.79.193.109:8080/hlsok/9569303e/index.m3u8
+壹新聞[1280*720],http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
+壹综合[1280*720],http://51.79.193.109:8080/hlsok/f0546361/index.m3u8
+壹電影[1280*720],http://51.79.193.109:8080/hlsok/4dcedbb6/index.m3u8
+年代新聞[1280*720],http://51.79.193.109:8080/hlsok/3abbaa2d/index.m3u8
+博斯高球1[1280*720],http://51.79.193.109:8080/hlsok/69e91b16/index.m3u8
+博斯高球2[1280*720],http://51.79.193.109:8080/hlsok/331f6d9d/index.m3u8
+博斯无限[1280*720],http://51.79.193.109:8080/hlsok/da31cc90/index.m3u8
+博斯網球[1280*720],http://51.79.193.109:8080/hlsok/bdec2954/index.m3u8
+博斯运动1[1280*720],http://51.79.193.109:8080/hlsok/967c8913/index.m3u8
+博斯运动2[1280*720],http://51.79.193.109:8080/hlsok/231c4866/index.m3u8
+博斯魅力[1280*720],http://51.79.193.109:8080/hlsok/5c2d477b/index.m3u8
+东风37[1280*720],http://51.79.193.109:8080/hlsok/c1809a12/index.m3u8
+年代MUCH[1280*720],http://51.79.193.109:8080/hlsok/9755ce73/index.m3u8
+JET综合[1280*720],http://51.79.193.109:8080/hlsok/0c5bc08e/index.m3u8
+霹靂台灣台[1280*720],http://51.79.193.109:8080/hlsok/7b8dd162/index.m3u8
+東森財經[1280*720],http://51.79.193.109:8080/hlsok/7a3a85b7/index.m3u8
+東森戲劇[1280*720],http://51.79.193.109:8080/hlsok/35bb9175/index.m3u8
+東森綜合[1280*720],http://51.79.193.109:8080/hlsok/d3cc16e5/index.m3u8
+東森幼幼[1280*720],http://51.79.193.109:8080/hlsok/917ed93a/index.m3u8
+东森超视[1280*720],http://51.79.193.109:8080/hlsok/53633d87/index.m3u8
+纬来育乐[1280*720],http://51.79.193.109:8080/hlsok/f1a7b27f/index.m3u8
+纬来体育[1280*720],http://51.79.193.109:8080/hlsok/04a6b392/index.m3u8
+緯來戲劇[1280*720],http://51.79.193.109:8080/hlsok/f04a37c7/index.m3u8
+緯來綜合[1280*720],http://51.79.193.109:8080/hlsok/6bfaef10/index.m3u8
+纬来日本[1280*720],http://51.79.193.109:8080/hlsok/b9c4ab9a/index.m3u8
+中天新闻[1280*720],http://51.79.193.109:8080/hlsok/565046de1/index.m3u8
+中天綜合[1280*720],http://51.79.193.109:8080/hlsok/cd862c57/index.m3u8
+中天娱乐[1280*720],http://51.79.193.109:8080/hlsok/8767613c/index.m3u8
+三立財經[1280*720],http://51.79.193.109:8080/hlsok/5ff59fda/index.m3u8
+三立台灣[1280*720],http://51.79.193.109:8080/hlsok/04cace76/index.m3u8
+三立都會[1280*720],http://51.79.193.109:8080/hlsok/6fd6bcf8/index.m3u8
+三立戏剧[1280*720],http://51.79.193.109:8080/hlsok/e27df090/index.m3u8
+八大第一台[1280*720],http://51.79.193.109:8080/hlsok/0c1c9c69/index.m3u8
+八大綜合[1280*720],http://51.79.193.109:8080/hlsok/41bea7e4/index.m3u8
+八大娛樂[1280*720],http://51.79.193.109:8080/hlsok/ae8d3762/index.m3u8
+八大戲劇[1280*720],http://51.79.193.109:8080/hlsok/ecd48897/index.m3u8
+非凡新聞[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+寰宇新闻[1280*720],http://51.79.193.109:8080/hlsok/1fb0838b/index.m3u8
+BABYfIRST[1280*720],http://51.79.193.109:8080/hlsok/d959b037/index.m3u8
+EYE旅游[1280*720],http://51.79.193.109:8080/hlsok/bb7e06ef/index.m3u8
+美食星球[1280*720],http://51.79.193.109:8080/hlsok/00740cb7/index.m3u8
+历史H2[1280*720],http://51.79.193.109:8080/hlsok/59d690d3/index.m3u8
+靖天戏剧[1280*720],http://51.79.193.109:8080/hlsok/ec8952ba/index.m3u8
+靖天日本[1280*720],http://51.79.193.109:8080/hlsok/22b2a3c1/index.m3u8
+MTV[1280*720],http://51.79.193.109:8080/hlsok/d909dee0/index.m3u8
+EVE[1280*720],http://51.79.193.109:8080/hlsok/f5fffbfc/index.m3u8
+公视台语台[1280*720],http://51.79.193.109:8080/hlsok/49ab3435/index.m3u8
+公視3HD[1280*720],http://51.79.193.109:8080/hlsok/a804122f/index.m3u8
+原住民[1280*720],http://51.79.193.109:8080/hlsok/8d6f904e/index.m3u8
+客家电视[1280*720],http://51.79.193.109:8080/hlsok/6caa4479/index.m3u8
+中视菁采台[1280*720],http://51.79.193.109:8080/hlsok/44aa1843/index.m3u8
+台视综合[1280*720],http://51.79.193.109:8080/hlsok/1364de9b/index.m3u8
+台视财经台[1280*720],http://51.79.193.109:8080/hlsok/1088d24f/index.m3u8
+MOMO親子[1280*720],http://51.79.193.109:8080/hlsok/e56e53b8/index.m3u8
+MOMO綜合[1280*720],http://51.79.193.109:8080/hlsok/cb76e2e5/index.m3u8
+人間衛視[1280*720],http://51.79.193.109:8080/hlsok/20880537/index.m3u8
+大爱电视台[1280*720],http://51.79.193.109:8080/hlsok/0fe40b1c/index.m3u8
+好消息[1280*720],http://51.79.193.109:8080/hlsok/9e23bf25/index.m3u8
+好消息2[1280*720],http://51.79.193.109:8080/hlsok/c56f11e4/index.m3u8
+TVBS 亚洲[1280*720],http://51.79.193.109:8080/hlsok/940a0adba/index.m3u8
+
+新闻,#genre#
+中天新闻[1280*720],http://51.79.193.109:8080/hlsok/565046de1/index.m3u8
+寰宇新闻[1280*720],http://51.79.193.109:8080/hlsok/1fb0838b/index.m3u8
+TVBS新闻[1280*720],http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
+东森新闻[1280*720],http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
+三立新闻[1280*720],http://51.79.193.109:8080/hlsok/0ebc9684/index.m3u8
+非凡新闻[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+民视新闻[1280*720],http://51.79.193.109:8080/hlsok/ced345d4/index.m3u8
+台视新闻[1280*720],http://51.79.193.109:8080/hlsok/c23f3737/index.m3u8
+华视新闻[1280*720],http://51.79.193.109:8080/hlsok/091887ce/index.m3u8
+壹新聞[1280*720],http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
+年代新聞[1280*720],http://51.79.193.109:8080/hlsok/3abbaa2d/index.m3u8
+東森財經[1280*720],http://51.79.193.109:8080/hlsok/7a3a85b7/index.m3u8
+非凡新聞[1280*720],http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
+卡通,#genre#
+CN卡通[1280*720],http://51.79.193.109:8080/hlsok/7fb19ba9/index.m3u8
+Animax[1280*720],http://51.79.193.109:8080/hlsok/4d696d82/index.m3u8
+Baby TV[1280*720],http://51.79.193.109:8080/hlsok/5c624ce4/index.m3u8
+東森幼幼[1280*720],http://51.79.193.109:8080/hlsok/917ed93a/index.m3u8
+BABYfIRST[1280*720],http://51.79.193.109:8080/hlsok/d959b037/index.m3u8
+MOMO親子[1280*720],http://51.79.193.109:8080/hlsok/e56e53b8/index.m3u8
+Nickelodeon FHD[1280*720],http://51.79.193.109:8080/hlsok/bd26c9bef/index.m3u8
+Disney HD[800*600],http://51.79.193.109:8080/hlsok/92d3d2fd1/index.m3u8
+Cartoon Network[1280*720],http://51.79.193.109:8080/hlsok/bffccef17/index.m3u8
+Nick jr FHD[1280*720],http://51.79.193.109:8080/hlsok/edbf8681e/index.m3u8
+Boomerang[1280*720],http://51.79.193.109:8080/hlsok/793feddf2/index.m3u8
+Moonbug Kids[1280*720],http://51.79.193.109:8080/hlsok/865cf9e84/index.m3u8
+小太阳 FHD[1280*720],http://51.79.193.109:8080/hlsok/8fc3aa637/index.m3u8
+
+电影,#genre#
+东森电影[1280*720],http://51.79.193.109:8080/hlsok/75d7613b/index.m3u8
+东森洋片[1280*720],http://51.79.193.109:8080/hlsok/14561539/index.m3u8
+好莱坞[1280*720],http://51.79.193.109:8080/hlsok/a78680e4/index.m3u8
+龙祥电影[1280*720],http://51.79.193.109:8080/hlsok/e4a13cc1/index.m3u8
+纬来电影[1280*720],http://51.79.193.109:8080/hlsok/75966caf/index.m3u8
+HBO HD[1920*1080],http://51.79.193.109:8080/hlsok/8fdeabec/index.m3u8
+HBO强档 HD[1280*720],http://51.79.193.109:8080/hlsok/335d6895/index.m3u8
+HBO家庭 HD[1280*720],http://51.79.193.109:8080/hlsok/1a67a2aa/index.m3u8
+HBO原创 HD[1280*720],http://51.79.193.109:8080/hlsok/3c54101b/index.m3u8
+AXN HD[1280*720],http://51.79.193.109:8080/hlsok/c1c18f78/index.m3u8
+CINEMAX HD[1280*720],http://51.79.193.109:8080/hlsok/79be7824/index.m3u8
+WarnerTV HD[1280*720],http://51.79.193.109:8080/hlsok/9cb32ea0/index.m3u8
+Star Movies HD[1280*720],http://51.79.193.109:8080/hlsok/716adb39/index.m3u8
+CI HD[1280*720],http://51.79.193.109:8080/hlsok/aad39e7d/index.m3u8
+卫视电影台[1280*720],http://51.79.193.109:8080/hlsok/2359ba51/index.m3u8
+星卫电影HD[1280*720],http://51.79.193.109:8080/hlsok/cfcece47/index.m3u8
+美亚电影[1280*720],http://51.79.193.109:8080/hlsok/558343fa/index.m3u8
+壹電影[1280*720],http://51.79.193.109:8080/hlsok/4dcedbb6/index.m3u8
+爱奇艺 FHD[1280*720],http://51.79.193.109:8080/hlsok/c0603ce98/index.m3u8
+天映经典[1280*720],http://51.79.193.109:8080/hlsok/38bee4d5f/index.m3u8
+CCTV-6 HD[1280*720],http://51.79.193.109:8080/hlsok/291643ca/index.m3u8
+
+
 
 
 台灣動畫,#genre#
