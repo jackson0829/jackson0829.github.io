@@ -397,6 +397,11 @@ Moonbug Kids[1280*720],http://51.79.193.109:8080/hlsok/865cf9e84/index.m3u8
 小太阳 FHD[1280*720],http://51.79.193.109:8080/hlsok/8fc3aa637/index.m3u8
 
 港台电影,#genre#
+東森洋片台[1920*1080],http://125.227.210.37:18685/VideoInput/play.ts
+東森台戲劇[1920*1080],http://125.227.210.55:17524/VideoInput/play.ts
+CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东森电影[1280*720],http://51.79.193.109:8080/hlsok/75d7613b/index.m3u8
 东森洋片[1280*720],http://51.79.193.109:8080/hlsok/14561539/index.m3u8
 好莱坞[1280*720],http://51.79.193.109:8080/hlsok/a78680e4/index.m3u8
@@ -517,12 +522,7 @@ RAW[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333
 頂級大賽[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.xs
 視頻秀[1920*1080],http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
 
-電影,#genre#
-東森洋片台[1920*1080],http://125.227.210.37:18685/VideoInput/play.ts
-東森台戲劇[1920*1080],http://125.227.210.55:17524/VideoInput/play.ts
-CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+中國電影,#genre#
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 亞洲影院,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
