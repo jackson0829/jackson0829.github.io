@@ -1,3 +1,64 @@
+Streamtest0522,#genre#
+寰宇新闻[1920*1080],https://git.io/JgkpO
+寰宇新闻[1920*1080],https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+三立新闻HD[854*480],http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+三立台湾[1920*1080],http://59.125.101.187:8501/playlist.m3u8
+三立台灣[1920*1080],http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+東森電影[1920*1080],http://120.84.96.42:808/hls/32/index.m3u8
+東森電影[1920*1080],http://120.84.96.43:808/hls/32/index.m3u8
+東森電影[1920*1080],http://120.84.96.46:808/hls/32/index.m3u8
+東森美洲[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+東森財經新聞[1920*1080],https://git.io/Jgkpc
+東森洋片[1920*1080],http://125.227.210.55:18685/VideoInput/play.ts
+TVBS新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新聞[1920*1080],http://125.227.210.55:16329/VideoInput/play.ts
+TVBS-N[640*360],http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+TVBS-N[854*480],http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+TVBS-N[854*480],http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+TVBS[1920*1080],https://git.io/JgYl2
+中天娛樂[1920*1080],http://125.227.210.55:15796/VideoInput/play.ts
+中天娛樂[1920*1080],http://125.227.210.37:15796/VideoInput/play.ts
+龙华戏剧[1920*1080],http://59.125.98.83:8534/playlist.m3u8
+龍華戲劇.[1920*1080],http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龍華戲劇.[1920*1080],http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩[1920*1080],http://59.125.98.83:8535/playlist.m3u8
+龍華日韓[1920*1080],http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龍華日韓[1920*1080],http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+緯來體育HD[1920*1080],http://125.227.210.37:18358/VideoInput/play.ts
+民视[640*360],http://seb.sason.top/ptv/ftv.php?id=ms
+民视新闻[760*428],https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
+民视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+民視新聞台[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视综艺[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
+民视影剧[640*360],http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游[640*360],http://seb.sason.top/ptv/ftv.php?id=ly
+台視新聞[1920*1080],https://git.io/JgkxY
+台視新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+台視新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+中视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+卫视中文[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+大愛一台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛一臺[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二臺[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+HBO HD[1920*1080],http://125.227.210.55:16027/VideoInput/play.ts
+HBO Family[1920*1080],https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
+HBO Asia[640*360],https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO XTREME[640*480],http://38.123.205.70:8000/play/a096/index.m3u8
+GOOD TV CH3[1280*720],http://live.streamingfast.net/osmflivech3.m3u8
+GOOD TV CH1[1280*720],http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+GOOD TV CH2[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+GoodTV 真情部落[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GoodTV 經典音樂[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV 健康煮流[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GoodTV 共享觀點[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+GoodTV 愛旅行台[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+原住民電視[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+唯心衛視[854*480],http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+NHK華語[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+
 愛看電視,#genre#
 寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 鏡新聞[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
