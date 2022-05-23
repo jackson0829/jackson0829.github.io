@@ -72,7 +72,7 @@ TLC旅游[1920*1080],http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/81
 原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 国兴卫视[1920*1080],http://60.249.146.250:8545/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
 
-Biubiu TW,#genre#
+BiubiuTW,#genre#
 TVBS新闻[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 民视新闻[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -110,7 +110,6 @@ HBO英文[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklis
 HTV3[1024*576],https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 HBO2台[1280*720],http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 亚洲新闻[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 
 台灣M3U,#genre#
 寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
@@ -168,7 +167,6 @@ GOODTV卡通[1280*720]],https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV空中圣经学院[1280*720]],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
 GOODTV空中主日学[1280*720]],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch26-2.m3u8
 GOODTV空中主日学[1280*720]],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch23-2.m3u8
-
 
 4GTV,#genre#
 寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
@@ -232,7 +230,7 @@ GOODTV空中主日学[1280*720]],https://dqhxk7sbp7xog.cloudfront.net/hls-live/g
 獅子王國[640*360][640*360],https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 倒霉特熊[1280*720],https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 
-VIP综艺直播,#genre#
+VIP综艺,#genre#
 李子柒视频[1920*1080],http://121.51.249.8/txdirect.hls.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.m3u8
 李子柒视频[1920*1080],http://121.51.249.54/txdirect.hls.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.m3u8
 山药视频[1920*1080],http://121.51.249.8/txdirect.hls.huya.com/src/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
@@ -259,7 +257,7 @@ VIP综艺直播,#genre#
 笑傲帮[1920*1080],http://121.51.249.8/txdirect.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
 笑傲帮[1920*1080],http://121.51.249.54/txdirect.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
 
-電影,#genre#
+中國電影,#genre#
 東森台戲劇[1920*1080],http://125.227.210.55:17524/VideoInput/play.ts
 黑莓电影[1920*1080],http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 亞洲影院[1280*720]],http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
@@ -373,7 +371,7 @@ SNH48剧场[1280*720]],http://117.148.179.139/PLTV/88888888/224/3221231622/index
 东方影视[1920*1080],http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 广东影视[1920*1080],http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
 
-電影點播,#genre#
+外國電影,#genre#
 2021尚氣與十環傳奇[1920*804][1920*804],https://sod.bunediy.com/20211110/MpyfWo6r/index.m3u8
 2021猛毒2：血蜘蛛[1920*1080],https://sod.bunediy.com/20211111/56GUOks3/index.m3u8
 2021火線突圍[1920*816][1920*816],https://new.iskcd.com/20210903/SWpImSm6/index.m3u8
