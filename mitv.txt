@@ -325,6 +325,8 @@ VIU,p5p://fccs.123178.top:9906/615ae21f000542fd04536e7d15caf57f
 VIU SIX,p5p://fccs.123178.top:9906/6159c5d9000848ff19fce09318840f2c
 TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 TVB明珠,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
+
+PXP0526(3),#genre#
 TVBS新闻,p5p://fccs.123178.top:9906/61494c2100042a180d6a3fdd3c19ba48
 TVBS精彩,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 TVBS欢乐台,p5p://fccs.123178.top:9906/614942c70008d5e00d45b97fe1d761d3
@@ -460,7 +462,7 @@ TLC旅游生活频道,P2p://ns2.hellotvvod.com:9906/df3c8d2c1a38422abb36710efd9a
 澳亚卫视,P2p://ns2.hellotvvod.com:9906/d0bdd6dd2e3747ed9611bc286a157d4f.ts
 澳门莲花,P2p://ns2.hellotvvod.com:9906/c55c6ac182ab4cb38992449f6d155d81.ts
 
-PXP0526(3),#genre#
+PXP0526(4),#genre#
 TVBS HD,P2p://ns2.hellotvvod.com:9906/d1bdb5f9c9254278b6d11b52ed1ff945.ts
 TVBS欢乐台,P2p://ns2.hellotvvod.com:9906/521f6d66cd58414ab968ddc75d7dbc2d.ts
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/c254c362efcd4043bd76c63c9e066c2b.ts
@@ -582,7 +584,7 @@ ELEVEN体育PLUS,P2p://ns2.hellotvvod.com:9906/90ca1fb937da4b079e2e7ffccc5e760c.
 纬来育乐台,P2p://ns2.hellotvvod.com:9906/0fd41b1db97244be9f875bac0ba93b49.ts
 纬来综合台,P2p://ns2.hellotvvod.com:9906/d79e6259d1b5489d95b56a7398e52173.ts
 
-PXP0526(4),#genre#
+PXP0526(5),#genre#
 TVBS HD,P2p://ns2.hellotvvod.com:9906/d1bdb5f9c9254278b6d11b52ed1ff945.ts
 TVBS欢乐台,P2p://ns2.hellotvvod.com:9906/521f6d66cd58414ab968ddc75d7dbc2d.ts
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/c254c362efcd4043bd76c63c9e066c2b.ts
