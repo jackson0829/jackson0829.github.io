@@ -7,6 +7,7 @@ now新視台,mitv://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 三立新視台,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
 TVBS新視台,mitv://ns2.hellotvvod.com:9906/4b77b4e4dd394bc6a869f3283d3c42d7.ts
 東森視視新視台,mitv://ns2.hellotvvod.com:9906/078d0c4531f24463b29579ecd6263d59.ts
+台視新視台,mitv://ns2.hellotvvod.com:9906/b96e51ad47e54f579be39ed930641f8f.ts
 民視,mitv://ns2.hellotvvod.com:9906/0394bf5e709f4d7690f2983884f71a16.ts
 人間衛視,mitv://ns2.hellotvvod.com:9906/d8aad5849a464c12a4e024bb8ef94561.ts
 台視,mitv://ns2.hellotvvod.com:9906/a7ecfaa54e7c454c8e433973c210c45d.ts
@@ -51,23 +52,16 @@ CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
 CGTN,mitv://ns2.hellotvvod.com:9906/563569aad1c142a9aba185d061b1c69f.ts
 BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
 Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
-CNA,mitv://ns2.hellotvvod.com:9906/da8d1a998f104b1385e0102bad9eafdb.ts
-
-TNN 16,mitv://ns2.hellotvvod.com:9906/5ce89e6c1f684dfea6a93cc47b986e5b.ts
 Sky News,mitv://ns2.hellotvvod.com:9906/2aeb4c3ccfa944a09e07b4b786ce2a4d.ts
 DW,mitv://ns2.hellotvvod.com:9906/5e3cbc2272774870884f7e84cb693c52.ts
 國會頻道1,mitv://ns2.hellotvvod.com:9906/114aa7d0a8af4d41992a03cae4003e0d.ts
-台視新視台,mitv://ns2.hellotvvod.com:9906/b96e51ad47e54f579be39ed930641f8f.ts
 百視通視視,http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8視servicetype=1
 極速汽視,http://39.135.55.105:6610/PLTV/88888888/224/3221227186/index.m3u8視servicetype=1
 勁爆體育,http://111.40.196.9/PLTV/88888888/224/3221225505/index.m3u8
 遊戲風視,http://39.135.55.105:6610/PLTV/88888888/224/3221227075/index.m3u8視servicetype=1
-五星體育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 魅力足球,mitv://ns2.hellotvvod.com:9906/8d65d3e979d3421ea89fd310fe420b26.ts
 新視覺,mitv://ns2.hellotvvod.com:9906/a09607b183f44964a6c746c883149a8a.ts
 廣東體育,mitv://ns2.hellotvvod.com:9906/5238ddac6c8d4e6bbb4a9db5740c1e9c.ts
-
-
 
 台湾,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
