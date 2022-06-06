@@ -463,7 +463,6 @@ YTN[1920*1080][1920*1080],http://125.227.210.55:8932/VideoInput/play.ts
 黑龍江少兒[785*576],http://39.134.65.149/PLTV/88888888/224/3221226002/1.m3u8
 
 
-
 最新電影點播頻道,#genre#
 2021尚氣與十環傳奇[1920*804],https://sod.bunediy.com/20211110/MpyfWo6r/index.m3u8
 2021猛毒2：血蜘蛛[1920*1080],https://sod.bunediy.com/20211111/56GUOks3/index.m3u8
@@ -473,557 +472,558 @@ YTN[1920*1080][1920*1080],http://125.227.210.55:8932/VideoInput/play.ts
 2021自煞突擊隊集結[1920*1080],https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
 2021玩命關頭9[1920*1080],https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
 
+MV集合,#genre#
+1號[720*540],http://em.21dtv.com/songs/60110000.mkv
+2號[853*480],http://em.21dtv.com/songs/60110001.mkv
+3號[853*480],http://em.21dtv.com/songs/60110002.mkv
+4號[854*480],http://em.21dtv.com/songs/60110003.mkv
+7號[853*480],http://em.21dtv.com/songs/60110006.mkv
+5號[854*480],http://em.21dtv.com/songs/60110004.mkv
+8號[853*480],http://em.21dtv.com/songs/60110007.mkv
+6號[854*480],http://em.21dtv.com/songs/60110005.mkv
+9號[853*480],http://em.21dtv.com/songs/60110008.mkv
+10號[853*480],http://em.21dtv.com/songs/60110009.mkv
+12號[853*480],http://em.21dtv.com/songs/60110011.mkv
+13號[853*480],http://em.21dtv.com/songs/60110012.mkv
+11號[853*480],http://em.21dtv.com/songs/60110010.mkv
+14號[853*480],http://em.21dtv.com/songs/60110013.mkv
+16號[720*540],http://em.21dtv.com/songs/60110015.mkv
+17號[720*540],http://em.21dtv.com/songs/60110016.mkv
+15號[854*480],http://em.21dtv.com/songs/60110014.mkv
+18號[853*480],http://em.21dtv.com/songs/60110017.mkv
+21號[720*540],http://em.21dtv.com/songs/60110020.mkv
+19號[854*480],http://em.21dtv.com/songs/60110018.mkv
+20號[854*480],http://em.21dtv.com/songs/60110019.mkv
+22號[853*480],http://em.21dtv.com/songs/60110021.mkv
+23號[853*480],http://em.21dtv.com/songs/60110022.mkv
+24號[853*480],http://em.21dtv.com/songs/60110023.mkv
+25號[853*480],http://em.21dtv.com/songs/60110024.mkv
+26號[853*480],http://em.21dtv.com/songs/60110025.mkv
+27號[854*480],http://em.21dtv.com/songs/60110026.mkv
+28號[853*480],http://em.21dtv.com/songs/60110027.mkv
+29號[853*480],http://em.21dtv.com/songs/60110028.mkv
+31號[720*540],http://em.21dtv.com/songs/60110030.mkv
+32號[720*540],http://em.21dtv.com/songs/60110031.mkv
+34號[853*480],http://em.21dtv.com/songs/60110033.mkv
+33號[853*480],http://em.21dtv.com/songs/60110032.mkv
+36號[853*480],http://em.21dtv.com/songs/60110035.mkv
+35號[853*480],http://em.21dtv.com/songs/60110034.mkv
+30號[853*480],http://em.21dtv.com/songs/60110029.mkv
+37號[854*480],http://em.21dtv.com/songs/60110036.mkv
+38號[854*480],http://em.21dtv.com/songs/60110037.mkv
+39號[720*540],http://em.21dtv.com/songs/60110038.mkv
+41號[853*480],http://em.21dtv.com/songs/60110040.mkv
+40號[853*480],http://em.21dtv.com/songs/60110039.mkv
+42號[853*480],http://em.21dtv.com/songs/60110041.mkv
+43號[720*540],http://em.21dtv.com/songs/60110042.mkv
+44號[853*480],http://em.21dtv.com/songs/60110043.mkv
+46號[853*480],http://em.21dtv.com/songs/60110045.mkv
+45號[854*480],http://em.21dtv.com/songs/60110044.mkv
+47號[854*480],http://em.21dtv.com/songs/60110046.mkv
+48號[720*540],http://em.21dtv.com/songs/60110047.mkv
+49號[853*480],http://em.21dtv.com/songs/60110048.mkv
+50號[853*480],http://em.21dtv.com/songs/60110049.mkv
+52號[853*480],http://em.21dtv.com/songs/60110051.mkv
+51號[854*480],http://em.21dtv.com/songs/60110050.mkv
+53號[853*480],http://em.21dtv.com/songs/60110052.mkv
+54號[853*480],http://em.21dtv.com/songs/60110053.mkv
+56號[853*480],http://em.21dtv.com/songs/60110055.mkv
+57號[854*480],http://em.21dtv.com/songs/60110056.mkv
+55號[853*480],http://em.21dtv.com/songs/60110054.mkv
+59號[853*480],http://em.21dtv.com/songs/60110058.mkv
+58號[853*480],http://em.21dtv.com/songs/60110057.mkv
+60號[853*480],http://em.21dtv.com/songs/60110059.mkv
+62號[853*480],http://em.21dtv.com/songs/60110061.mkv
+61號[854*480],http://em.21dtv.com/songs/60110060.mkv
+63號[853*480],http://em.21dtv.com/songs/60110062.mkv
+67號[853*480],http://em.21dtv.com/songs/60110066.mkv
+66號[853*480],http://em.21dtv.com/songs/60110065.mkv
+64號[854*480],http://em.21dtv.com/songs/60110063.mkv
+65號[853*480],http://em.21dtv.com/songs/60110064.mkv
+68號[853*480],http://em.21dtv.com/songs/60110067.mkv
+71號[853*480],http://em.21dtv.com/songs/60110070.mkv
+70號[853*480],http://em.21dtv.com/songs/60110069.mkv
+72號[853*480],http://em.21dtv.com/songs/60110071.mkv
+73號[853*480],http://em.21dtv.com/songs/60110072.mkv
+69號[854*480],http://em.21dtv.com/songs/60110068.mkv
+74號[853*480],http://em.21dtv.com/songs/60110073.mkv
+76號[853*480],http://em.21dtv.com/songs/60110075.mkv
+75號[854*480],http://em.21dtv.com/songs/60110074.mkv
+77號[720*540],http://em.21dtv.com/songs/60110076.mkv
+78號[720*540],http://em.21dtv.com/songs/60110077.mkv
+79號[720*540],http://em.21dtv.com/songs/60110078.mkv
+81號[853*480],http://em.21dtv.com/songs/60110080.mkv
+80號[853*480],http://em.21dtv.com/songs/60110079.mkv
+82號[853*480],http://em.21dtv.com/songs/60110081.mkv
+83號[720*540],http://em.21dtv.com/songs/60110082.mkv
+84號[853*480],http://em.21dtv.com/songs/60110083.mkv
+85號[853*480],http://em.21dtv.com/songs/60110084.mkv
+86號[853*480],http://em.21dtv.com/songs/60110085.mkv
+87號[853*480],http://em.21dtv.com/songs/60110086.mkv
+88號[853*480],http://em.21dtv.com/songs/60110087.mkv
+89號[720*540],http://em.21dtv.com/songs/60110088.mkv
+90號[854*480],http://em.21dtv.com/songs/60110089.mkv
+91號[853*480],http://em.21dtv.com/songs/60110090.mkv
+92號[853*480],http://em.21dtv.com/songs/60110091.mkv
+93號[853*480],http://em.21dtv.com/songs/60110092.mkv
+95號[854*480],http://em.21dtv.com/songs/60110094.mkv
+94號[853*480],http://em.21dtv.com/songs/60110093.mkv
+96號[854*480],http://em.21dtv.com/songs/60110095.mkv
+97號[853*480],http://em.21dtv.com/songs/60110096.mkv
+98號[854*480],http://em.21dtv.com/songs/60110097.mkv
+99號[854*480],http://em.21dtv.com/songs/60110098.mkv
+100號[854*480],http://em.21dtv.com/songs/60110099.mkv
+101號[853*480],http://em.21dtv.com/songs/60110100.mkv
+102號[854*480],http://em.21dtv.com/songs/60110101.mkv
+103號[853*480],http://em.21dtv.com/songs/60110102.mkv
+104號[853*480],http://em.21dtv.com/songs/60110103.mkv
+105號[853*480],http://em.21dtv.com/songs/60110104.mkv
+106號[853*480],http://em.21dtv.com/songs/60110105.mkv
+107號[853*480],http://em.21dtv.com/songs/60110106.mkv
+108號[854*480],http://em.21dtv.com/songs/60110107.mkv
+109號[853*480],http://em.21dtv.com/songs/60110108.mkv
+110號[854*480],http://em.21dtv.com/songs/60110109.mkv
+113號[853*480],http://em.21dtv.com/songs/60110112.mkv
+111號[854*480],http://em.21dtv.com/songs/60110110.mkv
+112號[854*480],http://em.21dtv.com/songs/60110111.mkv
+114號[853*480],http://em.21dtv.com/songs/60110113.mkv
+117號[720*540],http://em.21dtv.com/songs/60110116.mkv
+115號[720*540],http://em.21dtv.com/songs/60110114.mkv
+118號[853*480],http://em.21dtv.com/songs/60110117.mkv
+120號[853*480],http://em.21dtv.com/songs/60110119.mkv
+116號[854*480],http://em.21dtv.com/songs/60110115.mkv
+119號[853*480],http://em.21dtv.com/songs/60110118.mkv
+122號[853*480],http://em.21dtv.com/songs/60110121.mkv
+121號[853*480],http://em.21dtv.com/songs/60110120.mkv
+123號[854*480],http://em.21dtv.com/songs/60110122.mkv
+125號[854*480],http://em.21dtv.com/songs/60110124.mkv
+124號[854*480],http://em.21dtv.com/songs/60110123.mkv
+126號[853*480],http://em.21dtv.com/songs/60110125.mkv
+127號[853*480],http://em.21dtv.com/songs/60110126.mkv
+129號[720*540],http://em.21dtv.com/songs/60110128.mkv
+128號[853*480],http://em.21dtv.com/songs/60110127.mkv
+131號[720*540],http://em.21dtv.com/songs/60110130.mkv
+130號[720*540],http://em.21dtv.com/songs/60110129.mkv
+133號[720*540],http://em.21dtv.com/songs/60110132.mkv
+132號[853*480],http://em.21dtv.com/songs/60110131.mkv
+134號[1024*576],http://em.21dtv.com/songs/60110133.mkv
+135號[720*540],http://em.21dtv.com/songs/60110134.mkv
+136號[854*480],http://em.21dtv.com/songs/60110135.mkv
+137號[854*480],http://em.21dtv.com/songs/60110136.mkv
+138號[854*480],http://em.21dtv.com/songs/60110137.mkv
+139號[854*480],http://em.21dtv.com/songs/60110138.mkv
+141號[853*480],http://em.21dtv.com/songs/60110140.mkv
+140號[854*480],http://em.21dtv.com/songs/60110139.mkv
+143號[854*480],http://em.21dtv.com/songs/60110142.mkv
+142號[853*480],http://em.21dtv.com/songs/60110141.mkv
+144號[854*480],http://em.21dtv.com/songs/60110143.mkv
+147號[853*480],http://em.21dtv.com/songs/60110146.mkv
+145號[853*480],http://em.21dtv.com/songs/60110144.mkv
+146號[853*480],http://em.21dtv.com/songs/60110145.mkv
+151號[1920*1080],http://em.21dtv.com/songs/60110150.mkv
+149號[768*576],http://em.21dtv.com/songs/60110148.mkv
+148號[720*540],http://em.21dtv.com/songs/60110147.mkv
+150號[768*576],http://em.21dtv.com/songs/60110149.mkv
+155號[853*480],http://em.21dtv.com/songs/60110154.mkv
+152號[854*480],http://em.21dtv.com/songs/60110151.mkv
+154號[854*480],http://em.21dtv.com/songs/60110153.mkv
+153號[854*480],http://em.21dtv.com/songs/60110152.mkv
+157號[853*480],http://em.21dtv.com/songs/60110156.mkv
+156號[853*480],http://em.21dtv.com/songs/60110155.mkv
+159號[853*480],http://em.21dtv.com/songs/60110158.mkv
+158號[853*480],http://em.21dtv.com/songs/60110157.mkv
+162號[853*480],http://em.21dtv.com/songs/60110161.mkv
+160號[854*480],http://em.21dtv.com/songs/60110159.mkv
+161號[720*540],http://em.21dtv.com/songs/60110160.mkv
+163號[853*480],http://em.21dtv.com/songs/60110162.mkv
+164號[720*540],http://em.21dtv.com/songs/60110163.mkv
+165號[853*480],http://em.21dtv.com/songs/60110164.mkv
+166號[854*480],http://em.21dtv.com/songs/60110165.mkv
+167號[854*480],http://em.21dtv.com/songs/60110166.mkv
+169號[853*480],http://em.21dtv.com/songs/60110168.mkv
+168號[853*480],http://em.21dtv.com/songs/60110167.mkv
+172號[853*480],http://em.21dtv.com/songs/60110171.mkv
+173號[853*480],http://em.21dtv.com/songs/60110172.mkv
+170號[854*480],http://em.21dtv.com/songs/60110169.mkv
+174號[853*480],http://em.21dtv.com/songs/60110173.mkv
+171號[853*480],http://em.21dtv.com/songs/60110170.mkv
+175號[853*480],http://em.21dtv.com/songs/60110174.mkv
+176號[720*540],http://em.21dtv.com/songs/60110175.mkv
+177號[720*540],http://em.21dtv.com/songs/60110176.mkv
+179號[720*540],http://em.21dtv.com/songs/60110178.mkv
+180號[853*480],http://em.21dtv.com/songs/60110179.mkv
+178號[720*540],http://em.21dtv.com/songs/60110177.mkv
+181號[853*480],http://em.21dtv.com/songs/60110180.mkv
+182號[853*480],http://em.21dtv.com/songs/60110181.mkv
+184號[854*480],http://em.21dtv.com/songs/60110183.mkv
+186號[854*480],http://em.21dtv.com/songs/60110185.mkv
+183號[854*480],http://em.21dtv.com/songs/60110182.mkv
+185號[854*480],http://em.21dtv.com/songs/60110184.mkv
+187號[720*540],http://em.21dtv.com/songs/60110186.mkv
+190號[854*480],http://em.21dtv.com/songs/60110189.mkv
+188號[720*540],http://em.21dtv.com/songs/60110187.mkv
+191號[853*480],http://em.21dtv.com/songs/60110190.mkv
+189號[853*480],http://em.21dtv.com/songs/60110188.mkv
+192號[853*480],http://em.21dtv.com/songs/60110191.mkv
+193號[854*480],http://em.21dtv.com/songs/60110192.mkv
+194號[854*480],http://em.21dtv.com/songs/60110193.mkv
+195號[854*480],http://em.21dtv.com/songs/60110194.mkv
+196號[854*480],http://em.21dtv.com/songs/60110195.mkv
+199號[853*480],http://em.21dtv.com/songs/60110198.mkv
+197號[853*480],http://em.21dtv.com/songs/60110196.mkv
+198號[720*540],http://em.21dtv.com/songs/60110197.mkv
+200號[853*480],http://em.21dtv.com/songs/60110199.mkv
+201號[853*480],http://em.21dtv.com/songs/60110200.mkv
 
-成人點播頻道,#genre#
-J罩杯神乳RION不穿奶罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/5672/5672.m3u8
-今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
-性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
-叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
-鮑魚游戲-孟若羽[960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
-肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
-反差淫女初登場-楚夢舒[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/6219ebe2b9e8e9119a2f1fee/playlist.m3u8
-桃色誘惑閨蜜發騷-尋小小[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219eba7b9e8e9119a2f1fed/playlist.m3u8
-活潑OL初次拍攝[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
-飢渴人妻大膽淫誘-蜜蘇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/6219e98ab9e8e9119a2f1fe7/playlist.m3u8
-鋼琴老師的激情樂章[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219e94eb9e8e9119a2f1fe6/playlist.m3u8
-色欲熏心強奸堂妹-金寶媛[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62104c9a9d14d648884aa814/playlist.m3u8
-交換我們的愛妻來互相內[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605637386/1000/1970/1970.m3u8
-淫靡大小姐の瘋狂性愛[1920*1080],https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
-內穴服務-孟若羽[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
-淫亂生活-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
-小姨勾引親外甥-白星雨[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
-背德性愛EP1對母性[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/61ee464a4e82d1622de7f24b/playlist.m3u8
-閨蜜帶著弟弟來轉大人[1920*1080],https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
-老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
-合租之偷窺-季曉彤,chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
-爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
-口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
-白色妖姬 -美樂蒂[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
-阿爾法車震台中篇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
-宅男初體驗s級性愛機器人[1920*1080],https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
-大嫂[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
-綠茶女友[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
-婚內情-楊桃[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610cf1adff7a912d5bde15c3/playlist.m3u8
-父女的不倫之戀-李小藍[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
-艷母2-孟若羽[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
-菜鳥特務-袁子儀[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
-兄弟新交的女朋友-李雪[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
-泳裝妹妹的誘惑相奸-韓棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
-釋放淫欲的神女-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
-笨女孩的聰明想法-蘇語棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
-綠帽男友的復仇-尤莉[640*480],https://stream.cdnedge15.live/file/avple-images/hls/60deb63541b32117d66a0b94/playlist.m3u8
-我的妹妹不可能這麼可愛2-穆娜[1280*720],https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
-自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
-AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
-就算一直暗戀的青梅竹馬小倉由菜已經結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
-女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
-女朋友的姐姐葵的全力走光誘惑我[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
-夜宿美女同事岬奈奈美家裡被沒穿胸罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
-憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
-公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
-今晚老公不在家-陳小雨[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
-性愛餐酒館EP1-孟若羽[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc71ee14ae771445e47fb/playlist.m3u8
-叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
-鮑魚游戲-孟若羽[960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
-肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
-反差淫女初登場-楚夢舒[1280*720],https://e2fa6.cdnedge.live/file/avple-images/hls/6219ebe2b9e8e9119a2f1fee/playlist.m3u8
-桃色誘惑閨蜜發騷-尋小小[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219eba7b9e8e9119a2f1fed/playlist.m3u8
-活潑OL初次拍攝[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
-飢渴人妻大膽淫誘-蜜蘇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/6219e98ab9e8e9119a2f1fe7/playlist.m3u8
-鋼琴老師的激情樂章[1280*720],https://w9n76.cdnedge.live/file/avple-images/hls/6219e94eb9e8e9119a2f1fe6/playlist.m3u8
-色欲熏心強奸堂妹-金寶媛[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62104c9a9d14d648884aa814/playlist.m3u8
-交換我們的愛妻來互相內[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605637386/1000/1970/1970.m3u8
-淫靡大小姐の瘋狂性愛[1920*1080],https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
-內穴服務-孟若羽[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
-淫亂生活-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/61efa0b25d579208810784f6/playlist.m3u8
-小姨勾引親外甥-白星雨[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/61efa03b5d579208810784f5/playlist.m3u8
-背德性愛EP1對母性[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/61ee464a4e82d1622de7f24b/playlist.m3u8
-閨蜜帶著弟弟來轉大人[1920*1080],https://v10.ripic.xyz/60d05f73cf7f29af26966b21/video.m3u8
-老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
-合租之偷窺-季曉彤,chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
-爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
-口交5分鐘不射就內射[1920*1080],https://v10.ripic.xyz/60de050fb89f73afd3e60da9/video.m3u8
-白色妖姬 -美樂蒂[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
-阿爾法車震台中篇[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
-宅男初體驗s級性愛機器人[1920*1080],https://v10.ripic.xyz/5ebe87fb893e3dcf5305a3d2/video.m3u8
-大嫂[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
-綠茶女友[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
-婚內情-楊桃[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610cf1adff7a912d5bde15c3/playlist.m3u8
-父女的不倫之戀-李小藍[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
-艷母2-孟若羽[1280*720],https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
-菜鳥特務-袁子儀[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
-兄弟新交的女朋友-李雪[1280*720],https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
-泳裝妹妹的誘惑相奸-韓棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
-釋放淫欲的神女-吳芳宜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
-笨女孩的聰明想法-蘇語棠[1280*720],https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
-我的妹妹不可能這麼可愛2-穆娜[1280*720],https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
-自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
-AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
-就算一直暗戀的青梅竹馬小倉由菜已經結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
-女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
-女朋友的姐姐葵的全力走光誘惑我[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
-夜宿美女同事岬奈奈美家裡被沒穿胸罩[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
-憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
-公公的特別照顧-陳若瑤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
-⌨日本專區,#genre#
-僕生中出人妻 篠田,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
-拔14發中出  武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
-男性主導體位 上原亞衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
-卑猥過巨乳娘婿 風間,http://videocdn.quweikm.com:8091/20180730/SGV-002c/index.m3u8
-在宅人妻 篠田,http://videocdn.quweikm.com:8091/20180730/SERO-0268c/index.m3u8
-童貞筆真正中出,http://videocdn.quweikm.com:8091/20180730/SDMU-166c/index.m3u8
-東京都惠比壽人妻專門,http://videocdn.quweikm.com:8091/20180730/SGSR-140c/index.m3u8
-色白美肌人氣熟女中出  七海代,http://videocdn.quweikm.com:8091/20180730/SERO-0241c/index.m3u8
-成熟姊裸觸,http://videocdn.quweikm.com:8091/20180730/SDMU-162c/index.m3u8
-號晝休,http://videocdn.quweikm.com:8091/20180730/SDMU-115c/index.m3u8
-極上美女中出  伊籐,http://videocdn.quweikm.com:8091/20180730/SERO-0237c/index.m3u8
-夜勤熟女看護師,http://videocdn.quweikm.com:8091/20180730/SHE-029c/index.m3u8
-傢族女性私人,http://videocdn.quweikm.com:8091/20180730/SDMU-100c/index.m3u8
-媚藥授業中  西川,http://videocdn.quweikm.com:8091/20180730/SERO-0234c/index.m3u8
-素人妻中出,http://videocdn.quweikm.com:8091/20180730/SHE-028c/index.m3u8
-SOD女子社員宣伝部,http://videocdn.quweikm.com:8091/20180730/SDMU-088c/index.m3u8
-街中聲掛心優,http://videocdn.quweikm.com:8091/20180730/SDMU-173c/index.m3u8
-全裸同級生,http://videocdn.quweikm.com:8091/20180730/SGV-013c/index.m3u8
-憧女性社員,http://videocdn.quweikm.com:8091/20180730/SGSR-137c/index.m3u8
-真正中出解禁 濱崎真緒,http://videocdn.quweikm.com:8091/20180730/SDMU-171c/index.m3u8
-巨乳搜查官 原千草,http://videocdn.quweikm.com:8091/20180730/SGV-008c/index.m3u8
-細身巨乳過頭身人妻 松嵨葵,http://videocdn.quweikm.com:8091/20180730/SGA-012c/index.m3u8
-清純派素人系店員,http://videocdn.quweikm.com:8091/20180730/SHE-064c/index.m3u8
-姊性教育 本田莉子,http://videocdn.quweikm.com:8091/20180730/SGV-007c/index.m3u8
-中出不倫溫泉,http://videocdn.quweikm.com:8091/20180730/SGA-004c/index.m3u8
-巨乳水著,http://videocdn.quweikm.com:8091/20180730/SHE-033c/index.m3u8
-可愛美少女,http://videocdn.quweikm.com:8091/20180730/SHE-086c/index.m3u8
-小柄美少女巨體,http://videocdn.quweikm.com:8091/20180730/SDMU-170c/index.m3u8
-禁斷介護 櫻木香,http://videocdn.quweikm.com:8091/20180730/SGV-006c/index.m3u8
-中出企畫 篠田,http://videocdn.quweikm.com:8091/20180730/SERO-0273c/index.m3u8
-巨乳診察 橘優花,http://videocdn.quweikm.com:8091/20180730/SGV-003c/index.m3u8
-男湯生插入,http://videocdn.quweikm.com:8091/20180730/SDMU-181c/index.m3u8
-貧乳女子,http://videocdn.quweikm.com:8091/20180730/SHE-002c/index.m3u8
-悶絕寢取,http://videocdn.quweikm.com:8091/20180730/SHE-071c/index.m3u8
-鑑賞會素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-001c/index.m3u8
-街角素人巨乳娘,http://videocdn.quweikm.com:8091/20180730/SHE-066c/index.m3u8
-鄰人狙人妻 望月加奈,http://videocdn.quweikm.com:8091/20180730/SHKD-521c/index.m3u8
-AV女優初野外羞恥,http://videocdn.quweikm.com:8091/20180730/SHE-065c/index.m3u8
-撮影拒否素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-116c/index.m3u8
-美人妻予備軍,http://videocdn.quweikm.com:8091/20180730/SHE-024c/index.m3u8
-熟女恥鑑賞,http://videocdn.quweikm.com:8091/20180730/SHE-094c/index.m3u8
-SHE-010c-鑑賞會100發射100人,http://videocdn.quweikm.com:8091/20180730/SHE-010c/index.m3u8
-SHE-091c-無沙汰熟女,http://videocdn.quweikm.com:8091/20180730/SHE-091c/index.m3u8
-SHE-149c-潮吹女子,http://videocdn.quweikm.com:8091/20180730/SHE-149c/index.m3u8
-SHE-025c-仲良母娘親子,http://videocdn.quweikm.com:8091/20180730/SHE-025c/index.m3u8
-SHE-130c-溫泉旅行中,http://videocdn.quweikm.com:8091/20180730/SHE-130c/index.m3u8
-SHKD-520c-女子校生監禁凌辱  成宮,http://videocdn.quweikm.com:8091/20180730/SHKD-520c/index.m3u8
-SHE-009c-無垢熟女恥,http://videocdn.quweikm.com:8091/20180730/SHE-009c/index.m3u8
-SHKD-519c-被虐傢庭教師  仁美,http://videocdn.quweikm.com:8091/20180730/SHKD-519c/index.m3u8
-SHKD-518c-人妻強姦單體作品,http://videocdn.quweikm.com:8091/20180730/SHKD-518c/index.m3u8
-SHE-153c-雰圍氣親子,http://videocdn.quweikm.com:8091/20180730/SHE-153c/index.m3u8
-SHE-138c-居酒屋相席女子,http://videocdn.quweikm.com:8091/20180730/SHE-138c/index.m3u8
-SHE-119c-無垢熟女恥,http://videocdn.quweikm.com:8091/20180730/SHE-119c/index.m3u8
-SHE-137c-積極系激娘,http://videocdn.quweikm.com:8091/20180730/SHE-137c/index.m3u8
-SHE-117c-人妻中出,http://videocdn.quweikm.com:8091/20180730/SHE-117c/index.m3u8
-SHE-126c-素人娘美人局,http://videocdn.quweikm.com:8091/20180730/SHE-126c/index.m3u8
-SHE-136c-口說淫亂妻,http://videocdn.quweikm.com:8091/20180730/SHE-136c/index.m3u8
-SHKD-552c-究極艷技 周防,http://videocdn.quweikm.com:8091/20180730/SHKD-552c/index.m3u8
-SHE-125c- 謝禮釣素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-125c/index.m3u8
-SHE-135c-天然系女子,http://videocdn.quweikm.com:8091/20180730/SHE-135c/index.m3u8
-SHKD-532c-女子校生監禁凌辱 佳苗,http://videocdn.quweikm.com:8091/20180730/SHKD-532c/index.m3u8
-SMT-014c-富裕層妻 田崎,http://videocdn.quweikm.com:8091/20180730/SMT-014c/index.m3u8
-SHE-131c-色氣垂流,http://videocdn.quweikm.com:8091/20180730/SHE-131c/index.m3u8
-SHKD-530c-被虐傢庭教師  KAORI,http://videocdn.quweikm.com:8091/20180730/SHKD-530c/index.m3u8
-SMA-763c-好奇心旺盛女子校生,http://videocdn.quweikm.com:8091/20180730/SMA-763c/index.m3u8
-SHE-123c-美乳素人,http://videocdn.quweikm.com:8091/20180730/SHE-123c/index.m3u8
-SHE-148c-彼氏可愛,http://videocdn.quweikm.com:8091/20180730/SHE-148c/index.m3u8
-SMA-746c-巨乳保母 濱崎真緒,http://videocdn.quweikm.com:8091/20180730/SMA-746c/index.m3u8
-SHKD-553c-恥辱教育實習生  遙菜,http://videocdn.quweikm.com:8091/20180730/SHKD-553c/index.m3u8
-SHE-144c-動制服妻,http://videocdn.quweikm.com:8091/20180730/SHE-144c/index.m3u8
-SMA-745c-軟體研修汗 雫月,http://videocdn.quweikm.com:8091/20180730/SMA-745c/index.m3u8
-SHE-122c-絕頂噴射潮吹人妻,http://videocdn.quweikm.com:8091/20180730/SHE-122c/index.m3u8
-SHE-142c-不倫人妻戀愛,http://videocdn.quweikm.com:8091/20180730/SHE-142c/index.m3u8
-SHE-124c-究極選擇,http://videocdn.quweikm.com:8091/20180730/SHE-124c/index.m3u8
-SHE-121c-鑑賞會素人娘100人,http://videocdn.quweikm.com:8091/20180730/SHE-121c/index.m3u8
-SHE-139c-股間刺激,http://videocdn.quweikm.com:8091/20180730/SHE-139c/index.m3u8
-SNIS-300c-癡女單體作品淫語,http://videocdn.quweikm.com:8091/20180730/SNIS-300c/index.m3u8
-SHE-127c-激接客娘,http://videocdn.quweikm.com:8091/20180730/SHE-127c/index.m3u8
-SIN-002c-新人燒屋店員 柏倉玲華,http://videocdn.quweikm.com:8091/20180730/SIN-002c/index.m3u8
-SHKD-597c-建物診斷技術者 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-597c/index.m3u8
-SIV-012c-美少女達,http://videocdn.quweikm.com:8091/20180730/SIV-012c/index.m3u8
-SHKD-557c-新聞配達業 果穗,http://videocdn.quweikm.com:8091/20180730/SHKD-557c/index.m3u8
-SHL-017c-美少女即,http://videocdn.quweikm.com:8091/20180730/SHL-017c/index.m3u8
-SITU-012c-子供入學受驗,http://videocdn.quweikm.com:8091/20180730/SITU-012c/index.m3u8
-SNIS-292c-女子校生放課後輪姦教室 涼木,http://videocdn.quweikm.com:8091/20180730/SNIS-292c/index.m3u8
-SNIS-343c-人妻亂交  白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-343c/index.m3u8
-SNIS-238c-巨乳單體作品淫亂,http://videocdn.quweikm.com:8091/20180730/SNIS-238c/index.m3u8
-SNIS-341c-OL巨乳單體作品 奧田笑,http://videocdn.quweikm.com:8091/20180730/SNIS-341c/index.m3u8
-SNIS-236c-美少女亂交,http://videocdn.quweikm.com:8091/20180730/SNIS-236c/index.m3u8
-SNIS-303c-美少女亂交單體作品顏射 宇佐美,http://videocdn.quweikm.com:8091/20180730/SNIS-303c/index.m3u8
-SNIS-234c-羞恥美少女野外 小島,http://videocdn.quweikm.com:8091/20180730/SNIS-234c/index.m3u8
-SNIS-302c-海女極上濡 新山,http://videocdn.quweikm.com:8091/20180730/SNIS-302c/index.m3u8
-SMA-733c-被虐催眠放題中,http://videocdn.quweikm.com:8091/20180730/SMA-733c/index.m3u8
-SMA-737c-10發大亂交 愛實,http://videocdn.quweikm.com:8091/20180730/SMA-737c/index.m3u8
-SNIS-340c-羞恥OL,http://videocdn.quweikm.com:8091/20180730/SNIS-340c/index.m3u8
-SNIS-339c-癡漢願望女 小島,http://videocdn.quweikm.com:8091/20180730/SNIS-339c/index.m3u8
-SMA-726c-顏面騎乘,http://videocdn.quweikm.com:8091/20180730/SMA-726c/index.m3u8
-SNIS-338c-女上司牝奴隸 明日花,http://videocdn.quweikm.com:8091/20180730/SNIS-338c/index.m3u8
-SMA-706c-花屋美少女,http://videocdn.quweikm.com:8091/20180730/SMA-706c/index.m3u8
-SNIS-322c-全裸管理人 白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-322c/index.m3u8
-SNIS-321c-美少女大亂交 宇佐美,http://videocdn.quweikm.com:8091/20180730/SNIS-321c/index.m3u8
-SNIS-320c-黑人男優巨乳 新山,http://videocdn.quweikm.com:8091/20180730/SNIS-320c/index.m3u8
-SDMU-077c-真正中出,http://videocdn.quweikm.com:8091/20180730/SDMU-077c/index.m3u8
-SNIS-319c-癡漢願望女  奧田笑,http://videocdn.quweikm.com:8091/20180730/SNIS-319c/index.m3u8
-SDMU-069c-拘束媚藥,http://videocdn.quweikm.com:8091/20180730/SDMU-069c/index.m3u8
-SHKD-559c-情事 遙菜,http://videocdn.quweikm.com:8091/20180730/SHKD-559c/index.m3u8
-SNIS-312c-美少女單體作品3P 涼木,http://videocdn.quweikm.com:8091/20180730/SNIS-312c/index.m3u8
-SHKD-609c-女子大生淫辱白書  水谷心音,http://videocdn.quweikm.com:8091/20180730/SHKD-609c/index.m3u8
-SHKD-556c-暴虐OL 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-556c/index.m3u8
-SDMU-064c-美人陸上部員,http://videocdn.quweikm.com:8091/20180730/SDMU-064c/index.m3u8
-SHKD-606c-強姦 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-606c/index.m3u8
-SHKD-554c-凌辱 櫻井,http://videocdn.quweikm.com:8091/20180730/SHKD-554c/index.m3u8
-SDMU-058c-最年少宣伝部,http://videocdn.quweikm.com:8091/20180730/SDMU-058c/index.m3u8
-SHKD-600c-脫獄者 夏目彩春,http://videocdn.quweikm.com:8091/20180730/SHKD-600c/index.m3u8
-SHKD-550c-強姦 神,http://videocdn.quweikm.com:8091/20180730/SHKD-550c/index.m3u8
-SDMU-046c-彼氏目前浮氣,http://videocdn.quweikm.com:8091/20180730/SDMU-046c/index.m3u8
-SHKD-599c-被虐神,http://videocdn.quweikm.com:8091/20180730/SHKD-599c/index.m3u8
-SHKD-549c-脫獄者 西野翔,http://videocdn.quweikm.com:8091/20180730/SHKD-549c/index.m3u8
-SNIS-325c-美少女巨乳單體作品潮吹,http://videocdn.quweikm.com:8091/20180730/SNIS-325c/index.m3u8
-SHKD-595c-美人受付孃 石原莉奈,http://videocdn.quweikm.com:8091/20180730/SHKD-595c/index.m3u8
-SHKD-548c-被虐傢庭教師8 羽田,http://videocdn.quweikm.com:8091/20180730/SHKD-548c/index.m3u8
-SNIS-323c-巨乳強姦 櫻井彩,http://videocdn.quweikm.com:8091/20180730/SNIS-323c/index.m3u8
-SHKD-590c-強姦 夏目優希,http://videocdn.quweikm.com:8091/20180730/SHKD-590c/index.m3u8
-SHKD-545c-日常凌辱 Ray,http://videocdn.quweikm.com:8091/20180730/SHKD-545c/index.m3u8
-SHE-053c-一般男女謝禮,http://videocdn.quweikm.com:8091/20180730/SHE-053c/index.m3u8
-SHKD-583c-女教師 暴虐放課後 立花美涼,http://videocdn.quweikm.com:8091/20180730/SHKD-583c/index.m3u8
-SHKD-544c-不動產賃貸業男 市川,http://videocdn.quweikm.com:8091/20180730/SHKD-544c/index.m3u8
-SHKD-582c-淫辱 本城小百合,http://videocdn.quweikm.com:8091/20180730/SHKD-582c/index.m3u8
-SHKD-538c-夫目前侵犯運命再會 二宮沙樹,http://videocdn.quweikm.com:8091/20180730/SHKD-538c/index.m3u8
-SHKD-528c-廢品回收女 長谷川美紅,http://videocdn.quweikm.com:8091/20180730/SHKD-528c/index.m3u8
-SHKD-524c-女子校生監禁凌辱 鬼畜輪姦109 黑川,http://videocdn.quweikm.com:8091/20180730/SHKD-524c/index.m3u8
-SHKD-534c-夫目前侵犯義兄慾望II 長谷川,http://videocdn.quweikm.com:8091/20180730/SHKD-534c/index.m3u8
-SDMU-192c-SOD女子社員 阿部美希...,http://videocdn.quweikm.com:8091/20180730/SDMU-192c/index.m3u8
-SHKD-523c-美畜同好會 強姦標的 List.01  仁美,http://videocdn.quweikm.com:8091/20180730/SHKD-523c/index.m3u8
-SDMU-054c-女上司×男性部下 Part2,http://videocdn.quweikm.com:8091/20180730/SDMU-054c/index.m3u8
-SHKD-437c-夫目前侵犯美乳 櫻井,http://videocdn.quweikm.com:8091/20180730/SHKD-437c/index.m3u8
-SNIS-330c-秘密搜查官女 潛入任務 藍澤潤,http://videocdn.quweikm.com:8091/20180730/SNIS-330c/index.m3u8
-SHE-075c-寢盜張感MAX！,http://videocdn.quweikm.com:8091/20180730/SHE-075c/index.m3u8
-SNIS-329c-OL口便器 星野,http://videocdn.quweikm.com:8091/20180730/SNIS-329c/index.m3u8
-SGV-011c-大好 西篠,http://videocdn.quweikm.com:8091/20180730/SGV-011c/index.m3u8
-SNIS-301c-濃密結合編 奧田笑,http://videocdn.quweikm.com:8091/20180730/SNIS-301c/index.m3u8
-SGRS-010c-新說墮落論 女教師篇,http://videocdn.quweikm.com:8091/20180730/SGRS-010c/index.m3u8
-SNIS-299c-全裸傢庭教師 步美,http://videocdn.quweikm.com:8091/20180730/SNIS-299c/index.m3u8
-SERO-0211c-媚藥 優夏,http://videocdn.quweikm.com:8091/20180730/SERO-0211c/index.m3u8
-SINO-263c-盜撮 契約成立營業,http://videocdn.quweikm.com:8091/20180730/SINO-263c/index.m3u8
-SERO-0210c-美乳×保阪,http://videocdn.quweikm.com:8091/20180730/SERO-0210c/index.m3u8
-SDMU-025c-女上司戀男性部下,http://videocdn.quweikm.com:8091/20180730/SDMU-025c/index.m3u8
-SDNM-043c-清楚系人妻 谷原希美 38歲,http://videocdn.quweikm.com:8091/20180730/SDNM-043c/index.m3u8
-SDMU-024c-大學水泳部競泳水著,http://videocdn.quweikm.com:8091/20180730/SDMU-024c/index.m3u8
-SDMU-019c-AV業界女子社員,http://videocdn.quweikm.com:8091/20180730/SDMU-019c/index.m3u8
-SDMU-018c-性感女子入社   市川,http://videocdn.quweikm.com:8091/20180730/SDMU-018c/index.m3u8
-SDMU-001c-連續射精中出,http://videocdn.quweikm.com:8091/20180730/SDMU-001c/index.m3u8
-SDDE-391c-美人看護師  高山,http://videocdn.quweikm.com:8091/20180730/SDDE-391c/index.m3u8
-SDMU-028c-童貞練習相手,http://videocdn.quweikm.com:8091/20180730/SDMU-028c/index.m3u8
-SDDE-390c-男性器真正中出  水野朝陽,http://videocdn.quweikm.com:8091/20180730/SDDE-390c/index.m3u8
-SDDE-350c-背面性交  大槻,http://videocdn.quweikm.com:8091/20180730/SDDE-350c/index.m3u8
-SDDE-385c-每朝連續中出,http://videocdn.quweikm.com:8091/20180730/SDDE-385c/index.m3u8
-SDMT-999c-社內健康診斷,http://videocdn.quweikm.com:8091/20180730/SDMT-999c/index.m3u8
-SDMU-036c-健康的小麥肌,http://videocdn.quweikm.com:8091/20180730/SDMU-036c/index.m3u8
-SDDE-348c-溫泉旅館,http://videocdn.quweikm.com:8091/20180730/SDDE-348c/index.m3u8
-SDMT-990c-AV女優感謝祭  濱崎真緒,http://videocdn.quweikm.com:8091/20180730/SDMT-990c/index.m3u8
-SDMU-035c-可愛現役女子大生,http://videocdn.quweikm.com:8091/20180730/SDMU-035c/index.m3u8
-SDDE-347c-男子高生教室授業,http://videocdn.quweikm.com:8091/20180730/SDDE-347c/index.m3u8
-SDMT-988c-自慢彼女真正中出,http://videocdn.quweikm.com:8091/20180730/SDMT-988c/index.m3u8
-SDMU-034c-人妻不倫企畫中出,http://videocdn.quweikm.com:8091/20180730/SDMU-034c/index.m3u8
-SDDE-344c-新感覺誕生,http://videocdn.quweikm.com:8091/20180730/SDDE-344c/index.m3u8
-SDMT-958c-露出變態願望,http://videocdn.quweikm.com:8091/20180730/SDMT-958c/index.m3u8
-SDMU-031c-男性暴發改善,http://videocdn.quweikm.com:8091/20180730/SDMU-031c/index.m3u8
-SDMU-010c-傢族近親相姦,http://videocdn.quweikm.com:8091/20180730/SDMU-010c/index.m3u8
-SDDE-363c-性交事務所,http://videocdn.quweikm.com:8091/20180730/SDDE-363c/index.m3u8
-SDMU-029c-職業色童貞,http://videocdn.quweikm.com:8091/20180730/SDMU-029c/index.m3u8
-SDMU-008c-溫泉美巨乳女子學生,http://videocdn.quweikm.com:8091/20180730/SDMU-008c/index.m3u8
-SDDE-355c-制服下著全裸,http://videocdn.quweikm.com:8091/20180730/SDDE-355c/index.m3u8
-SDMU-043c-素人泥醉中出,http://videocdn.quweikm.com:8091/20180730/SDMU-043c/index.m3u8
-SDMU-006c-私妄想葉   永井,http://videocdn.quweikm.com:8091/20180730/SDMU-006c/index.m3u8
-SDDE-352c-近親相姦,http://videocdn.quweikm.com:8091/20180730/SDDE-352c/index.m3u8
-SDMU-005c-完全主觀女目線 小谷,http://videocdn.quweikm.com:8091/20180730/SDMU-005c/index.m3u8
-SDDE-351c-性交定期精液檢查,http://videocdn.quweikm.com:8091/20180730/SDDE-351c/index.m3u8
-SDMU-002c-膣內射精中出,http://videocdn.quweikm.com:8091/20180730/SDMU-002c/index.m3u8
-SDDE-376c-快樂美人三姊妹  波多野結衣,http://videocdn.quweikm.com:8091/20180730/SDDE-376c/index.m3u8
-NSPS-478c 人妻和姦體驗談 。 美泉笑,http://videocdn.quweikm.com:8091/20180704/BMeLkYvT/index.m3u8
-SDDE-384c-人氣淫亂企畫,http://videocdn.quweikm.com:8091/20180730/SDDE-384c/index.m3u8
-SW-541c-島娘初體驗  南果菜,http://videocdn.quweikm.com:8091/20180623/wKhH0y5v/index.m3u8
-NSPS-477c 妻肉體～ 城崎桐子,http://videocdn.quweikm.com:8091/20180704/WKklzw0k/index.m3u8
-SW-539c-同窗會初戀女人妻 小島,http://videocdn.quweikm.com:8091/20180623/tz47AXap/index.m3u8
-SW-538c-家族全員性慾全開,http://videocdn.quweikm.com:8091/20180623/5NTCcSaI/index.m3u8
-HQIS-010c 昭和冬猥褻圖畫 京野美麗,http://videocdn.quweikm.com:8091/20180704/d0Z9glAd/index.m3u8
-SW-533c-近所夫婦交換,http://videocdn.quweikm.com:8091/20180623/68gq04Vf/index.m3u8
-HAWA-074c 他人棒SEX 神山,http://videocdn.quweikm.com:8091/20180704/oWeDvFtP/index.m3u8
-SUPA-294c-東京性交 HINANO,http://videocdn.quweikm.com:8091/20180623/OS8Z0Psz/index.m3u8
-XVSR-331c-姊弟變態中出性活 自由,http://videocdn.quweikm.com:8091/20180623/HyAut6p6/index.m3u8
-STAR-874c-飛鳥妊娠淫語,http://videocdn.quweikm.com:8091/20180623/m1baE7bR/index.m3u8
-VOSS-079c-妊活月禁慾生活,http://videocdn.quweikm.com:8091/20180623/ne2v5iol/index.m3u8
-STAR-873c-市 超敏感絕頂,http://videocdn.quweikm.com:8091/20180623/n6csTqCp/index.m3u8
-UMD-622c-奧樣達體驗談,http://videocdn.quweikm.com:8091/20180623/fipXwZN0/index.m3u8
-STAR-865c-大家族近親相姦6P亂交,http://videocdn.quweikm.com:8091/20180623/CsVFdlHO/index.m3u8
-TNB-013c-年差39歲夫婦誕生會亂交,http://videocdn.quweikm.com:8091/20180623/pQXJaSD4/index.m3u8
-SSNI-138c-側室美女完全實寫化,http://videocdn.quweikm.com:8091/20180623/uSIxEV6e/index.m3u8
-SSNI-136c-揉搖舐吸乳  松本菜奈實,http://videocdn.quweikm.com:8091/20180623/rbirXTH6/index.m3u8
-SSNI-134c-豊滿巨尻妻 柳,http://videocdn.quweikm.com:8091/20180623/Wmi3JQns/index.m3u8
-SSNI-132c-唾液涎全身舐  橋本,http://videocdn.quweikm.com:8091/20180623/66DWkzVj/index.m3u8
-SNIS-480c-發情性交 菜葉,http://videocdn.quweikm.com:8091/20180623/o4dzIxTK/index.m3u8
-SSNI-130c-大亂交解禁,http://videocdn.quweikm.com:8091/20180623/KJkSNXq3/index.m3u8
-SNIS-410c-癡漢願望女  美裡有紗,http://videocdn.quweikm.com:8091/20180623/mxOWAdgO/index.m3u8
-SMA-798c-癡女風俗  ERIKA,http://videocdn.quweikm.com:8091/20180623/oE79coKx/index.m3u8
-SSNI-126c-爆乳女教師,http://videocdn.quweikm.com:8091/20180623/QXLUQ0Zj/index.m3u8
-SPRD-1000c-代理出產母 風間,http://videocdn.quweikm.com:8091/20180623/2YkkOHZ4/index.m3u8
-SNIS-509c-美乳  緒川,http://videocdn.quweikm.com:8091/20180623/ev0H1rHm/index.m3u8
-SSNI-125c-爆發痙攣性慾剝出,http://videocdn.quweikm.com:8091/20180623/xgBFKjSW/index.m3u8
-SOAV-038c-人妻浮氣心 寶生,http://videocdn.quweikm.com:8091/20180623/apvzRPOd/index.m3u8
-SMA-791c-女部長癡女 星野,http://videocdn.quweikm.com:8091/20180623/bnd2Rg03/index.m3u8
-SSNI-122c-舌絡接吻發情性交 吉高寧,http://videocdn.quweikm.com:8091/20180623/gjvHV71y/index.m3u8
-SOAV-037c-人妻浮氣心 星奈,http://videocdn.quweikm.com:8091/20180623/FJvEkpf3/index.m3u8
-SMA-784c-瘋狂癡女 飯島,http://videocdn.quweikm.com:8091/20180623/yTLuBSMA/index.m3u8
-SSNI-117c-超癡女側室美女,http://videocdn.quweikm.com:8091/20180623/nDNlmxur/index.m3u8
-SNIS-478c-愛求婚約者編 宇多田,http://videocdn.quweikm.com:8091/20180623/MO0XUz2W/index.m3u8
-SIS-028c-愚兄弟犯姊  鈴原,http://videocdn.quweikm.com:8091/20180623/fIkswdoK/index.m3u8
-SSNI-113c-肌島娘初體驗 南果菜,http://videocdn.quweikm.com:8091/20180623/iZpyjhF9/index.m3u8
-SNIS-477c-處理會社女社長  夢乃,http://videocdn.quweikm.com:8091/20180623/odbrIpLP/index.m3u8
-SILK-060c-Addictive Triangular,http://videocdn.quweikm.com:8091/20180623/uOdgpb6o/index.m3u8
-SSNI-032c-自製放心絕頂 小島,http://videocdn.quweikm.com:8091/20180623/S0NaBGXm/index.m3u8
-SNIS-475c-宴會  櫻井彩,http://videocdn.quweikm.com:8091/20180623/02MfnXPR/index.m3u8
-SNIS-488c-美乳  葵,http://videocdn.quweikm.com:8091/20180623/39i6R5o1/index.m3u8
-SNIS-486c-婚活誘惑 星野,http://videocdn.quweikm.com:8091/20180623/1dwiyvOg/index.m3u8
-SNIS-450c-處理會社女社長  奧田笑,http://videocdn.quweikm.com:8091/20180623/PrloM9i4/index.m3u8
-SNIS-432c-濡體質汗OL  夢乃,http://videocdn.quweikm.com:8091/20180623/E5LybjX7/index.m3u8
-SNIS-439c-賣春  星野,http://videocdn.quweikm.com:8091/20180623/WTkfeElf/index.m3u8
-SNIS-431c-交體液濃密 吉川,http://videocdn.quweikm.com:8091/20180623/8pbwQI08/index.m3u8
-SILK-058c-下體,http://videocdn.quweikm.com:8091/20180623/nCR1kAPJ/index.m3u8
-SHKD-685c-被虐家庭教師 西川,http://videocdn.quweikm.com:8091/20180623/b6soX8zu/index.m3u8
-SNIS-428c-開發日  奧田笑,http://videocdn.quweikm.com:8091/20180623/jyWBNSFq/index.m3u8
-SHE-212c-淫亂母娘,http://videocdn.quweikm.com:8091/20180623/s38bkZYz/index.m3u8
-SHKD-680c-生徒輪姦女教師 夏目彩春,http://videocdn.quweikm.com:8091/20180623/OD8fmOKK/index.m3u8
-SHE-230c-若男變態,http://videocdn.quweikm.com:8091/20180623/caTqEIoS/index.m3u8
-SHKD-638c-特務搜查官  夏目彩春,http://videocdn.quweikm.com:8091/20180623/8tmJQWyy/index.m3u8
-SHE-227c-無垢熟女,http://videocdn.quweikm.com:8091/20180623/mt5j5yJE/index.m3u8
-SHKD-637c-脫獄者 三浦,http://videocdn.quweikm.com:8091/20180623/iJdWJwZg/index.m3u8
-SHE-216c-人妻不倫溫泉旅行,http://videocdn.quweikm.com:8091/20180623/73vp3kXZ/index.m3u8
-SHKD-635c-夫目前犯  濡花 川上奈美,http://videocdn.quweikm.com:8091/20180623/6vvLDpjK/index.m3u8
-SHE-215c-本氣性交美人妻中出,http://videocdn.quweikm.com:8091/20180623/1JLiROn4/index.m3u8
-SHKD-628c-課金女 星野千紗,http://videocdn.quweikm.com:8091/20180623/JzS4b7lq/index.m3u8
-SHE-211c-氣弱女子發情,http://videocdn.quweikm.com:8091/20180623/IVHnuSmt/index.m3u8
-SHKD-626c-脫獄者 春菜,http://videocdn.quweikm.com:8091/20180623/kYYeVoZW/index.m3u8
-SGRS-019c-淫慾望女,http://videocdn.quweikm.com:8091/20180617/hEEepy6a/index.m3u8
-SHKD-625c-女子輪姦   夏希,http://videocdn.quweikm.com:8091/20180623/pCkwMs8T/index.m3u8
-SGRS-016c-寢旅館家族,http://videocdn.quweikm.com:8091/20180617/lq3lLTZi/index.m3u8
-SHKD-614c-新人性虐  美神,http://videocdn.quweikm.com:8091/20180623/XNUyHWdz/index.m3u8
-SGA-107c-最高中出性交,http://videocdn.quweikm.com:8091/20180617/WxnuZaXo/index.m3u8
-SGA-034c-從順過人妻  桃瀨,http://videocdn.quweikm.com:8091/20180617/0mvIj3e4/index.m3u8
+電影頻道,#genre#
+黑莓動畫FHD,http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
+黑霉動畫FHD,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+黑莓動畫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
+黑莓電影FHD,http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1#http://111.40.196.32/PLTV/88888888/224/3221225610/index.m3u8
+黑莓電競,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
+黑莓電競FHD,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+CHC動作電影FHD,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8#http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+百視通電影1,http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+百視通電影2,http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+百視通電影3,http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
+百視通電影4,http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
+NewTV動作電影,http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
+NewTV 動作電影,http://39.134.65.230/PLTV/88888888/224/3221225555/index.m3u8#http://39.134.67.198/PLTV/88888888/224/3221225555/index.m3u8#http://39.134.67.4/PLTV/88888888/224/3221225555/index.m3u8
+NewTV明星大片,http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1#http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
+動作電影,http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
+澳門蓮花,http://120.84.96.32:808/hls/24/index.m3u8
+鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+東森電影,http://120.84.96.32:808/hls/32/index.m3u8
+東森洋片,http://120.84.96.32:808/hls/33/index.m3u8
+龍祥時代,http://120.84.96.32:808/hls/35/index.m3u8
+天映經典,http://120.84.96.32:808/hls/85/index.m3u8
+北京IPTV淘電影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+北京電影,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+東方影視,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8#http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+福州影視,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+江蘇影視,http://183.207.248.13:80/PLTV/4/224/3221225937/index.m3u8
+蘇州電影娛樂,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
+浙江教科影視,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+佛山影視,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
+西安影視,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+隆化影視,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+海西影視,http://stream.haixitv.cn/1/sd/live.m3u8
+哈爾濱影視,http://39.134.67.226/PLTV/88888888/224/3221225700/index.m3u8
+芒果華語電影,http://39.135.49.20:6610/PLTV/88888888/224/3221226708/1.m3u8?servicetype=1
+芒果歐美電影,http://39.135.49.20:6610/PLTV/88888888/224/3221226712/1.m3u8?servicetype=1
+咪咕影視A,http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
+咪咕影視D,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+K K_喜劇電影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+K K_開心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-國外成人頻道,#genre#
-Extasy[1920*1080],http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-直播平台2[648*360],https://b-hls-17.doppiocdn.com/hls/68766062/68766062.m3u8
-直播平台4[1280*720],https://b-hls-09.doppiocdn.com/hls/45956822/45956822.m3u8
-dorcel tv[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
-olala[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
-tiny4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
-bangbros[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
-Asian[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
-japan[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
-cum4k[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
-babes[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
-hardx[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
-vivid[1280*720],http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
 
-日本成人頻道,#genre#
-一本1[720*404],https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
-一本2[720*402],https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
-一本3[720*404],https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
-一本4[720*404],https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
-一本5[720*404],https://vip4.ddyunbo.com/20210219/gpUU8FL5/index.m3u8?skipl=1
-一本6[720*480],https://vip4.ddyunbo.com/20210219/2nbzl0Nn/index.m3u8?skipl=1
-一本8[720*404],https://vip4.ddyunbo.com/20210222/OrpC8XMK/index.m3u8?skipl=1
-一本9[720*404],https://vip4.ddyunbo.com/20210222/HkzYbN40/index.m3u8?skipl=1
-一本10[720*404],https://vip4.ddyunbo.com/20210222/T8jUItC4/index.m3u8?skipl=1
-一本11[720*480],https://vip4.ddyunbo.com/20210222/lnXXFURu/index.m3u8?skipl=1
-一本12[720*480],https://vip4.ddyunbo.com/20210222/vHNM8oLn/index.m3u8?skipl=1
-一本13[720*480],https://vip4.ddyunbo.com/20210219/aPLXlCHM/index.m3u8?skipl=1
-一本14[720*480],https://vip4.ddyunbo.com/20210219/hIvpPiyo/index.m3u8?skipl=1
-一本15[720*480],https://vip4.ddyunbo.com/20210219/dZEd1c84/index.m3u8?skipl=1
-一本16[720*480],https://vip4.ddyunbo.com/20210219/tN5b3rGe/index.m3u8?skipl=1
-一本17[720*404],https://vip4.ddyunbo.com/20210222/870lSnog/index.m3u8?skipl=1
-一本18[720*404],https://vip4.ddyunbo.com/20210222/4VY1cI3D/index.m3u8?skipl=1
-一本19[720*404],https://vip4.ddyunbo.com/20210222/xkrgi25X/index.m3u8?skipl=1
-一本20[720*404],https://vip4.ddyunbo.com/20210222/CcCsroEI/index.m3u8?skipl=1
-一本22[720*404],https://vip4.ddyunbo.com/20210219/JXwjAkb1/index.m3u8?skipl=1
-一本23[720*404],https://vip4.ddyunbo.com/20210219/andENoyZ/index.m3u8?skipl=1
-一本24[720*404],https://vip4.ddyunbo.com/20210219/5stYxCko/index.m3u8?skipl=1
-一本25[720*540],https://vip4.ddyunbo.com/20210222/Velff6Cm/index.m3u8?skipl=1
-一本26[720*404],https://vip4.ddyunbo.com/20210221/KVQCdxL2/index.m3u8?skipl=1
-一本27[720*404],https://vip4.ddyunbo.com/20210221/Hglqm4Ie/index.m3u8?skipl=1
-一本28[720*404],https://vip4.ddyunbo.com/20210221/NuLuwLrU/index.m3u8?skipl=1
-一本29[720*478],https://vip4.ddyunbo.com/20210221/3me5KE6r/index.m3u8?skipl=1
-一本30[720*402],https://vip4.ddyunbo.com/20210221/K7buV86Q/index.m3u8?skipl=1
-一本31[720*404],https://vip4.ddyunbo.com/20210217/xrgAGVko/index.m3u8?skipl=1
-一本32[720*404],https://vip4.ddyunbo.com/20210217/W7sVftFa/index.m3u8?skipl=1
-一本33[720*406],https://vip4.ddyunbo.com/20210217/vv5G8hc5/index.m3u8?skipl=1
-一本34[720*404],https://vip4.ddyunbo.com/20210217/tJm8EtTa/index.m3u8?skipl=1
-一本35[720*404],https://vip4.ddyunbo.com/20210217/2b6WumXT/index.m3u8?skipl=1
-一本36[720*404],https://vip4.ddyunbo.com/20210217/YtSkHL54/index.m3u8?skipl=1
-一本37[720*404],https://vip4.ddyunbo.com/20210217/w91VL2nv/index.m3u8?skipl=1
-一本38[720*404],https://vip4.ddyunbo.com/20210217/WuYsmWD7/index.m3u8?skipl=1
-一本39[720*404],https://vip4.ddyunbo.com/20210217/ZeTl6ypR/index.m3u8?skipl=1
-一本40[720*404],https://vip4.ddyunbo.com/20210217/qw7aNFEi/index.m3u8?skipl=1
-一本41[720*404],https://vip4.ddyunbo.com/20210217/Q6BVr7v9/index.m3u8?skipl=1
-一本42[720*480],https://vip4.ddyunbo.com/20210216/G6XBJU3U/index.m3u8?skipl=1
-一本43[720*404],https://vip4.ddyunbo.com/20210216/mba3dm1T/index.m3u8?skipl=1
-一本44[720*480],https://vip4.ddyunbo.com/20210216/qBLO2AUD/index.m3u8?skipl=1
-一本45[720*540],https://vip4.ddyunbo.com/20210216/wOkqhg3z/index.m3u8?skipl=1
-一本46[720*404],https://vip4.ddyunbo.com/20210216/0DU9kDRE/index.m3u8?skipl=1
-一本47[720*404],https://vip4.ddyunbo.com/20210216/DrOdfvSA/index.m3u8?skipl=1
-一本48[720*404],https://vip4.ddyunbo.com/20210216/Y1oRb06u/index.m3u8?skipl=1
-一本49[720*480],https://vip4.ddyunbo.com/20210216/lmfodqs0/index.m3u8?skipl=1
-一本50[720*404],https://vip4.ddyunbo.com/20210216/OCg2OAO1/index.m3u8?skipl=1
-一本51[720*404],https://vip4.ddyunbo.com/20210216/CzIxVZ1X/index.m3u8?skipl=1
-一本52[720*404],https://vip4.ddyunbo.com/20210215/avNWovfp/index.m3u8?skipl=1
-一本53[720*404],https://vip4.ddyunbo.com/20210215/0CtlGzvL/index.m3u8?skipl=1
-一本54[720*404],https://vip4.ddyunbo.com/20210215/kohhSqgj/index.m3u8?skipl=1
-一本55[720*404],https://vip4.ddyunbo.com/20210215/HJSKHyXd/index.m3u8?skipl=1
-一本56[720*404],https://vip4.ddyunbo.com/20210215/4dCj2jEo/index.m3u8?skipl=1
-一本58[720*404],https://vip4.ddyunbo.com/20210214/961oJ3gh/index.m3u8?skipl=1
-一本59[720*404],https://vip4.ddyunbo.com/20210214/MNWCvejn/index.m3u8?skipl=1
-一本60[720*404],https://vip4.ddyunbo.com/20210214/Kktq79f6/index.m3u8?skipl=1
-一本61[720*404],https://vip4.ddyunbo.com/20210214/k0e2Hiai/index.m3u8?skipl=1
-一本62[720*404],https://vip4.ddyunbo.com/20210214/R2AMPS7r/index.m3u8?skipl=1
-一本63[720*404],https://vip4.ddyunbo.com/20210214/HeAAGKRv/index.m3u8?skipl=1
-一本64[720*404],https://vip4.ddyunbo.com/20210214/uyVAfQoX/index.m3u8?skipl=1
-一本65[720*404],https://vip4.ddyunbo.com/20210214/sZVudN5P/index.m3u8?skipl=1
-一本66[720*404],https://vip4.ddyunbo.com/20210213/jyevrW8R/index.m3u8?skipl=1
-一本67[720*404],https://vip4.ddyunbo.com/20210213/yLoP1vf5/index.m3u8?skipl=1
-一本68[720*404],https://vip4.ddyunbo.com/20210213/cRo6toFT/index.m3u8?skipl=1
-一本69[720*404],https://vip4.ddyunbo.com/20210213/HePIPa2F/index.m3u8?skipl=1
-一本70[720*404],https://vip4.ddyunbo.com/20210213/0AJrpgJl/index.m3u8?skipl=1
-一本71[720*404],https://vip4.ddyunbo.com/20210213/i03D14H9/index.m3u8?skipl=1
-一本72[720*480],https://vip4.ddyunbo.com/20210213/CQB35BQP/index.m3u8?skipl=1
-一本73[720*404],https://vip4.ddyunbo.com/20210213/maosGgwO/index.m3u8?skipl=1
-一本74[720*404],https://vip4.ddyunbo.com/20210213/IsgfJe2w/index.m3u8?skipl=1
-一本75[720*404],https://vip4.ddyunbo.com/20210213/jeGSmRq1/index.m3u8?skipl=1
-一本76[720*404],https://vip4.ddyunbo.com/20210213/yPii5NlP/index.m3u8?skipl=1
-一本77[720*404],https://vip4.ddyunbo.com/20210213/pp7cLp44/index.m3u8?skipl=1
-一本78[720*480],https://vip4.ddyunbo.com/20210213/b7DcweSg/index.m3u8?skipl=1
-一本79[720*404],https://vip4.ddyunbo.com/20210213/bWyAJv5M/index.m3u8?skipl=1
-一本80[720*540],https://vip4.ddyunbo.com/20210213/ENM4zicX/index.m3u8?skipl=1
-一本81[720*540],https://vip4.ddyunbo.com/20210213/dsERtG8m/index.m3u8?skipl=1
-一本82[720*540],https://vip4.ddyunbo.com/20210213/I3UI5SqB/index.m3u8?skipl=1
-一本83[1080*810],https://videomy.yongaomy.com/20200404/vFPQjLRV/index.m3u8
-一本84[720*400],https://vip4.ddyunbo.com/20210212/2hVb694k/index.m3u8?skipl=1
-一本85[720*400],https://vip4.ddyunbo.com/20210212/eAK2mDwA/index.m3u8?skipl=1
-一本87[720*404],https://vip4.ddyunbo.com/20210212/kqFvWt7a/index.m3u8?skipl=1
-一本88[720*404],https://vip4.ddyunbo.com/20210212/XaOrROc9/index.m3u8?skipl=1
-一本89[720*404],https://vip4.ddyunbo.com/20210212/HsagiqHc/index.m3u8?skipl=1
-一本90[720*404],https://vip4.ddyunbo.com/20210212/ksQiMqeD/index.m3u8?skipl=1
-一本91[720*404],https://vip4.ddyunbo.com/20210212/dsIkfOPQ/index.m3u8?skipl=1
-一本92[720*404],https://vip4.ddyunbo.com/20210212/8gGUXokv/index.m3u8?skipl=1
-一本93[720*404],https://vip4.ddyunbo.com/20210212/GfWLULrp/index.m3u8?skipl=1
-一本94[720*404],https://vip4.ddyunbo.com/20210212/o98hhHfZ/index.m3u8?skipl=1
-一本95[720*404],https://vip4.ddyunbo.com/20210212/iBW4UZRR/index.m3u8?skipl=1
-一本96[720*404],https://vip4.ddyunbo.com/20210212/x4zgasWf/index.m3u8?skipl=1
-一本97[720*404],https://vip4.ddyunbo.com/20210212/3c1c12WZ/index.m3u8?skipl=1
-一本98[720*404],https://vip4.ddyunbo.com/20210212/lvGl3l08/index.m3u8?skipl=1
-一本99[720*540],https://vip4.ddyunbo.com/20210211/x8pJYD8l/index.m3u8?skipl=1
-一本100[720*404],https://vip4.ddyunbo.com/20210211/nMKLhIyw/index.m3u8?skipl=1
-一本101[720*404],https://vip4.ddyunbo.com/20210211/GcsvEahX/index.m3u8?skipl=1
-一本102[720*404],https://vip4.ddyunbo.com/20210211/zPoGNn7p/index.m3u8?skipl=1
-一本103[720*404],https://vip4.ddyunbo.com/20210211/UkRqKCzR/index.m3u8?skipl=1
-一本106[720*404],https://vip4.ddyunbo.com/20210210/uCXV7Fsx/index.m3u8?skipl=1
-一本107[720*404],https://vip4.ddyunbo.com/20210210/tPXr8H8t/index.m3u8?skipl=1
-一本108[720*404],https://vip4.ddyunbo.com/20210210/m2cy39az/index.m3u8?skipl=1
-一本109[720*404],https://vip4.ddyunbo.com/20210210/gCN3KZ2B/index.m3u8?skipl=1
-一本110[720*404],https://vip4.ddyunbo.com/20210210/VLdQd3jy/index.m3u8?skipl=1
-一本111[720*404],https://vip4.ddyunbo.com/20210209/jjSZD1eJ/index.m3u8?skipl=1
-一本112[720*404],https://vip4.ddyunbo.com/20210209/JbefRkqP/index.m3u8?skipl=1
-一本113[720*404],https://vip4.ddyunbo.com/20210209/Ylut1XIY/index.m3u8?skipl=1
-一本114[720*404],https://vip4.ddyunbo.com/20210209/9lmAX6nC/index.m3u8?skipl=1
-一本115[720*404],https://vip4.ddyunbo.com/20210209/HS0ZHHMU/index.m3u8?skipl=1
-一本116[720*404],https://vip4.ddyunbo.com/20210209/YVuPkKA0/index.m3u8?skipl=1
-一本118[720*404],https://vip4.ddyunbo.com/20210208/B7fkp2Nt/index.m3u8?skipl=1
-一本119[720*480],https://vip4.ddyunbo.com/20210208/ZrSlrBEi/index.m3u8?skipl=1
-一本120[720*404],https://vip4.ddyunbo.com/20210208/ovCbizI7/index.m3u8?skipl=1
-一本121[720*404],https://vip4.ddyunbo.com/20210208/fMfsqgou/index.m3u8?skipl=1
-一本122[720*404],https://vip4.ddyunbo.com/20210207/i9Hv5TRt/index.m3u8?skipl=1
-一本123[720*404],https://vip4.ddyunbo.com/20210207/OKmtrkDi/index.m3u8?skipl=1
-一本124[720*404],https://vip4.ddyunbo.com/20210207/dzwj6lNY/index.m3u8?skipl=1
-一本126[720*404],https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-一本128[720*404],https://vip4.ddyunbo.com/20210203/naZKao31/index.m3u8?skipl=1
-一本129[720*480],https://vip4.ddyunbo.com/20210203/qeP3V2YC/index.m3u8?skipl=1
-一本130[720*480],https://vip4.ddyunbo.com/20210203/1PVXgBlv/index.m3u8?skipl=1
-一本131[720*404],https://vip4.ddyunbo.com/20210203/UmJTgGy0/index.m3u8?skipl=1
-一本132[720*404],https://vip4.ddyunbo.com/20210203/h5FLtiCy/index.m3u8?skipl=1
-一本136[720*404],https://vip4.ddyunbo.com/20210203/CHkVgFa3/index.m3u8?skipl=1
-一本137[720*404],https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
-一本138[720*404],https://vip4.ddyunbo.com/20210202/UxqQ0vuR/index.m3u8?skipl=1
-一本139[720*404],https://vip4.ddyunbo.com/20210202/d4SRSiyD/index.m3u8?skipl=1
-一本140[720*404],https://vip4.ddyunbo.com/20210202/5SGmmIDx/index.m3u8?skipl=1
-一本141[720*404],https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
-C06[720*406],https://video2.caomin5168.com/20190418/A8Iv6XG6/index.m3u8
-C07[720*404],https://video2.caomin5168.com/20190725/j2ctjG1B/index.m3u8
-C08[720*480],http://videocdn.quweikm.com:8091/20180730/SHE-064c/index.m3u8
-C09[720*406],https://video1.91pandian.com/20190927/PRxPzDyR/index.m3u8
-C10[720*540],https://video1.91pandian.com/20190924/8hsMoUN3/index.m3u8
-C11[720*404],https://video.caomin5168.com/20190416/F14m0VfI/index.m3u8
-C12[720*406],https://video.caomin5168.com/20181227/lCBKb4gN/index.m3u8
-C13[720*526],https://video2.caomin5168.com/20190804/UkKSKV3K/index.m3u8
-C14[725*966],https://video.caomin5168.com/20190117/Urlhp1Vi/index.m3u8
-C15[720*1270],https://video1.91pandian.com/20190910/qDMRvcS4/index.m3u8
-C16[725*406],https://video1.91pandian.com/20190927/I8m6uLKL/index.m3u8
-C17[720*540],https://video2.caomin5168.com/20190609/ypYWfMFw/index.m3u8
-C18[720*486],https://video2.caomin5168.com/20190503/33TM6RZN/index.m3u8
-C19[720*1296],https://video.caomin5168.com/20190219/iZb7mp8U/index.m3u8
-C20[720*1278],https://video2.caomin5168.com/20190716/RBrUQEML/index.m3u8
-C21[720*1192],https://video.caomin5168.com/20190413/flvAz0HI/index.m3u8
-C22[720*406],https://video1.91pandian.com/20190921/MNXmGYgs/index.m3u8
-C23[725*406],https://video.caomin5168.com/20190505/i6r4qDJX/index.m3u8
-C24[720*960],https://video2.caomin5168.com/20190509/mWRZABS3/index.m3u8
-C25[720*540],https://video2.caomin5168.com/20190620/CwNiweom/index.m3u8
-C26[725*406],https://video2.caomin5168.com/20190621/uJQaBVdG/index.m3u8
-C27[725*406],https://video2.caomin5168.com/20190708/qcX8xtLw/index.m3u8
-C28[725*406],https://video.caomin5168.com/20190421/LtPpig2m/index.m3u8
-C29[720*406],https://video2.caomin5168.com/20190708/qQ7I01HL/index.m3u8
-C30[720*1195],https://video2.caomin5168.com/20190730/8JS0MC3n/index.m3u8
-C31[861*540],https://video.caomin5168.com/20190510/EsHZaVEV/index.m3u8
-C32[720*404],https://video.caomin5168.com/20190501/2lUXqy8m/index.m3u8
-C33[720*292],https://video.caomin5168.com/20181118/PgzEQeAC/index.m3u8
-C34[720*652],https://video.caomin5168.com/20190209/0kqKCLAi/index.m3u8
-C35[720*406],https://video.caomin5168.com/20190523/AVriTn2I/index.m3u8
-C36[825*1284],https://video.caomin5168.com/20181130/w0Hprk1z/index.m3u8
-C37[720*406],https://video2.caomin5168.com/20190728/PBSS4YH8/index.m3u8
-C38[853*480],https://video.caomin5168.com/20181012/0QdIs77z/index.m3u8
-C39[720*540],https://video.caomin5168.com/20190516/CtJLkU9S/index.m3u8
-C40[720*406],https://video.caomin5168.com/20181118/MUpF254u/index.m3u8
-C41[725*406],https://video.caomin5168.com/20181120/qLz99prf/index.m3u8
-C42[783*534],https://video1.91pandian.com/20190916/iXU8WBjk/index.m3u8
-C43[725*406],https://video1.91pandian.com/20190917/5OppyamZ/index.m3u8
-C44[725*406],https://video.caomin5168.com/20190507/ERiPdCIX/index.m3u8
-C45[720*1195],https://video.caomin5168.com/20190502/CwLdtE92/index.m3u8
-C46[1405*480],https://video.caomin5168.com/20181102/HKPj3O3Q/index.m3u8
-C47[720*1072],https://video2.caomin5168.com/20190531/e0ry3GHU/index.m3u8
-C48[725*406],https://video.caomin5168.com/20190515/brNpHtFi/index.m3u8
-C49[720*406],https://video.caomin5168.com/20190511/FBdOkIQa/index.m3u8
-C50[720*404],https://video.caomin5168.com/20190516/ENBIPxAj/index.m3u8
-C51[720*392],https://video.caomin5168.com/20190515/ZYbQ45pW/index.m3u8
-C53[720*1280],https://video.caomin5168.com/20190508/hy4joauG/index.m3u8
-一BE1[720*404],https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
-一BE2[720*404],https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
-一BE3[720*404],https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
-一BE4[720*404],https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
-一BE5[720*404],https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
-一BE6[720*404],https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
-一BE8[720*404],https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8?skipl=1
-一BE9[720*404],https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
-一BE10[720*404],https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-一BE11[720*404],https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
-一BE1[720*404],https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
-一BE2[720*404],https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
-一BE3[720*404],https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
-一BE4[720*404],https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
-一BE5[720*404],https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
-一BE6[720*404],https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
+DJ頻道,#genre#
+車模視頻,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+歐美動感DJ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+韓國動感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+韓國動感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+樸孝敏 –SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+歐美動感歌曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+歐美動感歌曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+歐美群星-天下一家,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
+邁克爾傑克遜,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+韓國DJ Soda Remix 2021 電音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+韓國歌團001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4#https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韓國歌團002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韓國歌團003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韓國歌團004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韓國歌團005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韓國歌團006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韓國歌團007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韓國歌團008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韓國歌團009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韓國歌團010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韓國歌團011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韓國歌團012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韓國歌團013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韓國歌團014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韓國歌團015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韓國歌團016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韓國歌團017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韓國歌團018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韓國歌團019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韓國歌團020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+韓國太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+韓國太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韓國太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韓國太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韓國太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韓國太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韓國太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韓國太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韓國太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韓國太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韓國太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韓國太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韓國太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韓國太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韓國太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韓國太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韓國太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韓國太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韓國太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韓國太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韓國太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韓國太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韓國太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韓國太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韓國太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韓國太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韓國太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韓國太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韓國太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韓國太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韓國太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+韓國太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+韓國太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+韓國太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+韓國太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韓國太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韓國太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+韓國太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+韓國太妍39,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+韓國太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+韓國太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+韓國太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
+韓國太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+韓國女團002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韓國女團003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韓國女團004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韓國女團005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韓國女團006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韓國女團007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韓國女團008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韓國女團009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韓國女團010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韓國女團011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韓國女團012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韓國女團013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韓國女團014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韓國女團015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韓國女團016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韓國女團017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韓國女團018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韓國女團019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韓國女團020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+韓國女團021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+韓國女團022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+韓國女團023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+韓國女團024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+韓國女團025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+韓國女團026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+韓國女團027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+韓國女團028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+韓國女團029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+韓國女團030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+韓國女團031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+韓國女團032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+韓國女團033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+韓國女團034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+韓國女團035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+韓國女團036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+韓國女團037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+韓國女團038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+韓國女團039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+韓國女團040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+韓國女團041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+韓國女團042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+韓國女團043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+韓國女團045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+韓國女團046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+韓國女團047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+韓國女團048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+韓國女團049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+韓國女團050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+韓國女團051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+韓國女團052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+韓國女團053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+韓國女團054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+韓國女團055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+韓國女團056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+韓國女團057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+韓國女團058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+韓國女團059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+韓國女團060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+韓國女團061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+韓國女團062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+韓國女團063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+韓國女團064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+韓國女團065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+韓國女團066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+韓國女團067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+韓國女團068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+韓國女團069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+韓國女團070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+韓國女團071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+韓國女團072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+韓國女團074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+韓國女團075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+韓國女團076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+韓國女團077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+韓國女團078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+韓國女團079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+韓國女團080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+韓國女團081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+韓國女團082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+韓國女團083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+韓國女團084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+韓國女團085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+韓國女團086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+韓國女團087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+韓國女團088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+韓國女團089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+韓國女團090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+韓國女團091,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+韓國女團092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+韓國女團093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+韓國女團094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+韓國女團095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+韓國女團096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+韓國女團097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+韓國女團098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+韓國女團099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+韓國女團100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+韓國女團101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+韓國女團102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+韓國女團103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+韓國女團104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+韓國女團105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+韓國女團106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+韓國女團107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+韓國女團108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+韓國女團109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+韓國女團110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+韓國女團111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+韓國女團112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+韓國女團113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+韓國女團114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+韓國女團115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+韓國女團116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+韓國女團117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+韓國女團118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+韓國女團119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+韓國女團120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+韓國女團121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+韓國女團122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+韓國女團123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+韓國女團125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+韓國女團126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+韓國女團127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+韓國女團128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+韓國女團129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+韓國女團130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+韓國女團131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+韓國女團132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+韓國女團133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+韓國女團134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+韓國女團135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+韓國女團136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+韓國女團137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+韓國女團138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+韓國女團139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+韓國女團140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+韓國女團141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+韓國女團142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+韓國女團143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+韓國女團145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+韓國女團146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+韓國女團147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+韓國女團148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+韓國女團149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+韓國女團150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+韓國女團151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+韓國女團152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+韓國女團153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+
+咪咕輪播,#genre#
+咪咕_劉德華影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+咪咕_古天樂影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+咪咕_成龍作影院,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+咪咕_張國榮影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+咪咕_周潤發影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+咪咕_葛優影院,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+咪咕_懷舊老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+咪咕_雲上影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+咪咕_殭屍劇場,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+咪咕_影視展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+咪咕_TVB劇場,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+咪咕_盜墓影視,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+咪咕_試膽大會,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+咪咕_軍旅劇場,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+咪咕_劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+咪咕_神探狄仁傑,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+咪咕_追劇少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+咪咕_經典賀歲,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+咪咕_每日薦影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+咪咕_奧運頻道,http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8
+
+明星影視,#genre#
+劉德華,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+周潤發,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+成龍,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+張國榮,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+劉亦菲,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+古天樂,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電競,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8#http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+影視2,http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
+電影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+好萊塢影院１,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+喜劇電影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+神探狄仁傑,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+喜劇聯盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+懷舊老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+?屍劇場,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+TVB劇場,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+盜墓,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+試膽大會,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+軍旅劇場,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+SNH48劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+追劇少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+經典賀歲片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+每日薦影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+虎牙_埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+虎牙_埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+虎牙_埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+虎牙_埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+虎牙_埋堆堆7,http://txtest-xp2p.p2p.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.xs
+虎牙_埋堆堆10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+虎牙_埋堆堆11,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+虎牙_埋堆堆12,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+虎牙_埋堆堆16,http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+虎牙_埋堆堆21,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+虎牙_埋堆堆23,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+虎牙_埋堆堆24,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+虎牙_埋堆堆25,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+虎牙_埋堆堆26,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+虎牙_埋堆堆27,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+虎牙_埋堆堆28,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+虎牙_埋堆堆29,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+虎牙_埋堆堆30,http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+虎牙_埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+虎牙_埋堆堆32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+虎牙_埋堆堆35,http://txtest-xp2p.p2p.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.xs
+虎牙_埋堆堆41,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+虎牙_埋堆堆44,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+虎牙_埋堆堆47,http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+虎牙_埋堆堆49,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+虎牙_埋堆堆52,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+虎牙_埋堆堆54,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+虎牙_埋堆堆57,http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+虎牙_埋堆堆60,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+
+
 
 
