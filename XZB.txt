@@ -1,84 +1,51 @@
-中華電信,#genre#
-寰宇新闻[1280*720],http://128.14.50.198:8880/m3u8/34uFUj7p3cgBODMfu-qdldfDVbK5DkfUI8V2pvY4xZMPe5YGeerJgD0XXNS5pyi9sE4kn8khKLie6eOOHtF59g
-三立新闻[1280*720],http://128.14.50.198:8880/m3u8/whMPg7a8mFkejA5wXHkhAkIWJQox37nayRMxL0HQZn6uK0P5MOTryGFTFJY4D90MizsgWwzD490F9mgBAUDocA
-TVBS新闻[1280*720],http://128.14.50.198:8880/m3u8/K3XHUazoB_rcRfNV-xxWUx1P82qirO22mhufo2IrdYINm64-rGe558wDDdTbySodeeo3RGu0LsplpTyQzDiVfA
-TVBS新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新聞[1920*1080],http://125.227.210.55:16329/VideoInput/play.ts
-东森新闻[1280*720],http://128.14.50.198:8880/m3u8/Zcj_iBstqtrlwPEXKigJ5CacMA3s33h_K67hbRVv5WJ-8vK0FLJEhIehfSylbK-6rtRghJL9h76D4o14sKPsrg
-壹新聞[1280*720],http://128.14.50.198:8880/m3u8/jDkTHHFXz6zEu2FK89DCzBXViUgWMNAK-ic-tJHjX8goB41fNmlsOUcx9YYhs5hs_RNK7PjjFkJZpbAvdTRNIQ
-年代新聞[1280*720],http://128.14.50.198:8880/m3u8/-t9vbpKpVSi2CE4yf5UEp1GWaT6v_lRK74CILLX1lpG0cMemEdOtYTNs15AFIHKjFaLMIugT91vhAzd9P1B_cw
-東森財經[1280*720],http://128.14.50.198:8880/m3u8/u3qBWVaqBZ_17dgTAlyqKzyDrF-FqOGLY85Z-3PALdZ45qud2gdbTpns_NjICtxbgc2rnoTsMTbh_THXADgGzA
-中天新闻[1280*720],http://128.14.50.198:8880/m3u8/An0eCcWmr9P5-MFL70geSXTUHMSPo-IEX-BJWSgkMc7IuPnS49nn0oJl5xF6AHXkvGfUzTtxp6aj9f4-03nGzQ
-非凡新聞[1280*720],http://128.14.50.198:8880/m3u8/3LlKEdjhmtGLECwwCYAzKUdjTGirebhTbVlVkdZquYSoXbuRczgVRLVzQqCUIFa0c1NP0K81IeFs2HJ6Y4GD8Q
-非凡新闻[1280*720],http://128.14.50.198:8880/m3u8/W9Me_yFA9gUs-3VGiSfWeX_yCFXMUTKb4a_O_c3LURluD1VEzCf024yw-Fpj3gTiQFXNolTNOgrXGIK37t-Gpw
-民视新闻[1280*720],http://128.14.50.198:8880/m3u8/XP1ZRkvSqubaSsQxeU9SpWqueoyvLoSslddF53HsoAIX4zCQGIyU5XFMLVcE0b_uQ9tvwXYp4Cs5a_t9P0rM4g
-民视新闻[760*428],https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-民视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民視新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-中视新闻[1280*720],http://128.14.50.198:8880/m3u8/drcHesiLKPIalNi8g4YCu_szKKY2GszHT9VX9OVB1zPeskKuDRlfSrqIy_yZY9Pwi6SJUeWzXDHGTH218WEJQA
-中视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-台视新闻[1280*720],http://128.14.50.198:8880/m3u8/85SBj3Mj9GrsjoFGVgUydFTyNqXB2I1sNJ_J_4aJlrGO6RuCIFdLvKsOc8YqviOhIpCx_gkCSIOfP36yc3EPpQ
-台視新聞[1920*1080],https://git.io/JgkxY
-台視新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-台視新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-华视新闻[1280*720],http://128.14.50.198:8880/m3u8/6eM3sljdagBuqIOHmNrM4tqueoPwmztuxm1F1jVeg9Wc4P1qaPpj1j70-qlSScpRQcHiEcFT_BaSpUJz7jAoNw
-民视HD[1280*720],http://128.14.50.198:8880/m3u8/Ma8rM3HGcb-bsWWb0_h1obZQLvsdqkIGGHXNzM9aB-D4Td8yGL3BHBKGZu9dslQ7NjsKigU-FO8InRmgbyt6qQ
-民视[640*360],http://seb.sason.top/ptv/ftv.php?id=ms
-民视综艺[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
-民视影剧[640*360],http://seb.sason.top/ptv/ftv.php?id=yj
-民视旅游[640*360],http://seb.sason.top/ptv/ftv.php?id=ly
-中视HD[1280*720],http://128.14.50.198:8880/m3u8/JKEYTgWWPkfvW22mFe7cHB8AZPrE0esiY1DSNRBMoVKC_BwYGDP2z8QxBFbuSWaqWxaDTQLjiM6EQ7Wh3d25WQ
-中视菁采台[1280*720],http://128.14.50.198:8880/m3u8/T7pMOJCGZddfI8KniHP6aHfXE6eTkCLS7OEQlKFezMtVSD4QRfEvD0kEACu7fUFZhPQA-au4d58fGdYjJuYgnQ
-台视HD[1280*720],http://128.14.50.198:8880/m3u8/MywMmFZL5L-MsjWo7cYHKlpQVpz-wv0O3hXjHvUlotawhGvAYFpeqqkE_FohMrv-0bah49NBnlRxaEMQAN07sA
-台视综合[1280*720],http://128.14.50.198:8880/m3u8/fp7iDTn_xr6v7fcf4435uOQsSg2m3j3aoNv52V0zA2qqVPH7-El1funMvA4FybesVGXZLkLJyNQTQmzprH5Unw
-台视财经台[1280*720],http://128.14.50.198:8880/m3u8/W8heik0NtJNTNlZNVMv2SwLd4Uz6Ipqk2oRUGC8V8yEKmMWo41JK-9449K2J1yPdjwtbQ8TwBXE7pI2PyOMnGA
-华视HD[1280*720],http://128.14.50.198:8880/m3u8/kswwJggekpO1uiOb5ly3brJR75txFZpCp4i-1JboojajM8VjUDqFD3YIsizEJQ2KQSYtw4QK0WT11oEDS77Zrw
-東森財經[1280*720],http://128.14.50.198:8880/m3u8/u3qBWVaqBZ_17dgTAlyqKzyDrF-FqOGLY85Z-3PALdZ45qud2gdbTpns_NjICtxbgc2rnoTsMTbh_THXADgGzA
-東森電影[1920*1080],http://120.84.96.42:808/hls/32/index.m3u8
-東森電影[1920*1080],http://120.84.96.43:808/hls/32/index.m3u8
-東森電影[1920*1080],http://120.84.96.46:808/hls/32/index.m3u8
-東森美洲[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-東森財經新聞[1920*1080],https://git.io/Jgkpc
-東森洋片[1920*1080],http://125.227.210.55:18685/VideoInput/play.ts
-TVBS-N[640*360],http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
-TVBS-N[854*480],http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-TVBS-N[854*480],http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
-TVBS[1920*1080],https://git.io/JgYl2
-中天娛樂[1920*1080],http://125.227.210.55:15796/VideoInput/play.ts
-中天娛樂[1920*1080],http://125.227.210.37:15796/VideoInput/play.ts
-龙华戏剧[1920*1080],http://59.125.98.83:8534/playlist.m3u8
-龍華戲劇.[1920*1080],http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華戲劇.[1920*1080],http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龙华日韩[1920*1080],http://59.125.98.83:8535/playlist.m3u8
-龍華日韓[1920*1080],http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華日韓[1920*1080],http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-緯來體育HD[1920*1080],http://125.227.210.37:18358/VideoInput/play.ts
-卫视中文[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-大愛一台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛一臺[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二臺[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-HBO HD[1920*1080],http://125.227.210.55:16027/VideoInput/play.ts
-HBO Family[1920*1080],https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
-HBO Asia[640*360],https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-HBO XTREME[640*480],http://38.123.205.70:8000/play/a096/index.m3u8
-GOOD TV CH3[1280*720],http://live.streamingfast.net/osmflivech3.m3u8
-GOOD TV CH1[1280*720],http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-GOOD TV CH2[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-GoodTV 真情部落[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-GoodTV 經典音樂[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 健康煮流[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-GoodTV 共享觀點[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-GoodTV 愛旅行台[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-原住民電視[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-唯心衛視[854*480],http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-NHK華語[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-美亚电影[1280*720],http://128.14.50.198:8880/m3u8/3o5RqUeJtL9M6fYNLt3UkuZ8KiHY9U8MQo3fKuiyrz8sBlORBjxxUCwWHQmR0Xv_uxd63t9Ub6SfnyuS2mNk8g
-NickjrFHD[1280*720],http://128.14.50.198:8880/m3u8/NPrKqKYa8R5lPflit29ynEQI96fPpRYBJpX5qnfeKRCJ9jGk7GEL3oS7rRVqJel_SqNdkSboYgxYX4OKcHYc5A
-WarnerTVHD[1280*720],http://128.14.50.198:8880/m3u8/KX6n_DkNwLjM44ZmgLghecE5VNCN6XpoeTdRAFfcOKyEybjreRLevcDWN47T-eawJtUKwMADz3CFNwK857OtgA
-elevensports1[1280*720],http://128.14.50.198:8880/m3u8/HEdgGdlXs7LK4wHy-G9S4rJZ2lNhVbBaaJKwGazbnvs1nhlknWAiU98TI4oCV3s6Q6aQ7oQCZsHVQBINIurxnA
-
+機哥分享0610,#genre#
+寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+鏡新聞[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+三立新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+TVBS新聞,rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+壹電視新聞台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
+東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+東森財經新聞,rtmp://59.124.75.138/sat/tv571#rtmp://59.124.75.150/sat/tv571
+中天新聞台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+中視新聞台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.150/sat/tv051
+台視,rtmp://59.124.75.138/sat/tv071#rtmp://59.124.75.150/sat/tv071
+中視,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
+華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
+中視,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+華視,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+TVBS歡樂,rtmp://59.124.75.138/sat/tv421#rtmp://59.124.75.150/sat/tv421
+緯來育樂,rtmp://59.124.75.138/sat/tv701#rtmp://59.124.75.150/sat/tv701
+緯來日本,rtmp://59.124.75.138/sat/tv771#rtmp://59.124.75.150/sat/tv771
+龍華戲劇,http://59.125.98.83:8534/playlist.m3u8
+龍華日韓,http://59.125.98.83:8535/playlist.m3u8
+龍華偶像,http://59.125.98.83:8536/playlist.m3u8
+東森電影,http://120.84.96.46:808/hls/32/index.m3u8
+東森電影台,http://120.84.96.43:808/hls/32/index.m3u8
+東森洋片台,http://120.84.96.43:808/hls/33/index.m3u8
+大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+灣灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+好消息電視台1,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+緯來體育,rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721
+緯來體育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=105
+ELEVEN2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/tv741#rtmp://59.124.75.150/sat/md051
+MOMO綜合,rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.150/sat/tv761
+博斯網球,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
+ELEVEN2,rtmp://59.124.75.138/sat/md051
+ELEVEN1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.150/sat/tv731
+ELTA3,rtmp://59.124.75.138/sat/md041
+ELTA體育1,rtmp://59.124.75.150/sat/md011
+ELTA體育2,rtmp://59.124.75.150/sat/md021
+ELTA體育3,rtmp://59.124.75.150/sat/md041
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8#https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8#https://cdn.deepcore.online/hlsme/ctv_hk.m3u8#https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8#https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 
 XZB0526,#genre#
 环宇新闻[1920*1080],http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
