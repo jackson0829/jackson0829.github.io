@@ -150,7 +150,7 @@ NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 
 
-4G代理_0611,#genre#
+4G代理0611,#genre#
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 三立iNEWS-02,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
@@ -226,7 +226,7 @@ ARIRANG阿里郎频道[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gt
 大愛一臺[1280*720][1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二臺[1280*720][1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-YouTube_0611,#genre#
+YouTube0611,#genre#
 2021华语流行歌曲,https://git.io/JgYR5
 大爱,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
 大爱2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
@@ -265,10 +265,6 @@ YouTube_0611,#genre#
 HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8#http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947#http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945#http://220.134.196.147:9557/index.m3u8#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca#http://gg.gg/HaNoiIPTV-HBO_HD#http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942#https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca#http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8#http://gg.gg/HaNoiIPTV-HBO_HD
 HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8#https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 HBO SIGNATURE,http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
-
-
-
-
 
 中國動畫,#genre#
 英文兒歌[896*504],http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
