@@ -153,7 +153,6 @@ NHK華語,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 4G0611,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立iNEWS-02,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 三立LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 東森財經新聞-02,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
@@ -229,7 +228,7 @@ ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=
 YT0611,#genre#
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8#https://git.io/JgkpO
 三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8#https://git.io/Jgkxj
-三立INEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立Live,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 東森財經新聞,https://git.io/Jgkpc
 中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
