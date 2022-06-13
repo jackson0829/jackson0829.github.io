@@ -69,7 +69,7 @@ ELTA体育1,rtmp://59.124.75.150/sat/md011
 ELTA体育2,rtmp://59.124.75.150/sat/md021
 ELTA体育3,rtmp://59.124.75.150/sat/md041
 
-0611愛看電視,#genre#
+愛看電視0611,#genre#
 寰宇新聞,http://60.251.59.180:8510/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
 鏡電視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8 
