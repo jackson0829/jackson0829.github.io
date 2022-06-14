@@ -1,73 +1,249 @@
 電視貓0612,#genre#
-寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-三立新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
-TVBS新聞,rtmp://59.124.75.150/sat/tv551
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-壹新聞,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
-東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-東森財經新聞,rtmp://59.124.75.138/sat/tv571
-東森財經新聞,rtmp://59.124.75.150/sat/tv571
-中天新聞,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-中視新聞,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視,rtmp://59.124.75.138/sat/tv051
-民視,rtmp://59.124.75.150/sat/tv051
-民視,http://211.23.114.106:11115/http/60.251.39.91:8081/hls/73/815/ch49.m3u8
-台視,rtmp://59.124.75.138/sat/tv071
-台視,rtmp://59.124.75.150/sat/tv071
-台視,http://211.23.114.106:76896/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
-台視,http://211.23.114.106:11360/http/60.251.39.91:8081/hls/72/814/ch46.m3u8
-中視,rtmp://59.124.75.138/sat/tv091
-中視,rtmp://59.124.75.150/sat/tv091
-中視,http://211.23.114.106:76641/http/60.251.39.91:8081/hls/72/814/ch47.m3u8
-中視,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
-華視,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
-華視,rtmp://59.124.75.138/sat/tv111
-華視,rtmp://59.124.75.150/sat/tv111
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-東森電影,http://120.84.96.46:808/hls/32/index.m3u8
-東森電影,http://120.84.96.43:808/hls/32/index.m3u8
-東森洋片,http://120.84.96.43:808/hls/33/index.m3u8
-緯來育樂,rtmp://59.124.75.138/sat/tv701
-緯來育樂,rtmp://59.124.75.150/sat/tv701
-緯來日本,rtmp://59.124.75.138/sat/tv771
-緯來日本,rtmp://59.124.75.150/sat/tv771
-龍華戲劇,http://59.125.98.83:8534/playlist.m3u8
-龍華日韓,http://59.125.98.83:8535/playlist.m3u8
-龍華偶像,http://59.125.98.83:8536/playlist.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-MOMO綜合,rtmp://59.124.75.150/sat/tv761
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-灣灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-好消息電視台1,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
+TVBS,https://live.6zxr.xyz/tvbs56/hls/index.m3u8
+中天新闻,https://live.6zxr.xyz/ztxw/index.m3u8
+寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
+民视新闻,https://live.6zxr.xyz/fhwszx/index.m3u8
+台视新闻,https://live.6zxr.xyz/tvbs/index.m3u8
+东森新闻,https://live.6zxr.xyz/dsxw/index.m3u8
+三立新闻(高清),http://60.251.59.180:8506/.m3u8
+三立新闻,https://live.6zxr.xyz/twtv/index.m3u8
+东森LlVE,http://104.160.42.97:9500/live.m3u8?c=6
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+八大第一台 ,http://58.247.70.104:61985/hlsok/0c1c9c69/index.m3u8
+八大戏剧台 ,http://58.247.70.104:61985/hlsok/ecd48897/index.m3u8
+八大娱乐台 ,http://58.247.70.104:61985/hlsok/ae8d3762/index.m3u8
+八大综合台 ,http://58.247.70.104:61985/hlsok/41bea7e4/index.m3u8
+大爱电视台 ,http://58.247.70.104:61985/hlsok/0fe40b1c/index.m3u8
+迪士尼卡通 ,http://58.247.70.104:61985/hlsok/92d3d2fd1/index.m3u8
+东风37 ,http://58.247.70.104:61985/hlsok/c1809a12/index.m3u8
+东森财经新闻 ,http://58.247.70.104:61985/hlsok/7a3a85b7/index.m3u8
+东森超视 ,http://58.247.70.104:61985/hlsok/53633d87/index.m3u8
+东森电影 ,http://58.247.70.104:61985/hlsok/75d7613b/index.m3u8
+东森戏剧 ,http://58.247.70.104:61985/hlsok/35bb9175/index.m3u8
+东森新闻 ,http://58.247.70.104:61985/hlsok/1ecdeb5a/index.m3u8
+东森洋片 ,http://58.247.70.104:61985/hlsok/14561539/index.m3u8
+东森幼幼 ,http://58.247.70.104:61985/hlsok/917ed93a/index.m3u8
+东森综合 ,http://58.247.70.104:61985/hlsok/d3cc16e5/index.m3u8
+非凡新闻 ,http://58.247.70.104:61985/hlsok/2187f64b/index.m3u8
+翡翠台 ,http://58.247.70.104:61985/hlsok/892debf01/index.m3u8
+凤凰香港 ,http://58.247.70.104:61985/hlsok/b18b32b6/index.m3u8
+凤凰中文 ,http://58.247.70.104:61985/hlsok/a1ddeef5/index.m3u8
+凤凰资讯 ,http://58.247.70.104:61985/hlsok/2c3cc674/index.m3u8
+高点综合 ,http://58.247.70.104:61985/hlsok/9569303e/index.m3u8
+公视 ,http://58.247.70.104:61985/hlsok/a98ccb72/index.m3u8
+公视2台语台 ,http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
+公视3 ,http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
+好消息 ,http://58.247.70.104:61985/hlsok/9e23bf25/index.m3u8
+好消息2 ,http://58.247.70.104:61985/hlsok/c56f11e4/index.m3u8
+华视 ,http://58.247.70.104:61985/hlsok/3d2107b0/index.m3u8
+华视新闻资讯 ,http://58.247.70.104:61985/hlsok/091887ce/index.m3u8
+寰宇新闻台 ,http://58.247.70.104:61985/hlsok/1fb0838b/index.m3u8
+靖天电影台 ,http://58.247.70.104:61985/hlsok/b6690265/index.m3u8
+靖天日本台 ,http://58.247.70.104:61985/hlsok/22b2a3c1/index.m3u8
+靖天戏剧台 ,http://58.247.70.104:61985/hlsok/ec8952ba/index.m3u8
+客家电视台 ,http://58.247.70.104:61985/hlsok/6caa4479/index.m3u8
+历史频道 ,http://58.247.70.104:61985/hlsok/5c2de6d6/index.m3u8
+历史H2 ,http://58.247.70.104:61985/hlsok/59d690d3/index.m3u8
+龙祥时代 ,http://58.247.70.104:61985/hlsok/e4a13cc1/index.m3u8
+美食网 ,http://58.247.70.104:61985/hlsok/1dd145d4f/index.m3u8
+美食星球 ,http://58.247.70.104:61985/hlsok/00740cb7/index.m3u8
+美亚电影台 ,http://58.247.70.104:61985/hlsok/558343fa/index.m3u8
+民视 ,http://58.247.70.104:61985/hlsok/fd841196/index.m3u8
+民视新闻台 ,http://58.247.70.104:61985/hlsok/ced345d4/index.m3u8
+明珠台 ,http://58.247.70.104:61985/hlsok/df1763cf9/index.m3u8
+年代新闻 ,http://58.247.70.104:61985/hlsok/3abbaa2d/index.m3u8
+年代MUCH ,http://58.247.70.104:61985/hlsok/9755ce73/index.m3u8
+欧洲体育 ,http://58.247.70.104:61985/hlsok/c3afb811/index.m3u8
+霹雳台湾台 ,http://58.247.70.104:61985/hlsok/7b8dd162/index.m3u8
+人间卫视 ,http://58.247.70.104:61985/hlsok/20880537/index.m3u8
+三立都会台 ,http://58.247.70.104:61985/hlsok/6fd6bcf8/index.m3u8
+三立台湾台 ,http://58.247.70.104:61985/hlsok/04cace76/index.m3u8
+三立戏剧台 ,http://58.247.70.104:61985/hlsok/e27df090/index.m3u8
+三立新闻 ,http://58.247.70.104:61985/hlsok/0ebc9684/index.m3u8
+三立iNews ,http://58.247.70.104:61985/hlsok/5ff59fda/index.m3u8
+台视 ,http://58.247.70.104:61985/hlsok/0610e13c/index.m3u8
+台视财经 ,http://58.247.70.104:61985/hlsok/1088d24f/index.m3u8
+台视新闻 ,http://58.247.70.104:61985/hlsok/c23f3737/index.m3u8
+台视综合 ,http://58.247.70.104:61985/hlsok/1364de9b/index.m3u8
+探索动力 ,http://58.247.70.104:61985/hlsok/c4421e308/index.m3u8
+探索科学 ,http://58.247.70.104:61985/hlsok/bf60aa18d/index.m3u8
+探索频道 ,http://58.247.70.104:61985/hlsok/592cd26f/index.m3u8
+探索亚洲 ,http://58.247.70.104:61985/hlsok/37c6ad51/index.m3u8
+天映 ,http://58.247.70.104:61985/hlsok/25f0062c3/index.m3u8
+天映电影 ,http://58.247.70.104:61985/hlsok/1adeba89d/index.m3u8
+天映经典 ,http://58.247.70.104:61985/hlsok/38bee4d5f/index.m3u8
+纬来电影 ,http://58.247.70.104:61985/hlsok/75966caf/index.m3u8
+纬来精采 ,http://58.247.70.104:61985/hlsok/9554fc33/index.m3u8
+纬来日本 ,http://58.247.70.104:61985/hlsok/b9c4ab9a/index.m3u8
+纬来体育 ,http://58.247.70.104:61985/hlsok/04a6b392/index.m3u8
+纬来戏剧 ,http://58.247.70.104:61985/hlsok/f04a37c7/index.m3u8
+纬来育乐 ,http://58.247.70.104:61985/hlsok/f1a7b27f/index.m3u8
+纬来综合 ,http://58.247.70.104:61985/hlsok/6bfaef10/index.m3u8
+卫视电影台 ,http://58.247.70.104:61985/hlsok/2359ba51/index.m3u8
+卫视洋片台 ,http://58.247.70.104:61985/hlsok/716adb39/index.m3u8
+卫视中文台 ,http://58.247.70.104:61985/hlsok/3b15e6b2/index.m3u8
+无线财经资讯台 ,http://58.247.70.104:61985/hlsok/bf90c099d/index.m3u8
+无线新闻台 ,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
+星卫娱乐台 ,http://58.247.70.104:61985/hlsok/2657344c/index.m3u8
+星卫电影台 ,http://58.247.70.104:61985/hlsok/cfcece47/index.m3u8
+亚洲旅游台 ,http://58.247.70.104:61985/hlsok/9331c00b/index.m3u8
+亚洲美食 ,http://58.247.70.104:61985/hlsok/32fa8773/index.m3u8
+亚洲新闻 ,http://58.247.70.104:61985/hlsok/1306d57e/index.m3u8
+壹电影 ,http://58.247.70.104:61985/hlsok/4dcedbb6/index.m3u8
+壹新闻 ,http://58.247.70.104:61985/hlsok/cc4d59da/index.m3u8
+壹综合 ,http://58.247.70.104:61985/hlsok/f0546361/index.m3u8
+原视 ,http://58.247.70.104:61985/hlsok/8d6f904e/index.m3u8
+浙江卫视 ,http://58.247.70.104:61985/hlsok/034fff50/index.m3u8
+中视 ,http://58.247.70.104:61985/hlsok/7b007f53/index.m3u8
+中视经典 ,http://58.247.70.104:61985/hlsok/d743e534/index.m3u8
+中视菁采 ,http://58.247.70.104:61985/hlsok/44aa1843/index.m3u8
+中视新闻 ,http://58.247.70.104:61985/hlsok/66836176/index.m3u8
+中天新闻 ,http://58.247.70.104:61985/hlsok/565046de1/index.m3u8
+中天娱乐 ,http://58.247.70.104:61985/hlsok/8767613c/index.m3u8
+中天综合 ,http://58.247.70.104:61985/hlsok/cd862c57/index.m3u8
+Al Jazeera ,http://58.247.70.104:61985/hlsok/91fade782/index.m3u8
+Animax ,http://58.247.70.104:61985/hlsok/4d696d82/index.m3u8
+ASSP 1 ,http://58.247.70.104:61985/hlsok/e2a9fd412/index.m3u8
+ASSP 2 ,http://58.247.70.104:61985/hlsok/6005446aa/index.m3u8
+ASSP 3 ,http://58.247.70.104:61985/hlsok/3e8df4b90/index.m3u8
+ASSP 4 ,http://58.247.70.104:61985/hlsok/67925edf7/index.m3u8
+ASSP 5,http://58.247.70.104:61985/hlsok/639fd6dd8/index.m3u8
+Astro 欢喜台 ,http://58.247.70.104:61985/hlsok/eed43eebc/index.m3u8
+Astro 全佳 ,http://58.247.70.104:61985/hlsok/f8894d6f8/index.m3u8
+Astro 双星 ,http://58.247.70.104:61985/hlsok/c6e446ec2/index.m3u8
+Astro 小太阳 ,http://58.247.70.104:61985/hlsok/8fc3aa637/index.m3u8
+Astro AEC ,http://58.247.70.104:61985/hlsok/8b490aaa2/index.m3u8
+Astro AOD ,http://58.247.70.104:61985/hlsok/95506d172/index.m3u8
+Astro ARENA 2 ,http://58.247.70.104:61985/hlsok/d51fac985/index.m3u8
+Astro Arena ,http://58.247.70.104:61985/hlsok/a806e8354/index.m3u8
+Astro AWANI ,http://58.247.70.104:61985/hlsok/6cd9a8b4d/index.m3u8
+AXN洋片台 ,http://58.247.70.104:61985/hlsok/c1c18f78/index.m3u8
+Baby TV ,http://58.247.70.104:61985/hlsok/5c624ce4/index.m3u8
+BabyFirst ,http://58.247.70.104:61985/hlsok/d959b037/index.m3u8
+BBC earth ,http://58.247.70.104:61985/hlsok/ea553fec/index.m3u8
+BBC ,http://58.247.70.104:61985/hlsok/8bfad9d08/index.m3u8
+BBC卡通 ,http://58.247.70.104:61985/hlsok/e9151843/index.m3u8
+BBCLIFE ,http://58.247.70.104:61985/hlsok/74fd4d2a/index.m3u8
+beIN sports 1 ,http://58.247.70.104:61985/hlsok/ea7fb0b25/index.m3u8
+beIN Sports 2 ,http://58.247.70.104:61985/hlsok/1e067f9b2/index.m3u8
+beIN Sports 3 ,http://58.247.70.104:61985/hlsok/2de26c1db/index.m3u8
+BERITA rtm ,http://58.247.70.104:61985/hlsok/60ad5671a/index.m3u8
+Bernama News ,http://58.247.70.104:61985/hlsok/e6e9bd80b/index.m3u8
+Bloomberg ,http://58.247.70.104:61985/hlsok/b44316a45/index.m3u8
+Boomerang卡通 ,http://58.247.70.104:61985/hlsok/793feddf2/index.m3u8
+TVB 经典 ,http://58.247.70.104:61985/hlsok/e6b996579/index.m3u8
+TVB 娱乐新闻 ,http://58.247.70.104:61985/hlsok/475bf8a6a/index.m3u8
+TVB华丽台 ,http://58.247.70.104:61985/hlsok/4c308ed71/index.m3u8
+TVB星河台 ,http://58.247.70.104:61985/hlsok/2b448a969/index.m3u8
+TVBS 亚洲 ,http://58.247.70.104:61985/hlsok/940a0adba/index.m3u8
+TVBS ,http://58.247.70.104:61985/hlsok/e9c339cc/index.m3u8
+TVBS欢乐台 ,http://58.247.70.104:61985/hlsok/c9692259/index.m3u8
+TVBS新闻台 ,http://58.247.70.104:61985/hlsok/ea10c602/index.m3u8
+ViuTV ,http://58.247.70.104:61985/hlsok/3a9eab5e/index.m3u8
+ViuTV SIX ,http://58.247.70.104:61985/hlsok/cebb5bb2/index.m3u8
+VST ,http://58.247.70.104:61985/hlsok/61728c95/index.m3u8
+WarnerTV ,http://58.247.70.104:61985/hlsok/9cb32ea0/index.m3u8
+WWE ,http://58.247.70.104:61985/hlsok/1de967e63/index.m3u8
+Z频道 ,http://58.247.70.104:61985/hlsok/12158ea6/index.m3u8
+J2,http://120.84.96.29:808/hls/86/index.m3u8
+CCM,http://27.47.68.52:808/hls/62/index.m3u8
+经典影视速看,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
+安顺新闻,https://player.juyun.tv/camera/64413134.m3u8
+承德新闻,https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
+永清综合,http://60.10.203.69:8000/0.m3u8
+当阳综合,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1672502399-0-0-6b11dd3aaf2df8de29cd906c0dd108f4
+五峰,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1672502399-0-0-d61d5c98af4d028f09ef2aa2b55e43e9
+夷陵综合,http://yiling-live21.cjyun.org/10174/s10174-TC1T.m3u8?auth_key=1672502399-0-0-17b5ad3344b60bcdeb4b6995e1182380
+眉山综合,http://hwplay-hls.myun.tv/live/logmyv40.m3u8
+功夫台,mitv://ns2.hellotvvod.com:9906/343149deb34041e394318949b3d1def8.ts
+直播台,mitv://ns2.hellotvvod.com:9906/d96d5b75549b45ec88df71c3ba304217.ts
+爆谷台,mitv://ns2.hellotvvod.com:9906/44194fdb73f74c9f815a7a9c1305a2b9.ts
+爆谷星影台,mitv://ns2.hellotvvod.com:9906/47ed07f821494008a8eab0a99213391c.ts
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=2
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=3
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+TVB翡翠台,http://120.84.96.43:808/hls/25/index.m3u8
+TVB泰语,https://edge6a.v2h-cdn.com/RE_/TVB_.stream_720p/playlist.m3u8
+TVB明珠台,http://120.84.96.43:808/hls/26/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+赛马直击,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
+ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
+无线财经,http://111.229.84.232/yulin/tvb.php?id=2
+无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+香港电台,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+Now新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=16
+无线新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=9
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.150/sat/tv551
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+壹新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+中天新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+中视新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.150/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.150/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.150/sat/tv091
+中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.150/sat/tv111
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐,rtmp://59.124.75.150/sat/tv421
+东森电影,http://120.84.96.46:808/hls/32/index.m3u8
+东森电影,http://120.84.96.43:808/hls/32/index.m3u8
+东森电影,http://120.84.96.32:808/hls/32/index.m3u8
+东森电影,http://27.47.68.52:808/hls/58/index.m3u8
+东森洋片,http://27.47.68.52:808/hls/59/index.m3u8
+东森洋片,http://120.84.96.43:808/hls/33/index.m3u8
+纬来育乐,rtmp://59.124.75.138/sat/tv701
+纬来育乐,rtmp://59.124.75.150/sat/tv701
+纬来日本,rtmp://59.124.75.138/sat/tv771
+纬来日本,rtmp://59.124.75.150/sat/tv771
+龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
+龙华日韩,http://59.125.98.83:8535/playlist.m3u8
+龙华偶像,http://59.125.98.83:8536/playlist.m3u8
+MOMO综合,rtmp://59.124.75.138/sat/tv761
+MOMO综合,rtmp://59.124.75.150/sat/tv761
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+湾湾蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+好消息电视台1,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來體育,rtmp://59.124.75.150/sat/tv721
-緯來體育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=105
-博斯網球,rtmp://59.124.75.138/sat/md031
-博斯網球,rtmp://59.124.75.150/sat/md031
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+纬来体育,rtmp://59.124.75.138/sat/tv721
+纬来体育,rtmp://59.124.75.150/sat/tv721
+纬来体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=105
+博斯网球,rtmp://59.124.75.138/sat/md031
+博斯网球,rtmp://59.124.75.150/sat/md031
 ELEVEN1,rtmp://59.124.75.138/sat/tv731
 ELEVEN1,rtmp://59.124.75.150/sat/tv731
 ELEVEN2,rtmp://59.124.75.138/sat/tv741
 ELEVEN2,rtmp://59.124.75.138/sat/md051
 ELEVEN2,rtmp://59.124.75.150/sat/tv741
 ELEVEN2,rtmp://59.124.75.150/sat/md051
-ELEVEN2,http://211.23.114.106:11435/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
 ELTA3,rtmp://59.124.75.138/sat/md041
-ELTA體育1,rtmp://59.124.75.150/sat/md011
-ELTA體育2,rtmp://59.124.75.150/sat/md021
-ELTA體育3,rtmp://59.124.75.150/sat/md041
+ELTA体育1,rtmp://59.124.75.150/sat/md011
+ELTA体育2,rtmp://59.124.75.150/sat/md021
+ELTA体育3,rtmp://59.124.75.150/sat/md041
 
 愛看0611,#genre#
 寰宇新聞,http://60.251.59.180:8510/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
