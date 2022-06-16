@@ -1,3 +1,88 @@
+簡易直播,#genre#
+TVBS,https://live.6zxr.xyz/tvbs56/hls/index.m3u8
+中天新闻,https://live.6zxr.xyz/ztxw/index.m3u8
+寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
+民视新闻,https://live.6zxr.xyz/fhwszx/index.m3u8
+台视新闻,https://live.6zxr.xyz/tvbs/index.m3u8
+东森新闻,https://live.6zxr.xyz/dsxw/index.m3u8
+三立新闻(高清),http://60.251.59.180:8506/.m3u8
+三立新闻,https://live.6zxr.xyz/twtv/index.m3u8
+东森LlVE,http://104.160.42.97:9500/live.m3u8?c=6
+八大第一台 HD,http://58.247.70.104:61985/hlsok/0c1c9c69/index.m3u8
+八大戏剧台 HD,http://58.247.70.104:61985/hlsok/ecd48897/index.m3u8
+八大娱乐台 HD,http://58.247.70.104:61985/hlsok/ae8d3762/index.m3u8
+八大综合台 HD,http://58.247.70.104:61985/hlsok/41bea7e4/index.m3u8
+大爱电视台 HD,http://58.247.70.104:61985/hlsok/0fe40b1c/index.m3u8
+迪士尼卡通 HD,http://58.247.70.104:61985/hlsok/92d3d2fd1/index.m3u8
+东风37 HD,http://58.247.70.104:61985/hlsok/c1809a12/index.m3u8
+东森财经新闻 HD,http://58.247.70.104:61985/hlsok/7a3a85b7/index.m3u8
+东森超视 HD,http://58.247.70.104:61985/hlsok/53633d87/index.m3u8
+东森电影 HD,http://58.247.70.104:61985/hlsok/75d7613b/index.m3u8
+东森戏剧 HD,http://58.247.70.104:61985/hlsok/35bb9175/index.m3u8
+东森新闻 HD,http://58.247.70.104:61985/hlsok/1ecdeb5a/index.m3u8
+东森洋片 HD,http://58.247.70.104:61985/hlsok/14561539/index.m3u8
+东森幼幼 HD,http://58.247.70.104:61985/hlsok/917ed93a/index.m3u8
+东森综合 HD,http://58.247.70.104:61985/hlsok/d3cc16e5/index.m3u8
+非凡新闻 HD,http://58.247.70.104:61985/hlsok/2187f64b/index.m3u8
+翡翠台 FHD,http://58.247.70.104:61985/hlsok/892debf01/index.m3u8
+凤凰香港 HD,http://58.247.70.104:61985/hlsok/b18b32b6/index.m3u8
+凤凰中文 HD,http://58.247.70.104:61985/hlsok/a1ddeef5/index.m3u8
+凤凰资讯 HD,http://58.247.70.104:61985/hlsok/2c3cc674/index.m3u8
+高点综合 HD,http://58.247.70.104:61985/hlsok/9569303e/index.m3u8
+公视 HD,http://58.247.70.104:61985/hlsok/a98ccb72/index.m3u8
+公视2台语台 HD,http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
+公视3HD HD,http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
+好消息 HD,http://58.247.70.104:61985/hlsok/9e23bf25/index.m3u8
+好消息2 HD,http://58.247.70.104:61985/hlsok/c56f11e4/index.m3u8
+华视 HD,http://58.247.70.104:61985/hlsok/3d2107b0/index.m3u8
+华视新闻资讯 HD,http://58.247.70.104:61985/hlsok/091887ce/index.m3u8
+寰宇新闻台 HD,http://58.247.70.104:61985/hlsok/1fb0838b/index.m3u8
+靖天电影台 HD,http://58.247.70.104:61985/hlsok/b6690265/index.m3u8
+靖天日本台 HD,http://58.247.70.104:61985/hlsok/22b2a3c1/index.m3u8
+靖天戏剧台 HD,http://58.247.70.104:61985/hlsok/ec8952ba/index.m3u8
+客家电视台 HD,http://58.247.70.104:61985/hlsok/6caa4479/index.m3u8
+历史频道 HD,http://58.247.70.104:61985/hlsok/5c2de6d6/index.m3u8
+历史H2 HD,http://58.247.70.104:61985/hlsok/59d690d3/index.m3u8
+龙祥时代 HD,http://58.247.70.104:61985/hlsok/e4a13cc1/index.m3u8
+美食网 HD,http://58.247.70.104:61985/hlsok/1dd145d4f/index.m3u8
+美食星球 HD,http://58.247.70.104:61985/hlsok/00740cb7/index.m3u8
+美亚电影台 HD,http://58.247.70.104:61985/hlsok/558343fa/index.m3u8
+民视 HD,http://58.247.70.104:61985/hlsok/fd841196/index.m3u8
+民视新闻台 HD,http://58.247.70.104:61985/hlsok/ced345d4/index.m3u8
+明珠台 HD,http://58.247.70.104:61985/hlsok/df1763cf9/index.m3u8
+年代新闻 HD,http://58.247.70.104:61985/hlsok/3abbaa2d/index.m3u8
+年代MUCH HD,http://58.247.70.104:61985/hlsok/9755ce73/index.m3u8
+欧洲体育 HD,http://58.247.70.104:61985/hlsok/c3afb811/index.m3u8
+霹雳台湾台 HD,http://58.247.70.104:61985/hlsok/7b8dd162/index.m3u8
+人间卫视 HD,http://58.247.70.104:61985/hlsok/20880537/index.m3u8
+三立都会台 HD,http://58.247.70.104:61985/hlsok/6fd6bcf8/index.m3u8
+三立台湾台 HD,http://58.247.70.104:61985/hlsok/04cace76/index.m3u8
+三立戏剧台 HD,http://58.247.70.104:61985/hlsok/e27df090/index.m3u8
+三立新闻 HD,http://58.247.70.104:61985/hlsok/0ebc9684/index.m3u8
+三立iNews HD,http://58.247.70.104:61985/hlsok/5ff59fda/index.m3u8
+台视 HD,http://58.247.70.104:61985/hlsok/0610e13c/index.m3u8
+台视财经 HD,http://58.247.70.104:61985/hlsok/1088d24f/index.m3u8
+台视新闻 HD,http://58.247.70.104:61985/hlsok/c23f3737/index.m3u8
+台视综合 HD,http://58.247.70.104:61985/hlsok/1364de9b/index.m3u8
+探索动力 HD,http://58.247.70.104:61985/hlsok/c4421e308/index.m3u8
+探索科学 HD,http://58.247.70.104:61985/hlsok/bf60aa18d/index.m3u8
+探索频道 HD,http://58.247.70.104:61985/hlsok/592cd26f/index.m3u8
+探索亚洲 HD,http://58.247.70.104:61985/hlsok/37c6ad51/index.m3u8
+天映 HD,http://58.247.70.104:61985/hlsok/25f0062c3/index.m3u8
+天映电影 HD,http://58.247.70.104:61985/hlsok/1adeba89d/index.m3u8
+天映经典 HD,http://58.247.70.104:61985/hlsok/38bee4d5f/index.m3u8
+纬来电影 HD,http://58.247.70.104:61985/hlsok/75966caf/index.m3u8
+纬来精采 HD,http://58.247.70.104:61985/hlsok/9554fc33/index.m3u8
+纬来日本 HD,http://58.247.70.104:61985/hlsok/b9c4ab9a/index.m3u8
+纬来体育 HD,http://58.247.70.104:61985/hlsok/04a6b392/index.m3u8
+纬来戏剧 HD,http://58.247.70.104:61985/hlsok/f04a37c7/index.m3u8
+纬来育乐 HD,http://58.247.70.104:61985/hlsok/f1a7b27f/index.m3u8
+纬来综合 HD,http://58.247.70.104:61985/hlsok/6bfaef10/index.m3u8
+卫视电影台 HD,http://58.247.70.104:61985/hlsok/2359ba51/index.m3u8
+卫视洋片台 HD,http://58.247.70.104:61985/hlsok/716adb39/index.m3u8
+卫视中文台 HD,http://58.247.70.104:61985/hlsok/3b15e6b2/index.m3u8
+无线财经资讯台 HD,http://58.247.70.104:61985/hlsok/bf90c099d/index.m3u8
+无线新闻台 HD,http://58.247.70.104:61985/hls
 
 有效源0603,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
