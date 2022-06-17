@@ -1,4 +1,4 @@
-晴天0617,#genre#
+原動力2.3,#genre#
 寰宇新聞,mitv://ns2.hellotvvod.com:9906/a92e0242bd40432cac27672a4487f5d0#mitv://ns2.hellotvvod.com:9906/a92e0242bd40432cac27672a4487f5d0
 壹電視綜合台,mitv://ns2.hellotvvod.com:9906/359b47ce2c954a41b572bab8e672742c
 三立新聞台,mitv://ns2.hellotvvod.com:9906/fc07833bda4c461faeb5936b0b9579c2#mitv://ns2.hellotvvod.com:9906/fc07833bda4c461faeb5936b0b9579c2
