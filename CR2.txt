@@ -1,6 +1,5 @@
 💎IPTV0618,#genre#
 寰宇新聞,http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8#http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8#http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
-壹新聞,http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8#http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8#http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
 壹新聞,http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8#http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8#http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
 TVBS新聞,http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8#http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8#http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
 TVBS新聞,http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
@@ -57,6 +56,7 @@ JET綜合,http://58.247.68.5:61985/hlsok/0c5bc08e/index.m3u8#http://58.247.68.5:
 霹靂台灣台,http://58.247.68.5:61985/hlsok/7b8dd162/index.m3u8#http://58.247.68.5:61985/hlsok/7b8dd162/index.m3u8
 TVBS,http://58.247.68.5:61985/hlsok/e9c339cc/index.m3u8#http://58.247.68.5:61985/hlsok/e9c339cc/index.m3u8
 TVBS歡樂,http://58.247.68.5:61985/hlsok/c9692259/index.m3u8#http://58.247.68.5:61985/hlsok/c9692259/index.m3u8
+壹電影,http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8#http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8#http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
 東森電影,http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8#http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8#http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
 東森洋片,http://58.247.68.5:61985/hlsok/14561539/index.m3u8#http://58.247.68.5:61985/hlsok/14561539/index.m3u8#http://58.247.68.5:61985/hlsok/14561539/index.m3u8
 東森戲劇,http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8#http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
