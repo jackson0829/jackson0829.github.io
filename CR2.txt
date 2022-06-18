@@ -1,27 +1,27 @@
 💎IPTV0618,#genre#
-寰宇新聞,http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8#http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8#http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
-壹新聞,http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8#http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8#http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
-TVBS新聞,http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8#http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8#http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
+寰宇新聞,http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
+壹新聞,http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
 TVBS新聞,http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
-東森新聞,http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8#http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8#http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
-東森新聞,http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8#http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8#http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
+TVBS新聞,http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
+東森新聞,http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+東森新聞,http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
 東森新聞,http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
 東森新聞,http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
-三立新聞,http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8#http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8#http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
 三立新聞,http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
-非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8#http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8#http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
-非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8#http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8#http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+三立新聞,http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
+非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
 非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
 年代新聞,http://58.247.68.5:61985/hlsok/3abbaa2d/index.m3u8
 中天新聞,http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
-民視新聞,http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8#http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8#http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
 民視新聞,http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
-中視新聞,http://58.247.68.5:61985/hlsok/66836176/index.m3u8#http://58.247.68.5:61985/hlsok/66836176/index.m3u8#http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+民視新聞,http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
 中視新聞,http://58.247.68.5:61985/hlsok/66836176/index.m3u8
-台視新聞,http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8#http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8#http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
+中視新聞,http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+台視新聞,http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
 台視新聞,http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
 華視新聞,http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
-華視新聞,http://58.247.68.5:61985/hlsok/091887ce/index.m3u8#http://58.247.68.5:61985/hlsok/091887ce/index.m3u8#http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
+華視新聞,http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
 民視 HD,http://58.247.68.5:61985/hlsok/fd841196/index.m3u8#http://58.247.68.5:61985/hlsok/fd841196/index.m3u8
 民視 HD,http://58.247.68.5:61985/hlsok/fd841196/index.m3u8
 中視 HD,http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8#http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8
