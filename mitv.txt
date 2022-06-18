@@ -50,9 +50,7 @@ LOOK TV,mitv://ns2.hellotvvod.com:9906/ca1959a12bf04d05a7df2125f42bea99
 JStar極限台,mitv://ns2.hellotvvod.com:9906/8b72c05e74bf4f8592b362b26f48bb01
 HAPPY,mitv://ns2.hellotvvod.com:9906/e58aef6e0ffc43b486ae2b0973629659
 
-
-
-晴天台灣,$genre#
+晴天台灣,#genre#
 寰宇新聞台灣台,P2p://ns2.hellotvvod.com:9906/489dfe99757c4c8a878ff572ed315980#P2p://ns2.hellotvvod.com:9906/489dfe99757c4c8a878ff572ed315980#P2p://ns2.hellotvvod.com:9906/489dfe99757c4c8a878ff572ed315980
 三立新聞台,P2p://ns2.hellotvvod.com:9906/fc07833bda4c461faeb5936b0b9579c2#P2p://ns2.hellotvvod.com:9906/fc07833bda4c461faeb5936b0b9579c2#P2p://ns2.hellotvvod.com:9906/fc07833bda4c461faeb5936b0b9579c2
 TVBS新聞台,P2p://ns2.hellotvvod.com:9906/319f75ba607b4106ae311c44b6a94e50#P2p://ns2.hellotvvod.com:9906/319f75ba607b4106ae311c44b6a94e50#P2p://ns2.hellotvvod.com:9906/319f75ba607b4106ae311c44b6a94e50
