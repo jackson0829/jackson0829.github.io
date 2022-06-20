@@ -298,6 +298,9 @@ CNC英文[1280*720],http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 好消息綜合台, https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 港台0620,#genre#
+寰宇新闻,http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
+寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 三立新聞,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8#http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d#http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138:1935/sat/tv551#http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138:1935/sat/tv551
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
