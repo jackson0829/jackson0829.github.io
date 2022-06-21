@@ -12,8 +12,9 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.6
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
 壹新聞,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
