@@ -6,11 +6,8 @@
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS-G,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
