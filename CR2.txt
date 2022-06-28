@@ -199,49 +199,63 @@ HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 LSTime電影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8#http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5#http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 
-JMSTV-YTB,#genre#
-寰宇新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=15
-鏡新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=20
-三立 iNEWS,https://ytb.52sf.ga/jmsytb.m3u8?c=17
-東森新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=9
-東森新聞全球速報,https://ytb.52sf.ga/jmsytb.m3u8?c=21
-TVBS新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=45
-TVBS 56,https://ytb.52sf.ga/jmsytb.m3u8?c=5
-中天新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=1
-民視新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=3
-台視新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=6
-中視新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=8
-華視綜藝,https://ytb.52sf.ga/jmsytb.m3u8?c=34
-三立海外,https://ytb.52sf.ga/jmsytb.m3u8?c=10
-Sky News,https://ytb.52sf.ga/jmsytb.m3u8?c=11
-東森財經,https://ytb.52sf.ga/jmsytb.m3u8?c=12
-靖天電視台,https://ytb.52sf.ga/jmsytb.m3u8?c=41
-龍華桌逰,https://ytb.52sf.ga/jmsytb.m3u8?c=39
-YOYO TV,https://ytb.52sf.ga/jmsytb.m3u8?c=28
-半岛新闻-英语,https://ytb.52sf.ga/jmsytb.m3u8?c=2
-誠心電視台,https://ytb.52sf.ga/jmsytb.m3u8?c=32
-鳳凰中文,https://ytb.52sf.ga/jmsytb.m3u8?c=19
-名城綜合台,https://ytb.52sf.ga/jmsytb.m3u8?c=36
-梯子台,https://ytb.52sf.ga/jmsytb.m3u8?c=37
-美食星球,https://ytb.52sf.ga/jmsytb.m3u8?c=38
-運通財經,https://ytb.52sf.ga/jmsytb.m3u8?c=27
-亞洲旅遊台,https://ytb.52sf.ga/jmsytb.m3u8?c=40
-鳳凰新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=42
-NASA TV,https://ytb.52sf.ga/jmsytb.m3u8?c=29
-NASA TV2,https://ytb.52sf.ga/jmsytb.m3u8?c=30
-ABC News,https://ytb.52sf.ga/jmsytb.m3u8?c=7
-CNA,https://ytb.52sf.ga/jmsytb.m3u8?c=31
-FRANCE 24,https://ytb.52sf.ga/jmsytb.m3u8?c=13
-Bloomberg Global Financial News,https://ytb.52sf.ga/jmsytb.m3u8?c=14
-ANN News,https://ytb.52sf.ga/jmsytb.m3u8?c=16
-DW News,https://ytb.52sf.ga/jmsytb.m3u8?c=18
-NBC News,https://ytb.52sf.ga/jmsytb.m3u8?c=33
-GTV-Drama1,https://ytb.52sf.ga/jmsytb.m3u8?c=35
-ENGLISH SPEECH,https://ytb.52sf.ga/jmsytb.m3u8?c=22
-ABC News-AU,https://ytb.52sf.ga/jmsytb.m3u8?c=23
-MBC News,https://ytb.52sf.ga/jmsytb.m3u8?c=24
-KBS Kr,https://ytb.52sf.ga/jmsytb.m3u8?c=25
-GTV-Drama2,https://ytb.52sf.ga/jmsytb.m3u8?c=26
+4GTV,#genre#
+寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+三立LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
+50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+51東森新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+52華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+53民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+54三立財經新聞iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+55TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+56東森財經新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+57中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+58中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+6民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+9大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+10中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+12華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+13三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+14客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+21新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+23ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+30LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+32ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+42MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+49東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+62SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+69東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+70民視綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+71豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+76中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+105智林體育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+106時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+111民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+112滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+113亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+120愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+123中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+125公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+126民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+137金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+164人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+170半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+171VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+173DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+201經典電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+202經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+
 
 🐅huya(ljk播放器),#genre#
 RM刘在石李光洙跑男,https://epg.112114.xyz/huya/11336725
