@@ -168,8 +168,6 @@ ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
 ELEVEN體育二台,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.138/sat/md041
 
 
-
-
 有效源0603,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
@@ -268,56 +266,6 @@ DJ爆紅老歌10首車載,https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/sc/cae_h
 SBN全球新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
-CR0312N2,#genre#
-寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-东森财经新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-TVBS新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-三立新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-中视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-台视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-民视新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-东森新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-中天新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-民視[640*360],http://seb.sason.top/ptv/ftv.php?id=ms
-民视影剧[640*360],http://seb.sason.top/ptv/ftv.php?id=yj
-民视综艺[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
-民视旅游[640*360],http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一台[640*360],http://seb.sason.top/ptv/ftv.php?id=dy
-原住民頻道[1920*1080],https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-大爱一台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/playlist.m3u8
-非凡新聞台[1920*1080],http://125.227.210.37:15078/VideoInput/play.ts
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-智林体育台[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-民视[1280*720],http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-台视[1280*720],http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
-中视经典台[1280*720],http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-大爱台[1280*720],http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-国家地理台湾[1280*720],http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-探索频道[1280*720],http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-探索亚洲台[1280*720],http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-探索动力台[1280*720],http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-CN卡通频道[1920*1080],http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-八大戏剧台[1920*1080],http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-东森综合台[1920*1080],http://50.7.218.42:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-中天娱乐台[1920*1080],http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-东森新闻台[1280*720],http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-东森财经台[1280*720],http://50.7.218.42:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-东森洋片台[1280*720],http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-好莱坞电影台[1280*720],http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-CINEMAX[1920*1080],http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-ELEVEN SPORTS 1[1280*720],http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-EYE TV戏剧台[1280*720],http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-亞洲新聞台[960*540],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-星卫电影台[1280*720],http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-亚洲旅游台[1280*720],http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-BaBy-TV[640*480],http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-龙华戏剧台[1280*720],http://50.7.218.42:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 
 4GTV,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
@@ -417,62 +365,6 @@ DW[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live0
 新唐人亞太[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 ARIRANG阿里郎频道[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 
-台灣頻道(A),#genre#
-寰宇新闻台[1920*1080],http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
-寰宇新闻[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-三立新闻台[1920*1080],http://60.249.146.250:8597/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-中天新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-東森新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞[1920*1080],http://stream.nexttv.com.tw/n001/playlist.m3u8
-非凡新聞台[1920*1080],http://125.227.210.37:15078/VideoInput/play.ts
-三立台灣[1920*1080],http://125.227.210.37:15714/VideoInput/play.ts
-三立綜合台[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-中天娛樂台[1920*1080],http://125.227.210.55:15796/VideoInput/play.ts
-中視經典台[1280*720],http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-民視[640*360],http://seb.sason.top/ptv/ftv.php?id=ms
-民視第一台[640*360],http://seb.sason.top/ptv/ftv.php?id=dy
-民視綜藝台[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
-民視旅遊台[640*360],http://seb.sason.top/ptv/ftv.php?id=ly
-民視影劇台[640*360],http://seb.sason.top/ptv/ftv.php?id=yj
-民視綜藝台[640*360],http://seb.sason.top/ptv/ftv.php?id=zy
-原住民頻台[1920*1080],https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-罪案偵輯台[1280*720],http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-八大娛樂台[1280*720],http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
-中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-智林體育台[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-中台灣生活網[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-儒釋道經[960*540][960*540][960*540],https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-中天娛樂台[1920*1080],http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-海豚綜合[1920*1080],http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-國度新聞[854*480],https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
-台灣蕃薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-孝廉電視台[1280*720],http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-好消息電視台2[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-GoodTV 健康煮流[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-GoodTV 經典音樂[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 愛旅行台[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-GoodTV 共享觀點[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-GoodTV 真情部落[1280*720],https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-東森洋片[1920*1080],http://120.84.96.32:808/hls/33/index.m3u8
-龍祥時代[1920*1080],http://120.84.96.32:808/hls/35/index.m3u8
-大愛一台[1280*720],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二台[1280*720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛台[1280*720],http://50.7.161.82:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-緯來體育台[1920*1080],http://125.227.210.55:18358/VideoInput/play.ts
-大立電視台[1280*720],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-智林體育台[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-FOX新聞[1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-蓮花衛視[1920*1080],http://nettvpro.live/hls/lotustv.php
-好消息綜合台[1280*720],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-原住民族[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-CNC英文[1280*720],http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-智林體育台[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-好消息綜合台, https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 港台0620,#genre#
 寰宇新闻,http://60.249.146.250:8547/http/60.251.39.91:8081/hls/76/818/ch62.m3u8
