@@ -118,15 +118,11 @@ MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-
-海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 中台灣生活,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 大愛,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
 大愛2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
-
-海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 健康,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbs.m3u8
 居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
 空中英語,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
