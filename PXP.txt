@@ -1,6 +1,5 @@
-https://shuyuan.miaogongzi.net/shuyuan/1656622369.txt
 
-台湾,#genre#
+台湾0629,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/8197a67877b34861a3d74d8d3f503473
 民视,P2p://ns2.hellotvvod.com:9906/fdb7d9831e42445e838b7af8da89d7c7
 人间卫视,P2p://ns2.hellotvvod.com:9906/0af941d609c74439a35a069daf36e085
