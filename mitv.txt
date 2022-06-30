@@ -51,7 +51,7 @@ JStar極限台,mitv://ns2.hellotvvod.com:9906/8b72c05e74bf4f8592b362b26f48bb01
 HAPPY,mitv://ns2.hellotvvod.com:9906/e58aef6e0ffc43b486ae2b0973629659
 
 
-台湾0630,#gennre#
+台湾0630,#genre#
 TVBS,mitv://ns2.hellotvvod.com:9906/6fb3f0b6e8024ad38ce5efabd6314f39
 TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/7966380074104dc3b98a7b01af9c2ce6
 TVBS精采台,mitv://ns2.hellotvvod.com:9906/1f44b249ac8d4341a2ef74c686c98863
@@ -135,7 +135,7 @@ EYE戏剧,mitv://ns2.hellotvvod.com:9906/86897918e19b42a8a4d5e24e18bb4d40
 国会频道1,mitv://ns2.hellotvvod.com:9906/71455c1138044f3ca9de1aff256c15b3
 国会频道2,mitv://ns2.hellotvvod.com:9906/af83eba13759461a812bcc9b06acc933
 
-港　澳,#gennre#
+港　澳,#genre#
 凤凰电影,mitv://ns2.hellotvvod.com:9906/24e01876a6ac485ab259ba0ccaf9f63f
 凤凰香港,mitv://ns2.hellotvvod.com:9906/bf0713a77b5c41eea01d557a4b24f80b
 凤凰中文,mitv://ns2.hellotvvod.com:9906/e0994705c70041f49543ccd90aa9edd3
@@ -207,7 +207,7 @@ JKN 18,mitv://ns2.hellotvvod.com:9906/be3bb83864394bf09ed1c3d19b731517
 有线新闻台,mitv://ns2.hellotvvod.com:9906/a3707b1863994910b57b6c05cfffbf46
 有线财经资讯台,mitv://ns2.hellotvvod.com:9906/d7c478ce01844a6e9f92261fc8cd04cd
 
-海外新闻,#gennre#
+海外新闻,#genre#
 TNN 16,mitv://ns2.hellotvvod.com:9906/764dbbdfea0245c48bce78ab58ee18e4
 Sky News,mitv://ns2.hellotvvod.com:9906/a49a2d0a3e254a77a16193f6f32a54c7
 NHK新闻资讯台,mitv://ns2.hellotvvod.com:9906/58ba9d01f0b84be18ce29d250e4c329c
@@ -236,7 +236,7 @@ CLASSICA 古典乐,mitv://ns2.hellotvvod.com:9906/dd27b963b17f40c2a99dd922d0ed8e
 CMusic,mitv://ns2.hellotvvod.com:9906/aca6e98079314e719e29df84b3b0a654
 Sun Music,mitv://ns2.hellotvvod.com:9906/71e8f4389b1b468997e026d89b99c48f
 
-国内体育,#gennre#
+国内体育,#genre#
 CCTV16,mitv://ns2.hellotvvod.com:9906/935ef692248e43f29aa2391872d3e56c
 CCTV5,mitv://ns2.hellotvvod.com:9906/49239fe09c3646d983ea1479dd4cf56b
 CCTV5+,mitv://ns2.hellotvvod.com:9906/6f0611da875242a2b1c7f08f692f2077
@@ -266,7 +266,7 @@ HKC体育台,mitv://ns2.hellotvvod.com:9906/af6c2f9ca8a44fd48d422f57ac710b63
 新视觉,mitv://ns2.hellotvvod.com:9906/a4c658035ce14ed5a4bd9774a5720c84
 智林体育,mitv://ns2.hellotvvod.com:9906/dff03625aba04a0d993e652f61dfeddd
 
-海外体育,#gennre#
+海外体育,#genre#
 Z频道,mitv://ns2.hellotvvod.com:9906/fc09e98e8b98479488b748c8b37860f1
 WWE,mitv://ns2.hellotvvod.com:9906/43e8005ba8264b488bb3cded59c12b9a
 True Sport 7,mitv://ns2.hellotvvod.com:9906/510a48de42de4a8bb2895bc7ff7f468a
@@ -346,7 +346,7 @@ Ettoday,mitv://ns2.hellotvvod.com:9906/046ff559b14749eda6ca0efbe881ae7a
 ELTV,mitv://ns2.hellotvvod.com:9906/0a22e13ee5d64500bfe93334320a92e0
 BBCLifestyle,mitv://ns2.hellotvvod.com:9906/b5e34a12b33049449dd822181c6ac5d3
 
-少儿动漫,#gennre#
+少儿动漫,#genre#
 Nickelodeon,mitv://ns2.hellotvvod.com:9906/a000cd7af4774efb8d3802932bc1210d
 靖洋卡通台Nice Bingo,mitv://ns2.hellotvvod.com:9906/f559545a396b42489bd87442dc3548d6
 靖天卡通台,mitv://ns2.hellotvvod.com:9906/283ba5c3ded74867a9efef0c90176e6f
@@ -415,7 +415,7 @@ BOO,mitv://ns2.hellotvvod.com:9906/86e7e699586148e48a171d2bbc640f72
 AXN,mitv://ns2.hellotvvod.com:9906/51314e766fac4f01b81e3a25e62b5be2
 AMC,mitv://ns2.hellotvvod.com:9906/0a86722c7a1a41b59d22a181b2f5f76d
 
-戏　剧,#gennre#
+戏　剧,#genre#
 东森戏剧台,mitv://ns2.hellotvvod.com:9906/2c1396b6261b4251987eb76d7d3b269e
 八大戏剧台,mitv://ns2.hellotvvod.com:9906/eea748a2729040f49c62d480e8d768b2
 纬来戏剧台,mitv://ns2.hellotvvod.com:9906/b763357e7fb24fe58b1b15ce488fcd04
