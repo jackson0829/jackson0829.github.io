@@ -185,6 +185,13 @@ TVBS新闻台,mitv://ns2.hellotvvod.com:9906/7949fecb231b440393adcc0eab6c39f6
 八大优,mitv://ns2.hellotvvod.com:9906/c3bceaece650455eaebac87c866f841d
 八大娱乐台,mitv://ns2.hellotvvod.com:9906/16d3f18c4a624514b2406626101c14ef
 八大综合台,mitv://ns2.hellotvvod.com:9906/3468ea94a60a496aaa874055cef4059e
+龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
+龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
+龍華戲劇,mitv://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
+靖天卡通台,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
+KLT-靖天國際台,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
+韓國娛樂台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
 EVE,mitv://ns2.hellotvvod.com:9906/2b01f01de97f454f8c064218841cf340
 EYE旅游,mitv://ns2.hellotvvod.com:9906/920da71571304234b99a9e9b9d93a57b
 EYE戏剧,mitv://ns2.hellotvvod.com:9906/86897918e19b42a8a4d5e24e18bb4d40
@@ -485,6 +492,17 @@ EYE戏剧,mitv://ns2.hellotvvod.com:9906/86897918e19b42a8a4d5e24e18bb4d40
 爱尔达影剧台,mitv://ns2.hellotvvod.com:9906/a94856bea9774a99aee41bfd4e41146c
 Hub娱家,mitv://ns2.hellotvvod.com:9906/044abc136488494e908d1866bdac5a70
 亚洲剧台,mitv://ns2.hellotvvod.com:9906/88b42209712d49c69f28f069a61d2b34
+龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
+龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
+龍華戲劇,mitv://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
+靖天卡通台,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
+KLT-靖天國際台,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
+韓國娛樂台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
+三立戲劇,mitv://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044
+三立綜合,mitv://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0
+亞洲旅遊台,mitv://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
+Travel Channel,mitv://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0
 
 SP,#genre#
 彩虹e台,mitv://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
