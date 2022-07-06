@@ -7,7 +7,7 @@
 東森新聞,http://8.210.36.158/de/twlive.php?id=live1014
 東森新聞,http://8.210.36.158/de/twlive.php?id=live1014
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-TVBS新聞台-01,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新聞台,rtmp://59.124.75.138:1935/sat/tv551
 非凡新聞,http://8.210.36.158/de/twlive.php?id=live1013
 非凡商業,http://8.210.36.158/de/twlive.php?id=live1012
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
@@ -18,15 +18,15 @@ TVBS新聞台-01,rtmp://59.124.75.138:1935/sat/tv551
 華視,rtmp://59.124.75.138:1935/sat/tv111
 華視,http://8.210.36.158/de/twlive.php?id=live1049
 民視,http://8.210.36.158/de/twlive.php?id=live1050
-民視-01,rtmp://59.124.75.138:1935/sat/tv051
+民視,rtmp://59.124.75.138:1935/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 中視,http://8.210.36.158/de/twlive.php?id=live1048
 中視,rtmp://59.124.75.138:1935/sat/tv091
 台視,rtmp://59.124.75.138:1935/sat/tv071
 公視,http://8.210.36.158/de/twlive.php?id=live1201
-民視第一台 HD,http://seb.sason.top/ptv/ftv.php?id=dy
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-民視台灣台 HD,http://seb.sason.top/ptv/ftv.php?id=tw
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 東森電視,http://8.210.36.158/de/twlive.php?id=live1017
@@ -40,8 +40,8 @@ TVBS新聞台-01,rtmp://59.124.75.138:1935/sat/tv551
 三立台灣,http://8.210.36.158/de/twlive.php?id=live1021
 中天娛樂,http://8.210.36.158/de/twlive.php?id=live1023
 八大戲劇,http://8.210.36.158/de/twlive.php?id=live1057
-東森財經-01,rtmp://59.124.75.138:1935/sat/tv571
-東森超視-01,rtmp://59.124.75.138:1935/sat/tv331
+東森財經,rtmp://59.124.75.138:1935/sat/tv571
+東森超視,rtmp://59.124.75.138:1935/sat/tv331
 MOMO綜合,rtmp://59.124.75.138:1935/sat/tv761
 緯來日本,rtmp://59.124.75.138:1935/sat/tv771
 緯來日本,http://8.210.36.158/de/twlive.php?id=live1026
@@ -68,13 +68,13 @@ Bloomberg News,http://8.210.36.158/de/twlive.php?id=live1066
 CINEMAX,http://8.210.36.158/de/twlive.php?id=live1030
 DISCOVERY,http://8.210.36.158/de/twlive.php?id=live1002
 ELEVEN SPORTS 1,http://8.210.36.158/de/twlive.php?id=live1069
-國家地理雜誌[1920*1080],http://8.210.36.158/de/twlive.php?id=live1003
-Baby TV[1920*1080],http://8.210.36.158/de/twlive.php?id=live1007
+國家地理雜誌,http://8.210.36.158/de/twlive.php?id=live1003
+Baby TV,http://8.210.36.158/de/twlive.php?id=live1007
 唯心電視(480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 博斯運動1,http://8.210.36.158/de/twlive.php?id=live1225
 鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-有線18台-01,rtmp://59.124.75.138:1935/sat/hk041
-GOOD TV[1920*1080],http://8.210.36.158/de/twlive.php?id=live1231
+有線18台,rtmp://59.124.75.138:1935/sat/hk041
+GOOD TV,http://8.210.36.158/de/twlive.php?id=live1231
 好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 
