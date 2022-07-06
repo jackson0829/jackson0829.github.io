@@ -1,4 +1,4 @@
-台湾,#genre#
+台湾0706,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/d696ad5d361d414cbcaf20b295784de4.ts
 民视,P2p://ns2.hellotvvod.com:9906/aae502bc979e44c0b3f9cd2f08db259d.ts
 人间卫视,P2p://ns2.hellotvvod.com:9906/3a28a740eb1f4e81ae2f61b0b067f9a7.ts
