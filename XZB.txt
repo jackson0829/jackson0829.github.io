@@ -387,13 +387,6 @@ ELTV英語學習,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-l
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 滾動力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-GINX Esports TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv053&nid=179
-CatchPlay,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv076&nid=177
-TRACE Sport Stars,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv077&nid=57
-Arirang TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-Stingray Classica,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv059&nid=80
-TRACE Urban,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv082&nid=78
-Mezzo Live,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv083&nid=79
 Nick Jr,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live032&nid=219
 東森購物二,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
 東森購物一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
@@ -402,20 +395,6 @@ SBN全球電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 CI罪案偵查頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live027&nid=215
 LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-Rock Extreme,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live138&nid=180
-CATCHPLAY Beyond,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live155&nid=200
-My Cinema Europe,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live157&nid=176
-影迷TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live201&nid=160
-HLN,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live203&nid=165
-CNN,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live204&nid=166
-Stingray Cmusic,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live031&nid=218
-Smithsonian Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live088&nid=228
-TechStorm,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live109&nid=181
-Pet Club TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live110&nid=182
-LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-TV5 Monde Style,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live122&nid=178
-CNBC Asia,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live130&nid=235
-
 
 必勝影視,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
