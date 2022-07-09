@@ -141,7 +141,7 @@ Italian Video 8,http://media.tuboitaliano.it:81/videos/5/7/8/7/2/5787205acfe25.m
 4?,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
 5?,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
 
-日本成人,#genre#
+成人,#genre#
 SWAG61部,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 天美传媒29部,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
 果冻传媒35部,https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
