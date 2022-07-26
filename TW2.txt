@@ -1,11 +1,11 @@
 中華電信0717,#genre#
 环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
 环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
-寰宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
-寰宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
 壹新闻,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 东森新闻,http://59.125.101.187:8702/http/http/hls//ch.m3u8?
 东森新闻,http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
