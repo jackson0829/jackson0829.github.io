@@ -1081,10 +1081,10 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 愛情鳥,http://vdown.kuwo.cn:80/resource//t4/69/75/bD9N0L_qjcM.mp4
 愛拼才會贏,http://vdown.kuwo.cn:80/resource//t4/20/1/y12_ecvVJgA.mp4
 浪子的心情,http://vdown.kuwo.cn:80/resource/t4/53/44/3Rve23J-sy8.mp4
-草蜢-失戀電視?盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢-失戀陣線聯盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
 草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
 草蜢-半點心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-草蜢-電視對不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
+草蜢-寶貝對不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 張倩倩-嬰兒,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
 王菲-容易受傷的女人(?語),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
 王菲-容易受傷的女人(國語),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
@@ -1166,7 +1166,7 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 劉小慧-初戀情人,http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
 黎瑞恩-為情為愛,http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
 姜玉陽-刻骨的溫柔,http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/15883785.m3u8
-卓依婷心掛意無?用,http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷心掛意無處用,http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷免失志,http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷無聊的愛情,http://vd3.bdstatic.com/mda-jfkhu7bksxcqjq2z/mda-jfkhu7bksxcqjq2z.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷歹路不通行,http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -1359,10 +1359,10 @@ NewTV精品大劇,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.
 NewTV精品紀實,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
 NewTV超級體育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
 NewTV炫舞未來,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-NewTV超電視?,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
-NewTV超電視影,http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
+NewTV超級電視,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
+NewTV超級電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV金牌綜藝,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-NewTV超電視?劇,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+NewTV超級電視劇,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 NewTV東北熱劇,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 NewTV歡樂劇場,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
 NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
@@ -1370,15 +1370,15 @@ NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 
 愛奇藝&埋堆,#genre#
 NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-愛奇藝-華語院?,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
+愛奇藝-華語院線,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8
 愛奇藝-院電視影,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
-愛奇藝-票房冠?,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+愛奇藝-票房冠軍,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 愛奇藝-經典港片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-愛奇藝-?影大片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+愛奇藝-電影大片,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
 愛奇藝-溫情影院,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
 愛奇藝-驚悚午夜場,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-愛奇藝-歷史秘?,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
-愛奇藝-?事觀察,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
+愛奇藝-歷史秘聞,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8
+愛奇藝-時事觀察,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 愛奇藝-老年劇場,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
 愛奇藝-仙俠玄幻,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
 愛奇藝-經典重溫,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8
