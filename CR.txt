@@ -1,5 +1,8 @@
 YTlive0713,#genre#
+寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+TVBS新聞,rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138:1935/sat/tv551
 三立新聞,http://60.251.59.180:8506/.m3u8
 三立inews新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -336,7 +339,9 @@ TVBS新聞[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4g
 DW[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 新唐人?太[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 ARIRANG阿里郎頻道[1280*720],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-港台0620,
+
+
+港台0620,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 TVBS新聞,rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138:1935/sat/tv551
