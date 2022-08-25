@@ -784,7 +784,7 @@ CI,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=178
 BaBy,http://50.7.220.74:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 
-成人_4,#genre#
+成人,#genre#
 彩虹e台,P2p://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
 彩虹电影台,P2p://ns2.hellotvvod.com:9906/652eaae198354a7eaee4de4e83241c22
 LOOKTV,P2p://ns2.hellotvvod.com:9906/2a8c2699d7294d3ab670a9287bc20bc6
@@ -867,7 +867,7 @@ KMP 频道,P2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
 大学女援交妹,P2p://54.39.16.152:9906/626b74450000c4030c6d2f0117e32ee4
 做爱输入,P2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
 
-🔥麻豆传媒_4,#genre#
+🔥麻豆传媒,#genre#
 麻豆传媒03,https://video2.51daao.com/btt1/2021/03/20210315/VTm3ZPZ6/index.m3u8
 麻豆传媒04,https://video2.51daao.com/btt1/2021/03/20210315/P5m5440P/index.m3u8
 麻豆传媒05,https://video2.51daao.com/btt1/2021/03/20210315/QLJViitJ/index.m3u8
