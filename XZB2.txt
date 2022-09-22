@@ -55,117 +55,6 @@ ChiSheng9,#genre#
 [YTN Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 [Japan],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
-
-台-新聞,#genre#
-民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33#https://git.io/Jgkxz#https://git.io/Jgkxz
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
-TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-中天新聞 HD,http://61.219.170.95:18513/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8#http://123.51.230.124:8535/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8#http://123.51.230.124:8535/.m3u8
-三立新聞,http://60.251.59.180:8506/ch18.m3u8
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#https://git.io/Jgkxj#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#https://git.io/Jgkxj#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-東森新聞 HD,http://61.219.170.95:18512/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-東森電視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#https://git.io/Jgkpc#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#https://git.io/Jgkpc
-壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://60.251.59.180:8501/.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://60.251.59.180:8501/.m3u8
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-寰宇新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://61.219.170.95:18569/.m3u8#http://61.219.170.95:18569/.m3u8
-寰宇新聞台灣台,https://git.io/JgkpO#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-SBN全球電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F#http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F#http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8http://120.84.96.195:808/hls/32/index.m3u8
-Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-
-台-綜合戲劇,#genre#
-半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
-公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民視台灣 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2#http://seb.sason.top/ptv/ftv.php?id=tw#http://seb.sason.top/ptv/ftv.php?id=tw
-民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61#http://seb.sason.top/ptv/ftv.php?id=ly#http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1#http://seb.sason.top/ptv/ftv.php?id=dy#http://seb.sason.top/ptv/ftv.php?id=dy
-民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16#http://seb.sason.top/ptv/ftv.php?id=zy#http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24#http://seb.sason.top/ptv/ftv.php?id=yj#http://seb.sason.top/ptv/ftv.php?id=yj
-台視 HD,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#rtmp://59.124.75.138/sat/tv071#http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
-中視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4#http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93#rtmp://59.124.75.138/sat/tv091#http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93#rtmp://59.124.75.138/sat/tv091
-華視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#rtmp://59.124.75.138/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#rtmp://59.124.75.138/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
-中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e#http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-中天娛樂 HD,http://61.219.170.95:18521/.m3u8#http://59.125.122.90:18521/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8#http://59.125.122.90:18521/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
-中天綜合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-八大第一,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://61.219.170.95:18539/.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://61.219.170.95:18539/.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
-八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-八大綜合 HD,http://61.219.170.95:18517/.m3u8#http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8#http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
-八大綜合,http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
-三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-年代 MUCH HD,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8#http://61.219.170.95:18558/.m3u8#http://59.125.122.90:18558/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8#http://61.219.170.95:18558/.m3u8#http://59.125.122.90:18558/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-衛視中文 HD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://60.251.33.252:18522/.m3u8#http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://60.251.33.252:18522/.m3u8
-東森超視HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8#http://61.219.170.95:18555/.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://61.219.170.95:18555/.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
-東森戲劇 HD,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc#http://60.251.33.252:18538/.m3u8#http://60.251.33.252:18538/.m3u8
-東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-東風37台,http://61.219.170.95:18560/.m3u8#http://59.125.122.90:18560/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18560/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
-東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
-TVBS歡樂台,rtmp://59.124.75.138/sat/tv421#rtmp://59.124.75.150/sat/tv421#http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219#rtmp://59.124.75.150/sat/tv421#http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-緯來日本 HD,rtmp://59.124.75.138/sat/tv771
-緯來育樂 HD,rtmp://59.124.75.138/sat/tv701#http://123.51.229.65:18541/.m3u8#http://123.51.229.65:18541/.m3u8
-緯來戲劇 HD,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8#http://61.219.170.95:18557/.m3u8#http://59.125.122.90:18557/.m3u8#http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8#http://61.219.170.95:18557/.m3u8#http://59.125.122.90:18557/.m3u8#http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-緯來綜合 HD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761#http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/.m3u8#http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/.m3u8
-MOMO綜合,http://59.125.122.90:18576/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
-AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209#http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209#http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-靖天戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv058&nid=116
-龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8#http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8#http://61.219.170.95:18508/.m3u8#http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8#http://61.219.170.95:18508/.m3u8#http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
-imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
-LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1#http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc#http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
-時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-The K-POP,https://git.io/JgYAE
-幸福空間居家台,https://git.io/JgYYF
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209#http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-台灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-
-
-海外衛視,#genre#
-霹靂布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-東森美洲 HD,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
-TVBS國際+,https://git.io/JgYl2
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
-華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
-華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
-華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-新唐人大?台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-
 彎彎0922,#genre#
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -280,6 +169,118 @@ CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 ELEVEN 1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 HBO,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
 TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+
+
+台-新聞,#genre#
+民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33#https://git.io/Jgkxz#https://git.io/Jgkxz
+華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+中天新聞 HD,http://61.219.170.95:18513/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8#http://123.51.230.124:8535/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8#http://123.51.230.124:8535/.m3u8
+三立新聞,http://60.251.59.180:8506/ch18.m3u8
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#https://git.io/Jgkxj#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#https://git.io/Jgkxj#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+東森新聞 HD,http://61.219.170.95:18512/.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+東森電視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#https://git.io/Jgkpc#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#rtmp://59.124.75.138/sat/tv571#https://git.io/Jgkpc
+壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://60.251.59.180:8501/.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8#http://60.251.59.180:8501/.m3u8
+鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+寰宇新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://61.219.170.95:18569/.m3u8#http://61.219.170.95:18569/.m3u8
+寰宇新聞台灣台,https://git.io/JgkpO#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+SBN全球電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F#http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8#http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F#http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8http://120.84.96.195:808/hls/32/index.m3u8
+Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+
+台-綜合戲劇,#genre#
+半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+民視台灣 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2#http://seb.sason.top/ptv/ftv.php?id=tw#http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61#http://seb.sason.top/ptv/ftv.php?id=ly#http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1#http://seb.sason.top/ptv/ftv.php?id=dy#http://seb.sason.top/ptv/ftv.php?id=dy
+民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16#http://seb.sason.top/ptv/ftv.php?id=zy#http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24#http://seb.sason.top/ptv/ftv.php?id=yj#http://seb.sason.top/ptv/ftv.php?id=yj
+台視 HD,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#rtmp://59.124.75.138/sat/tv071#http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+中視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4#http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93#rtmp://59.124.75.138/sat/tv091#http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93#rtmp://59.124.75.138/sat/tv091
+華視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#rtmp://59.124.75.138/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76#http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#rtmp://59.124.75.138/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e#http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中天娛樂 HD,http://61.219.170.95:18521/.m3u8#http://59.125.122.90:18521/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8#http://59.125.122.90:18521/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3#http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+中天綜合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+八大第一,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://61.219.170.95:18539/.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://61.219.170.95:18539/.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
+八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大綜合 HD,http://61.219.170.95:18517/.m3u8#http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8#http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
+八大綜合,http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
+三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+年代 MUCH HD,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8#http://61.219.170.95:18558/.m3u8#http://59.125.122.90:18558/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8#http://61.219.170.95:18558/.m3u8#http://59.125.122.90:18558/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+衛視中文 HD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://60.251.33.252:18522/.m3u8#http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://60.251.33.252:18522/.m3u8
+東森超視HD,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8#http://61.219.170.95:18555/.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://61.219.170.95:18555/.m3u8#http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
+東森戲劇 HD,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc#http://60.251.33.252:18538/.m3u8#http://60.251.33.252:18538/.m3u8
+東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+東風37台,http://61.219.170.95:18560/.m3u8#http://59.125.122.90:18560/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18560/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421#rtmp://59.124.75.150/sat/tv421#http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219#rtmp://59.124.75.150/sat/tv421#http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+緯來日本 HD,rtmp://59.124.75.138/sat/tv771
+緯來育樂 HD,rtmp://59.124.75.138/sat/tv701#http://123.51.229.65:18541/.m3u8#http://123.51.229.65:18541/.m3u8
+緯來戲劇 HD,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8#http://61.219.170.95:18557/.m3u8#http://59.125.122.90:18557/.m3u8#http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8#http://61.219.170.95:18557/.m3u8#http://59.125.122.90:18557/.m3u8#http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+緯來綜合 HD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
+MOMO綜合,rtmp://59.124.75.138/sat/tv761#http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/.m3u8#http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8#http://61.219.170.95:18576/.m3u8
+MOMO綜合,http://59.125.122.90:18576/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
+AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209#http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8#http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb#http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209#http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+靖天戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv058&nid=116
+龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8#http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8#http://61.219.170.95:18508/.m3u8#http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8#http://61.219.170.95:18508/.m3u8#http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#http://61.219.170.95:18573/.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
+LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1#http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc#http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+The K-POP,https://git.io/JgYAE
+幸福空間居家台,https://git.io/JgYYF
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209#http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+台灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+
+
+海外衛視,#genre#
+霹靂布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+東森美洲 HD,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
+TVBS國際+,https://git.io/JgYl2
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
+華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+新唐人大?台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
 
 
 
