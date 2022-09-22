@@ -1,3 +1,61 @@
+ChiSheng9,#genre#
+[台視新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+[鏡新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+[TVBS新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+[三立iNews],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+[三立iNews],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+[東森新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+[中天新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+[中視新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+[華視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+[華視新聞資訊],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+[中天亞洲],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+[公視台語台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+[民視台灣台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+[公視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+[鳳凰資訊],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+[華視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+[東森YOYO],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+[MOMO親子台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+[卡通台1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+[卡通台2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+[DAVE卡通],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+[卡通台3],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+[卡通台4],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+[大愛],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+[大愛2台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+[大愛3台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+[東森購物1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+[東森購物2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+[MOMO購物1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+[MOMO購物2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+[VIVA購物台1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+[VIVA購物台2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+[信吉電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+[EF運通],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+[信大],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+[SKY NEWS],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+[DW],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+[Euro News],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+[France News],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+[NBC news],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+[鳳凰衛視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+[Bloomberg],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+[新唐人亞太],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+[NASA1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+[CCTV4中文國際],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+[伊朗電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+[佛教電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+[Media Corp],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+[CNA USA],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+[HTB Japan],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+[ALJAZEERA],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+[KBS Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+[Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+[YTN Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+[Japan],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+
+
 台-新聞,#genre#
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
