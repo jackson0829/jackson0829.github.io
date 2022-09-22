@@ -52,10 +52,14 @@ AXN,http://61.219.170.95:18548/.m3u8
 龍華偶像,http://61.219.170.95:18573/.m3u8
 龍華電影,http://61.219.170.95:18574/.m3u8
 龍華電影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-MOMO 綜合,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+MOMO綜合,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
 MOMO綜合,http://61.219.170.95:18576/.m3u8
 MOMO綜合,rtmp://59.124.75.138/sat/tv761
 MOMO綜合,rtmp://59.124.75.150/sat/tv761
+MOMO綜合,http://61.219.170.95:18576/.m3u8
+MOMO綜合,rtmp://59.124.75.138:1935/sat/tv761
+MOMO綜合,rtmp://59.124.75.150/sat/tv761
+MOMO綜合,rtmp://59.124.75.138/sat/tv761
 台灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
@@ -69,10 +73,6 @@ AXN,http://61.219.170.95:18548/.m3u8
 東風37,http://61.219.170.95:18560/.m3u8
 龍華偶像,http://61.219.170.95:18573/.m3u8
 亞洲旅遊,http://61.219.170.95:18568/.m3u8
-MOMO綜合,http://61.219.170.95:18576/.m3u8
-MOMO綜合,rtmp://59.124.75.138:1935/sat/tv761
-MOMO綜合,rtmp://59.124.75.150/sat/tv761
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
 TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
 TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
@@ -173,7 +173,7 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 東森電視,rtmp://59.124.75.138:1935/sat/tv571
 東森電視,rtmp://59.124.75.138/sat/tv571
 東森超視,rtmp://59.124.75.138:1935/sat/tv331
-陌陌綜合,rtmp://59.124.75.138:1935/sat/tv761
+MOMO綜合,rtmp://59.124.75.138:1935/sat/tv761
 MOMO綜合,rtmp://59.124.75.138:1935/sat/tv761
 MOMO綜合,rtmp://59.124.75.138/sat/tv761
 MOMO綜合,rtmp://59.124.75.150/sat/tv761
@@ -217,7 +217,7 @@ ELTA體育3,rtmp://59.124.75.138/sat/md041
 博斯運動2,rtmp://59.124.75.138:1935/sat/md021
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 大彎區衛視,http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
-香港台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 ELEVEN 1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
