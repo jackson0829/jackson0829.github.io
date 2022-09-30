@@ -182,6 +182,93 @@ GOOD TV,http://8.210.36.158/de/twlive.php?id=live1231
 好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 
+🎡有效台灣0930,#genre#
+寰宇新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=38
+三立新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=75
+TVBS新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=30
+TVBS新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=81
+中天新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=29
+东森新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=31
+东森新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=43
+壹新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=34
+三立LIVE新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=33
+台视新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=32
+台视新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=77
+中视新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=36
+中视新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=90
+华视新闻资讯,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=37
+中视,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=39
+中视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=87
+台视,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=40
+台视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=76
+民视,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=41
+民视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=67
+华视,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=42
+华视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=53
+TVBS HD,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=43
+TVBS,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=78
+TVBS欢乐台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=79
+TVBS欢乐台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=44
+民视第一台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=46
+民视台湾台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=45
+民视综艺,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=47
+民视旅游,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=48
+民视影剧,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=49
+纬来日本,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=51
+纬来日本,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=82
+纬来育乐,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=52
+纬来育乐,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=84
+纬来体育,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=50
+纬来体育,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=83
+ELEVEN体育2台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=54
+ELEVEN体育1台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=53
+博斯运动2,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=55
+博斯运动2,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=56
+爱尔达体育1,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=46
+爱尔达体育1,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=47
+ELEVEN体育二台,#https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=48
+ELEVEN体育一台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=50
+ELEVEN体育二台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=51
+
+🎡有效香港0930,#genre#
+NOW新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=12
+有线新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=18
+有线新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
+无线新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=7
+无线新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
+翡翠台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=0
+明珠台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=10
+J2,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=9
+无线财经,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=8
+NOW体育台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=11
+NOW财经台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=13
+NOW直播台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=14
+香港开电视,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=5
+RTHK 31,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=16
+RTHK 32,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=17
+有线18,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=19
+有线18,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=25
+有线603,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=20
+有线603,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=27
+有线体育,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=21
+有线体育,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=28
+有线财经台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=22
+有线财经资讯台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
+耀才财经台[1024x576],http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=15
+翡翠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
+J2,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=6
+明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
+NOW财经,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=8
+NOW SPORTS PRIME,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=9
+NOW新闻,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
+NOW直播,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=11
+RTHK31,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=13
+RTHK32,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=14
+ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
+无线财经,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
+香港开电视,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
+
+
 
 🎡台湾,#genre#
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#https://live.6zxr.xyz/fhwszw/index.m3u8
