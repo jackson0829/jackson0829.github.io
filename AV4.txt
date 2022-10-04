@@ -1,5 +1,5 @@
 
-玩偶姐姐完整版,#genre#
+玩偶姐姐,#genre#
 青蛇,https://t7.cdn2020.com/video/m3u8/2021/04/13/3068b86f/index.m3u8
 晨钟暮鼓,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4227fd89/index.m3u8
 森林-0,https://t11.cdn2020.com:12336/video/m3u8/2021/09/07/44c2f4b0/index.m3u8
@@ -28,37 +28,7 @@ cos女仆,https://t7.cdn2020.com/video/m3u8/2021/04/13/6115c720/index.m3u8
 玩具solo,https://t7.cdn2020.com/video/m3u8/2021/04/13/b2635f15/index.m3u8
 按摩油的用处,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/13b5f514/index.m3u8
 
-
-
-Japan,#genre#
-Playboy,http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
-香蕉臺,mitv://ns2.hellotvvod.com:9906/84e8a4a58f91482abe98cdd513dbe6a8
-香蕉臺,http://125.227.210.37:11055/VideoInput/play.ts 
-香蕉臺,http://125.227.210.55:11055/VideoInput/play.ts 
-香蕉臺,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
-HOT,mitv://ns2.hellotvvod.com:9906/bc89924c45ce47c8a6f1f9e8ba460d11
-HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/4f208bff963b442cafe9a71efc892105
-HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
-K,mitv://ns2.hellotvvod.com:9906/e0693c0fb4b5478b85b8fa720a683048
-K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
-JStar極限,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
-JStar極限,http://125.227.210.37:19020/VideoInput/play.ts 
-Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts 
-Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts 
-Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts 
-Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts 
-Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts 
-成人6,http://125.227.210.37:14583/VideoInput/play.ts 
-成人6,http://125.227.210.55:14583/VideoInput/play.ts 
-成人7,http://125.227.210.37:18685/VideoInput/play.ts 
-成人7,http://125.227.210.55:18685/VideoInput/play.ts 
-成人電影臺,http://125.227.210.37:18789/VideoInput/play.ts 
-成人電影臺,http://125.227.210.55:18789/VideoInput/play.ts 
-
-
-
-测试频道,#genre#
+外國AV,#genre#
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
