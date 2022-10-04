@@ -31,25 +31,6 @@ cos女仆,https://t7.cdn2020.com/video/m3u8/2021/04/13/6115c720/index.m3u8
 
 
 Japan,#genre#
-彩虹e,mitv://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
-彩虹e,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
-彩虹電影,mitv://ns2.hellotvvod.com:9906/652eaae198354a7eaee4de4e83241c22
-彩虹電影,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
-松視1,mitv://ns2.hellotvvod.com:9906/6a1d4bb966874f598cc453df234ae44f
-松視1,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
-松視2,mitv://ns2.hellotvvod.com:9906/cc116ed3044f4941aea23c942fef7406
-松視2,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
-松視3,mitv://ns2.hellotvvod.com:9906/034caef8cf944c6e88398bde3576fecc
-松視3,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-潘朵啦玩美臺,mitv://ns2.hellotvvod.com:9906/93a3328f3bfe4a82963d8c3584ede02a
-潘朵啦玩美臺,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
-潘朵啦粉紅臺,mitv://ns2.hellotvvod.com:9906/5308670d6df54b1ebd9d0642f389e269
-潘朵啦粉紅臺,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/2a8c2699d7294d3ab670a9287bc20bc6
-LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
-驚艷成人電影,mitv://ns2.hellotvvod.com:9906/ad86969137014a8c81684ed690c41b08
-驚艷成人電影,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
-Playboy,mitv://ns2.hellotvvod.com:9906/8318778f77a1460797911ecacc214b92
 Playboy,http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
 香蕉臺,mitv://ns2.hellotvvod.com:9906/84e8a4a58f91482abe98cdd513dbe6a8
 香蕉臺,http://125.227.210.37:11055/VideoInput/play.ts 
@@ -76,93 +57,8 @@ Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
 成人電影臺,http://125.227.210.55:18789/VideoInput/play.ts 
 
 
-0907,#genre#
-🌲松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-🌲松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-🌲松視1,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-🌲松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-🌲松視2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-🌲松視2,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-🌲松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-🌲松視3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-🌲松視3,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-潘朵拉玩美台♥️Perfec,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-潘朵拉玩美台♥️Perfec,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-潘朵拉玩美台♥️Perfec,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦粉紅台♥️AmazingTV,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦粉紅台♥️AmazingTV,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦粉紅台♥️AmazingTV,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-🌈彩虹e台,P2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-🌈彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-🌈彩虹電影台,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-🌈彩虹電影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-香蕉台🍌Banana,p2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
-香蕉台🍌Banana,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-💘Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-💘Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-💘Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-Look🏴‍☠️TV,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-Look🏴‍☠️TV,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-JSᴴᴰ極限電影,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
-JSᴴᴰ極限電影,p2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-HD電影台,P2p://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34
-HD電影台,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-性愛教主,P2p://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
-性愛教主,P2p://54.39.16.152:9906/626b7a25000d82090c842544db6623c5
-ＶＥＮＵＳ,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-ＶＥＮＵＳ,P2p://54.39.16.152:9906/626b732f0006b7ce0c68f297c4634035
-AV女王,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
-AV女王,P2p://54.39.16.152:9906/626b735f000db2ec0c69afe0789a0758
-日本映畫,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-日本映畫,P2p://54.39.16.152:9906/626b73710005a5760c69f42172cb2df4
-水多多,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-水多多,P2p://54.39.16.152:9906/626b7384000360cf0c6a3dc4c16ff53b
-近親相奸,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-近親相奸,P2p://54.39.16.152:9906/626b7397000e653b0c6a8acea1802126
-彩虹通道,P2p://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-彩虹通道,P2p://54.39.16.152:9906/626b73a900091c810c6acfc4cd3c8df3
-PLAYBOYHD,P2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
-PLAYBOYHD,P2p://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
-KMP頻道,P2p://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
-KMP頻道,P2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
-午夜藍,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-午夜藍,P2p://54.39.16.152:9906/626b7425000e83a70c6cb5863e2179e9
-大學女援交妹,P2p://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
-大學女援交妹,P2p://54.39.16.152.com:9906/626b74450000c4030c6d2f0117e32ee4
-做愛輸入,P2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
-做愛輸入,P2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
-直播東南亞美女團,http://01b.expo-hf.com/live/cx_358601.flv
-直播一隻小野貓,http://san.shengshuishi.cn/live/cx_12640.flv
+
 测试频道,#genre#
-彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
-K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-看电视,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
-幻灯片电影,mitv://4506/6260e2b000004933172c99712568d815
-幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
-惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-热,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-热,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-快乐,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-快乐,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
