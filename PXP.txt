@@ -1,5 +1,5 @@
 
-晴天台灣,#genre#
+晴天台灣1008,#genre#
 CNN,P2p://ns1.hellotvvod.com:9906/5ad95cb617514fa4847d8c4a7d3df58f
 民視,P2p://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
 人間衛視,P2p://ns1.hellotvvod.com:9906/c7103ee68ca04b519038b7e1acc94dc6
