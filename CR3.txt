@@ -378,7 +378,6 @@ HBO 温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF731272857
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-湾湾125&50,
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 龙华偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18573/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
