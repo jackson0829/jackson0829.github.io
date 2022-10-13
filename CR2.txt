@@ -35,7 +35,7 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-東森新聞,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4#http://220.134.196.147:9540/index.m3u8#http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4#http://220.134.196.147:9540/index.m3u8#http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
+東森新聞,http://220.134.196.147:9540/index.m3u8#http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4#http://220.134.196.147:9540/index.m3u8#http://220.134.196.147:9540/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 華視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -113,7 +113,7 @@ FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-台湾198源,#genre#
+🎡台湾198源,#genre#
 TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS新闻台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 爱尔达影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
