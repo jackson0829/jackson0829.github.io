@@ -1,60 +1,111 @@
 
-EPG(TW)1013,#genre#
-寰宇新闻,https://epg.pm/stream/e25e2609927bd56cc8b4c3acbbfec15ab7f9bceef3c89a320262f07104f8f04f.m3u8#https://epg.pm/stream/b0a7001249bd357430e082a72d6bf2a78ce18f3fc5969062648509787950903c.m3u8#https://epg.pm/stream/c2588c31efbcfadb5a04fb64feb98ae07d8df31e1b19f002a803f8f8de1fd57e.php
-壹新闻,https://epg.pm/stream/bd2dab24d0cdea64b365eeda2b48d6b3bd1bd57bc1a721f925fdc5648908bda8.m3u8
-镜新闻,https://epg.pm/stream/b23acbc2b6600ed3f09971a3c1421177e93134d0fa66b985f93ea03aea0b8792.m3u8
-三立iNEWS,https://epg.pm/stream/53267293c2d590385fd8c655b84d3d396813aab146d56ad2540d6460dd8dc591.php#https://epg.pm/stream/567ec3c3df98ae15d61f84993df4c3ce31785ae4d76ea4fb57a25fc192cec634.php#https://epg.pm/stream/8e8838bad84f15b5d39e433b37c33d625eb87e1622146599283bd3ad30b298ce.php
-东森新闻,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
-东森财经,https://epg.pm/stream/2542667bd5a4c00882e4275d2713961009aa17f0397831e1830f3ebd3de6ae6d.php#https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
-TVBS新闻台,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
-TVBS新闻,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8#https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
-中天新闻,https://epg.pm/stream/c23e9ec7164d9c97896c95283615172868a34e25ba910ead20c7bb8f5fc023bc.m3u8#https://epg.pm/stream/526f164cdabe04bee921865bb05037255c22ccbeb50cafd3a4ec83cc00514447.m3u8#https://epg.pm/stream/5a87083bc257de8a1c9bc3474000ff38a5bdc90ea41e8d384168ba610a230390.php#https://epg.pm/stream/68ba78adbb28efc7d4aba7234d1c380b9ee45b7a0aed01da42aafac16697d54d.php
-年代新闻,https://epg.pm/stream/7e0f2f62823ba32a2c3ca571591268ffdf8058019defcb29067bfa4cb651ad00.m3u8
-台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8#https://epg.pm/stream/5a17fd9b813ccc53c86e200214fcc45c79875a31bf901c220df388a2cbfd3794.m3u8#https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8#https://epg.pm/stream/de2296075c24b2f9ef3e54f8881dec9c496a13d8c5910f8ecbcb3f457ac7f340.m3u8
-民视新闻,https://epg.pm/stream/a31ecd761397ffd82e6404a0dc952799aba98334481f618967185682800a886a.m3u8#https://epg.pm/stream/7485226a370c5b2e8e6c41adb20b104e3c201bab81900e090247a5dbeafe05c4.php#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
-龙华偶像,https://epg.pm/stream/e018465cb005b2aa8e8c6f4e108f500b1de77179e44adac14d03417e4b505f7b.m3u8
-龙华戏剧,https://epg.pm/stream/efd706d00a5d2eac76d9bc34708beb7aca2aee4345109eb9b07680444bdb0a20.m3u8#https://epg.pm/stream/fc73093418927c337f13bd514bc835e120166bc69e18f5fce64ac222dacd335f.m3u8#https://epg.pm/stream/71ebebc08857fd188ef8911923fc2da1a5aa9afd80780d14f37505b01b418936.m3u8#https://epg.pm/stream/95d3cef94559365f9c64312332df32f715219a53290f3a46062189e536829088.m3u8
-纬来戏剧,https://epg.pm/stream/481b1f412597bd55bdf700d6c0d82f19c26e723fc1875c8a2b4801ef18c9a421.m3u8
-龙华偶像,https://epg.pm/stream/9677de7e3aa3393cef19f1725303ee6dddea8536fec525f611d8e5cd4f5d08fc.m3u8#https://epg.pm/stream/fd7acb7dc1aed1c7428afd09d33884d4b65cff63e98b672c7a0ac18f5af140a7.m3u8
-民视旅游,https://epg.pm/stream/dea3c086f0084e3b8e35a820ece62459455433adefe59941a06fa88f14d474ee.php
-大爱2,https://epg.pm/stream/d2c66d0bde7945bb9061118e38a9a31ecc68e5f32b610530f08e9d8eed415153.m3u8#https://epg.pm/stream/4cd667f3d935a270f1a6446ca0ef148e2ba5e1d86f5531861c617d5b399b4b11.m3u8
-八大戏剧,https://epg.pm/stream/0dd2321adc8c33bf4538b7aaf72243161f3d173474be922fd3fd36562490ce89.m3u8
-公视,https://epg.pm/stream/924e6ffa5be01708e4d86ceedb76685d54b524c3c017ce79352edbb3e0d18fe4.m3u8
-momo综合台,https://epg.pm/stream/bb82d5d9d987f94d16c749305e3b0aee043085609111e62b8407db26bde97021.m3u8
-三立台湾台,https://epg.pm/stream/58b0dda79ad6a1d23c5529e52fe690f73cbf1390effe182d6c4314ed8d6a2b6b.m3u8
-三立iNews,https://epg.pm/stream/5d5cd5d8a08ad29dbe96a2a84be5655e6f4b0e7dbed0ea9f3c5c6013a5549a99.m3u8
-中天娱乐FHD,https://epg.pm/stream/961e15e3316a8c6e169eb5d67fc23172ffe634b745cba858754763fb14637a6d.m3u8
-民视第一台,https://epg.pm/stream/a2450ba4edbafbba4e1fe29437a2ddff1110bd89df4f3d972755674a1364eb90.php
-民视第一,https://epg.pm/stream/cdc4939706c1ef0c615cf0d04b74eefbdf2e881ccf26e12f0060fb4a90830972.php
-民视旅游台,https://epg.pm/stream/86dea23ebb6ab3db212679eedfc1b5048d93ed8d1d517fd47792d26346af487c.php
-民视旅游,https://epg.pm/stream/e81be8d062f68f76f5b8f62003ff4cb8783a224ee5a90211a75f6341981e37db.php
-三立台湾台@@3,https://epg.pm/stream/4c766abc2e9ffd2fb5b5a82336c48c07ad0858e015d352bd7944e216b06d9ab0.m3u8
-爱尔达影剧,https://epg.pm/stream/39341152f67024071ade492fcb30bd00d7148bd204d16505529398dfa57e1e8b.m3u8
-动物星球,https://epg.pm/stream/503ff628c850278597e1581e70de3fb50fed3ee461a7c03d7e4023ef114c5a3b.m3u8#https://epg.pm/stream/97daccc50d76759f748b088f5538c0ccc2edc20420949d168b72cf7a51004617.m3u8
-公视戏剧,https://epg.pm/stream/65efa77067ec84baf3bb17b3a9e3f8f42896809bc08202ef316ee27a31293bf0.php
-民视综艺台,https://epg.pm/stream/e19099bee07c618ae80d8ac5e65ecab556379e9c848c603de02aee21517e5b92.php
-民视综艺,https://epg.pm/stream/2f63f05ff01bb88ee8261d580b034656ed602c2c286279989970014e5124a92d.php
-民视台湾台,https://epg.pm/stream/f5cf1c8c84abaf71681f7af26c62507c528950bf9d0e8829e9c96322fdfee503.php
-客家电视台,https://epg.pm/stream/6ffa0b196481021615ff8ae0e992e7162b2bca65fd0b74636d80f223d26c4d7e.php
-原民台,https://epg.pm/stream/363dac7053ddf6f80e281700ece7622e511092c933d9c36dab54cf33b01087d5.m3u8#https://epg.pm/stream/dca936cdba26ae6ed66d3622715e654b7f15a3430e9369d5af88be7fd3e8c4d1.m3u8
-BABY TV,https://epg.pm/stream/817cd9a03ac7297dde2ec7f8af7fccb8230c2cb5b982f2975ac432a6b9a65134.m3u8
-大爱1,https://epg.pm/stream/fd6067cb7d6b3cbf6ccdceaf6c0b686b755d912a7579c089eb8c0d27059b7a4c.m3u8
-大爱2,https://epg.pm/stream/d51792997393aa0865c32cafa37e78e242d276c515431d014350082896ce38e0.m3u8#https://epg.pm/stream/8ef25fdd0f72ab063dc92d5dad40aa81c34fc0655fbf67adb08236c7d61d7843.m3u8#https://epg.pm/stream/1a294a52b86e2130ce3726831a8b0757b1093b9145d8d0525c6427e4bce88775.m3u8
-龙华电影,https://epg.pm/stream/71235d886366a5683f7fe4dec8b378dd836b6ac18db172f0def99671e691473c.m3u8
-八大综合,https://epg.pm/stream/c7eb941a2a79146bcb579e89eec8f401ab58503acbfbe71cc933ee1db77f0c2d.m3u8
-纬来电影,https://epg.pm/stream/2e872f39f798fa362a9740ed1ce4c8baf2211690f49e9f4f736f72e8097fb762.m3u8
-龙华经典,https://epg.pm/stream/749363e25e088654335bcae3ca07e480e4bbb4b53306bc053b99d60ac63e21a6.m3u8
-中天新闻,https://epg.pm/stream/82e5093e2e6fd0970a6219137412b2ff6da1488960dc6b11a8cf6db0af7b9e8d.m3u8
-智林体育台,https://epg.pm/stream/3c5b603d53ac6ebd468138f46bb323a519d148af875b94b760f0a4493079c404.m3u8
-动漫秀场,https://epg.pm/stream/3d3ab9d231e69dcc54c4ad8683f27e6e26dbdd785c97705d80d4e20768cd4495.m3u8
-Animax HD,https://epg.pm/stream/5b0231611fffa1e4ff8043d17c45bc2dfd10c230827c29ec8a7e9c1714ce1d16.m3u8
-亚洲旅游,https://epg.pm/stream/07ac33f4d66b1891dc5664828beb28d38919b67715b4dd0bd0b751cc764eb595.m3u8#https://epg.pm/stream/fc1cfe54f636e3bf2841e4cf043edbf43e3c0018bfab87d9411356a8b5691984.m3u8#https://epg.pm/stream/3d1ccb88756a9c18ae484e376502550be55dad0d157771838c925829e46a28ea.m3u8#https://epg.pm/stream/3dec55f597153ed361bc4ce7442045c7f26dae10cdd2538e5fbde1a586902f73.php
-东森幼幼,https://epg.pm/stream/7794b28efbb3db32d26a28b058534037a25e49f6701f6527e82a79ae0a20a112.m3u8#https://epg.pm/stream/cad69ec0bb8403fed6ab3f8aebc58579951278d2cdc34aaff06fc9ec8c43b27b.m3u8
-MOMO亲子,https://epg.pm/stream/ab189c16cdb3e27082e68e1863bccff49ac21e041b581f308ede63140d34ad9e.m3u8
-动物星球,https://epg.pm/stream/389aa9e033b7d4e71a08d75d3a69286b87120f0041a1f712f451be318cca799a.m3u8
-民视影剧,https://epg.pm/stream/b220b657833c7a3c015c68da33b127faaee1a6609ce1a604fe3f851ba96c8b34.php
-人间卫视,https://epg.pm/stream/e0dfdfa7604b6931c8a66be075c9f4e5ad0228961b4cbc520bc201892168be5d.php
+IPTV1013,#genre#
+三立新聞,http://60.251.59.180:8506/ch18.m3u8
+TVBS新聞,rtmp://9wv7.mine.nu/sat/tv551
+中天新聞,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+民視新聞,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+台視,rtmp://9wv7.mine.nu/sat/tv071
+台視,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e#rtmp://9wv7.mine.nu/sat/tv071
+民視,rtmp://9wv7.mine.nu/sat/tv051
+中視,rtmp://9wv7.mine.nu/sat/tv091
+中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e#rtmp://9wv7.mine.nu/sat/tv091
+公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+華視,rtmp://9wv7.mine.nu/sat/tv111
+華視,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002#rtmp://9wv7.mine.nu/sat/tv111
+東森戲劇,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+東森超視,rtmp://9wv7.mine.nu/sat/tv331
+TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
+TVBS新聞台,rtmp://9wv7.mine.nu/sat/tv551
+東森財經台,rtmp://9wv7.mine.nu/sat/tv571
+緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
+緯來體育,rtmp://9wv7.mine.nu/sat/tv721
+MOMO綜合台,rtmp://9wv7.mine.nu/sat/tv761
+緯來日本,rtmp://9wv7.mine.nu/sat/tv771
+TVBS歡樂,rtmp://9wv7.mine.nu/sat/tv421
+靖天國際台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+靖天卡通台,http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+博斯高球,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+國家地理野生,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+國家地理,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+大愛,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
+好消息2台,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+探索科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+民視台灣台,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+愛爾達影劇台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84#http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04#http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+靖天國際台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+龍華卡通,http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+龍華戲劇,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+星衛HD電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+AXN,http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELEVEN1,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN2,rtmp://9wv7.mine.nu/sat/tv741
+ELTA體育1,rtmp://9wv7.mine.nu/sat/md011
+ELTA體育2,rtmp://9wv7.mine.nu/sat/md021
 
+ChiSheng9,#genre#
+[台視新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+[鏡新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+[TVBS新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+[三立iNews],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+[三立iNews],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+[東森新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+[中天新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+[中視新聞],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+[華視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+[華視新聞資訊],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+[中天亞洲],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+[公視台語台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+[民視台灣台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+[公視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+[鳳凰資訊],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+[華視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+[東森YOYO],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+[MOMO親子台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+[卡通台1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+[卡通台2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+[DAVE卡通],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+[卡通台3],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+[卡通台4],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+[大愛],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+[大愛2台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+[大愛3台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+[東森購物1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+[東森購物2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+[MOMO購物1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+[MOMO購物2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+[VIVA購物台1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+[VIVA購物台2],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+[信吉電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+[EF運通],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+[信大],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+[SKY NEWS],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+[DW],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+[Euro News],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+[France News],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+[NBC news],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+[鳳凰衛視],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+[Bloomberg],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+[新唐人亞太],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+[NASA1],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+[CCTV4中文國際],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+[伊朗電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+[佛教電視台],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+[Media Corp],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+[CNA USA],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+[HTB Japan],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+[ALJAZEERA],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+[KBS Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+[Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+[YTN Korea],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+[Japan],https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 
 TW1013,#genre#
