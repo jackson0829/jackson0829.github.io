@@ -1176,4 +1176,4 @@ NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212256
 爱奇艺-经典重温,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8
 爱奇艺-宫庭正剧,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
 爱奇艺-怀旧剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
-爱奇艺-美食厨房,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8机哥分享0805,#genre
+爱奇艺-美食厨房,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8
