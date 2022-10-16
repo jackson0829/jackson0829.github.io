@@ -35,7 +35,6 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 💡弯弯P2P1010,#genre#
-晴天台灣,#genre#
 CNN,P2p://ns1.hellotvvod.com:9906/5ad95cb617514fa4847d8c4a7d3df58f
 民視,P2p://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
 人間衛視,P2p://ns1.hellotvvod.com:9906/c7103ee68ca04b519038b7e1acc94dc6
