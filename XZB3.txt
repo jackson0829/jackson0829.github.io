@@ -39,7 +39,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新聞,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台视新闻,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
