@@ -34,7 +34,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
-38&50源彎彎1015,#genre#
+💡38&50源彎彎1015,#genre#
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -76,7 +76,7 @@ EYETV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 
-198源彎彎1016,#genre#
+💡198源彎彎1016,#genre#
 三立新闻台,http://23.237.10.66:16342$高清720P
 年代新闻,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 非凡新闻,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
@@ -134,7 +134,7 @@ ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE164190421641
 ELEVEN1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 FoxNews,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 
-TW1013,#genre#
+💡TW1013,#genre#
 寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8#https://git.io/JgkpO
 三立iNEWS,https://git.io/Jgkxj#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
