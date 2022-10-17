@@ -1,6 +1,6 @@
 💡南星台湾1017,#genre#
-环宇新闻,https://git.io/JgkpO#https://epg.pm/stream/9af1335b80e401babf373367f9c8a216ce6e278bc9a7f1224b0b79ced8e65896.m3u8
-东森新闻,https://git.io/Jgkpc#https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
+环宇新闻,https://git.io/JgkpO
+东森新闻,https://git.io/Jgkpc
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#https://live.6zxr.xyz
 中天新闻,http://idwggg.usero.cn/mtv/mytv.php?id=twztxw&w=mytv&p=mytv
