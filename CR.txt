@@ -1,4 +1,4 @@
-彎彎1018#genre#
+彎彎1018,#genre#
 寰宇新闻,https://git.io/JgkpO#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立inews新闻,https://git.io/Jgkxj#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
