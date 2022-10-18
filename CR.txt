@@ -1,13 +1,15 @@
+
 彎彎1018,#genre#
 寰宇新闻,https://git.io/JgkpO#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立inews新闻,https://git.io/Jgkxj#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立inews新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森财经新闻,rtmp://9wv7.mine.nu/sat/tv571
 东森财经新闻,https://git.io/Jgkpc#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 台视新闻,https://git.io/JgkxY#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中视新闻,https://git.io/Jgkxz#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
@@ -223,46 +225,65 @@ HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&
 HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 
-YTlive0713,#genre#
+
+YT Live1018,#genre#
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-三立新闻,http://60.251.59.180:8506/.m3u8#http://60.251.59.180:8506/.m3u8
-三立inews新闻,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-东森财经新闻,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8#https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-TVBS,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8#https://git.io/JgYl2#https://git.io/JgYl2#https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8#https://git.io/JgYl2#https://git.io/JgYl2
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TTVNews.m3u8
-中视新闻,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立Live新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天亚洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+公视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+公视台湾,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-华视,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
-中台湾生活,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-大爱,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
-大爱2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
-原住民频道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-东森幼幼,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON#https://git.io/JgYON
-动漫,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-幸福空间居家台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
-The K-POP,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
-网路流行音乐电台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
-momo购物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-momo购物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-东森购物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+Bloomberg,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+大爱2台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大爱2台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+华视新闻杂志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+东森幼幼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+猪小妹卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+电视猫卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+卡通1https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+卡通2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+卡通3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+卡通4,,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+东森购物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 东森购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+MOMO购物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+YTN Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+GBN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+Euro News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+凤凰卫视2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+佛教,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+HTB Japan,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+VIVA购物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+VIVA购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+国会转播,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+信吉电视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+SKY news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+DOD News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+Media Corp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-美好购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-信吉电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-ArirangTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+ABC,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+Aljazeera,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+Radio Clock,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+KBS Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
