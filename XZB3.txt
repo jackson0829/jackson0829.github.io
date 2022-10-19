@@ -78,6 +78,53 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://5
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 中文音乐,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 
+💡etag2000,#genre#
+寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+三立LIVE新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立 iNEWS 新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+中天电视,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+中视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+彰化生活,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
+东森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+大爱一,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai1.m3u8
+大爱二,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
+网路流行音乐樂台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
+Bloomberg Global Financial News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
+GSTV 幸福空间居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
+ABC News (Australia),https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsau.m3u8
+Al Jazeera English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+大爱海外频道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
+FRANCE 24 English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+Euronews English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/euronews.m3u8
+Hokkaido News 24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
+SBN全球财经,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
+天才冲冲冲,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
+ABC News (US),https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
+ARIRANG NEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/arirangnews.m3u8
+运通财经,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+
+
+💡StanleyChen0924,#genre#
+寰宇新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
+三立iNews,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8
+台視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TTVNews.m3u8
+TVBS,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8
+中天新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTITVNews.m3u8
+中視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
+大愛2,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/daai2.m3u8
+大愛3,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/daai3.m3u8
+東森財經,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8
+東森幼幼,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/ebcyoyo.m3u8
+FM107,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
+民視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FTVNews.m3u8
+幸福空間,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
+KKBOX21,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
+KPOP,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
+Music24,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
+
+
 💡彎彎1018,#genre#
 寰宇新闻,https://git.io/JgkpO#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
