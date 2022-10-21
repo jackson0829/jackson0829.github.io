@@ -29,6 +29,21 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 華語電視,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
+🎡TVhub-YTlive,#genre#
+寰宇新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=gntv&q=96
+台視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ttv&q=96
+三立新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=set&q=96
+中視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ctv&q=96
+民視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ftv&q=96
+東森財經,https://tvhub.cmfly.co/iptv/ytb.php?id=ebcf&q=96
+中天新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=cti&q=96
+CGTV Live,https://tvhub.cmfly.co/iptv/ytb.php?id=cgtn&q=96
+NHK World,https://tvhub.cmfly.co/iptv/ytb.php?id=nhk&q=96
+France 24,https://tvhub.cmfly.co/iptv/ytb.php?id=fr24&q=96
+鳳凰衛視 60fps,https://tvhub.cmfly.co/iptv/ytb.php?id=pinhfr&q=301
+CGTN 60fps,https://tvhub.cmfly.co/iptv/ytb.php?id=cgtnhfr&q=301
+
+
 🎡50源1019,#genre#
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
