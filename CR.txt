@@ -351,6 +351,12 @@ FM107,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 KKBOX21,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
 KPOP,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
 Music24,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
+寰宇新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=gntv&q=96
+台視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ttv&q=96
+中視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ctv&q=96
+民視新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=ftv&q=96
+東森財經,https://tvhub.cmfly.co/iptv/ytb.php?id=ebcf&q=96
+中天新聞,https://tvhub.cmfly.co/iptv/ytb.php?id=cti&q=96
 
 
 
