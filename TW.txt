@@ -156,6 +156,13 @@ TVBS欢乐台,rtmp://59.124.75.147:1935/sat/tv421
 MOMO综合台,rtmp://59.124.75.147:1935/sat/tv761
 纬来日本,rtmp://59.124.75.147:1935/sat/tv771
 中天综合,http://23.237.10.66:16372
+中天新聞HD,https://epg.pm/stream/82500cfa7adb4500b77aef85a74a3d0bf1845b67323d25177f518cbc1aafca29.m3u8
+中天亞洲台,https://epg.pm/stream/e8e283bd07c25289b14e3b9106d204450d15d6c426432f90707abb12d06acc68.m3u8
+東森綜合,https://epg.pm/stream/516faaf4260b788e3b6d5ad0768c6704407f28d25a9e5a4e3cd5e0fd35ce0f92.m3u8
+龍華戲劇,https://epg.pm/stream/aad50985c0419ecf41808cad935cdf600398bf7a57d82c9a35a112b903820348.m3u8
+龍華日韓,https://epg.pm/stream/c45bc1995bcd5cfffc91a293ecdb3f915c5aa10989c7372e590be395df2686be.m3u8
+HBO Signature,https://epg.pm/stream/19ddb776ad5308638c6743c37de22c449d963c83e5be6fe9a845a9b781b914c7.m3u8
+GoodTV 經典音樂,https://epg.pm/stream/4bd0d7e1b1386ac470dc8b6daab1b94df02ccffa3802e4bc18913c794b9e70f4.m3u8
 CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 JET综合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
 TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
