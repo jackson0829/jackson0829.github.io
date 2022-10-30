@@ -139,8 +139,6 @@ TVBS新闻,rtmp://59.124.75.147:1935/sat/tv551#http://38.64.72.148:80/hls/modn/l
 TVBS欢乐台,rtmp://59.124.75.147:1935/sat/tv421
 MOMO综合台,rtmp://59.124.75.147:1935/sat/tv761
 纬来日本,rtmp://59.124.75.147:1935/sat/tv771
-中天新聞HD,https://epg.pm/stream/82500cfa7adb4500b77aef85a74a3d0bf1845b67323d25177f518cbc1aafca29.m3u8
-东森综合,https://epg.pm/stream/516faaf4260b788e3b6d5ad0768c6704407f28d25a9e5a4e3cd5e0fd35ce0f92.m3u8
 龙华偶像,http://61.219.170.95:18573/hls/210/10012/cstv12.m3u8 
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 龙华偶像,http://61.219.170.95:18573/hls/210/10012/cstv12.m3u8 
