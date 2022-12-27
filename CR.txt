@@ -179,6 +179,55 @@ NewTV精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8#http://117.169.124.149:8080/live/jdianying/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8#http://117.169.124.149:8080/live/jdianying/index.m3u8
 
 
+
+123源1227,#genre#
+寰宇新闻台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#http://123.58.201.173:52411/test/lshotel.php?id=49#http://123.58.201.173:52411/test/lshotel.php?id=49
+寰宇新闻台湾台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
+三立新闻,http://123.58.201.173:52411/test/lshotel.php?id=43
+三立iNEWS新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
+TVBS新闻台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live072
+东森新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
+非凡新闻,http://123.58.201.173:52411/test/lshotel.php?id=46
+非凡商业,http://123.58.201.173:52411/test/lshotel.php?id=47
+东森财经新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live019#http://123.58.201.173:52411/test/lshotel.php?id=48#http://123.58.201.173:52411/test/lshotel.php?id=48
+中天新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
+中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
+民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
+中视新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
+靖天电影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv061
+民视第一台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv003
+TVBS欢乐台,http://123.58.201.173:52411/test/lshotel.php?id=32
+中视经典,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv080
+东森综合,http://123.58.201.173:52411/test/lshotel.php?id=24
+中视菁采,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv064
+东森戏剧,http://123.58.201.173:52411/test/lshotel.php?id=30
+东森超视,http://123.58.201.173:52411/test/lshotel.php?id=25  
+Baby TV,http://123.58.201.173:52411/test/lshotel.php?id=14
+东森幼幼台,http://123.58.201.173:52411/test/lshotel.php?id=15
+Animax卡通台,http://123.58.201.173:52411/test/lshotel.php?id=16
+八大综合台,http://123.58.201.173:52411/test/lshotel.php?id=20
+东森超视,http://123.58.201.173:52411/test/lshotel.php?id=25
+中天娱乐,http://123.58.201.173:52411/test/lshotel.php?id=27
+龙华偶像,http://123.58.201.173:52411/test/lshotel.php?id=36
+龙华日韩,http://123.58.201.173:52411/test/lshotel.php?id=35
+卫视电影台,http://123.58.201.173:52411/test/lshotel.php?id=54
+好莱坞电影,http://123.58.201.173:52411/test/lshotel.php?id=55
+龙华电影,http://123.58.201.173:52411/test/lshotel.php?id=57#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03
+影迷数位电影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv011
+东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt&备用
+国家地理杂志,http://123.58.201.173:52411/test/lshotel.php?id=10
+亚洲旅游台,http://123.58.201.173:52411/test/lshotel.php?id=13
+Bloomberg,http://123.58.201.173:52411/test/lshotel.php?id=52
+CINIMEX movie,http://123.58.201.173:52411/test/lshotel.php?id=60
+Star World,http://123.58.201.173:52411/test/lshotel.php?id=62
+厦门卫视,http://123.58.201.173:52411/test/lshotel.php?id=69
+CTV-4,http://123.58.201.173:52411/test/lshotel.php?id=70
+浙江卫视,http://123.58.201.173:52411/test/lshotel.php?id=72
+凤凰卫视,http://123.58.201.173:52411/test/lshotel.php?id=76
+
+
+
+
 彎彎1018,#genre#
 寰宇新闻,https://git.io/JgkpO#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
