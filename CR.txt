@@ -180,50 +180,69 @@ NewTV精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.
 
 
 
-123源1227,#genre#
-寰宇新闻台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#http://123.58.201.173:52411/test/lshotel.php?id=49#http://123.58.201.173:52411/test/lshotel.php?id=49
-寰宇新闻台湾台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
-三立新闻,http://123.58.201.173:52411/test/lshotel.php?id=43
-三立iNEWS新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
-TVBS新闻台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live072
-东森新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
-非凡新闻,http://123.58.201.173:52411/test/lshotel.php?id=46
-非凡商业,http://123.58.201.173:52411/test/lshotel.php?id=47
-东森财经新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live019#http://123.58.201.173:52411/test/lshotel.php?id=48#http://123.58.201.173:52411/test/lshotel.php?id=48
-中天新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
-中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
-民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
-中视新闻,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
-靖天电影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv061
-民视第一台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv003
-TVBS欢乐台,http://123.58.201.173:52411/test/lshotel.php?id=32
-中视经典,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv080
-东森综合,http://123.58.201.173:52411/test/lshotel.php?id=24
-中视菁采,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv064
-东森戏剧,http://123.58.201.173:52411/test/lshotel.php?id=30
-东森超视,http://123.58.201.173:52411/test/lshotel.php?id=25  
-Baby TV,http://123.58.201.173:52411/test/lshotel.php?id=14
-东森幼幼台,http://123.58.201.173:52411/test/lshotel.php?id=15
-Animax卡通台,http://123.58.201.173:52411/test/lshotel.php?id=16
-八大综合台,http://123.58.201.173:52411/test/lshotel.php?id=20
-东森超视,http://123.58.201.173:52411/test/lshotel.php?id=25
-中天娱乐,http://123.58.201.173:52411/test/lshotel.php?id=27
-龙华偶像,http://123.58.201.173:52411/test/lshotel.php?id=36
-龙华日韩,http://123.58.201.173:52411/test/lshotel.php?id=35
-卫视电影台,http://123.58.201.173:52411/test/lshotel.php?id=54
-好莱坞电影,http://123.58.201.173:52411/test/lshotel.php?id=55
-龙华电影,http://123.58.201.173:52411/test/lshotel.php?id=57#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03
-影迷数位电影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv011
-东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt&备用
-国家地理杂志,http://123.58.201.173:52411/test/lshotel.php?id=10
-亚洲旅游台,http://123.58.201.173:52411/test/lshotel.php?id=13
-Bloomberg,http://123.58.201.173:52411/test/lshotel.php?id=52
-CINIMEX movie,http://123.58.201.173:52411/test/lshotel.php?id=60
-Star World,http://123.58.201.173:52411/test/lshotel.php?id=62
-厦门卫视,http://123.58.201.173:52411/test/lshotel.php?id=69
-CTV-4,http://123.58.201.173:52411/test/lshotel.php?id=70
-浙江卫视,http://123.58.201.173:52411/test/lshotel.php?id=72
-凤凰卫视,http://123.58.201.173:52411/test/lshotel.php?id=76
+336699彎彎0105,#genre#
+寰宇新聞(pull),https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+寰宇新聞,http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
+民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+FTV綜藝,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+豬哥會社,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+CNEX,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+K-POP,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+八大綜合台,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+華視,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+公視戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+HAKKA TV,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+采昌(日劇),http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+華視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+GINX(卡通),http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+靖天歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天映畫台,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖洋卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+靖天戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖天國際台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+中視精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+ELTA歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+好萊鎢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+緯來電影,https://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+龍華電影台,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
+我們這一家(卡通),http://cn-jsnt-ct-01-04.bilivideo.com/live-bvc/x988473/live_384415126_7322574/index.m3u8
+CATCHPLAY,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+MEZZO古典音樂,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+智林體育台,http://61.218.32.163:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+SPORTS STARS,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+KOREA,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+博斯高球1,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+博斯運動1,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+新馬亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+漫威直播,http://akm-tct.douyucdn.cn/live/6140589rHSWEc7hv.m3u8?uuid=
+
+東森電影,http://120.84.96.89:808/hls/32/index.m3u8
+東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
+東森超視,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+東森幼幼,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+寰宇新聞(VPN),https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+TVBS新聞,http://205.185.127.184:1024/hls/modn/list/4006/chunklist1.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 
 
