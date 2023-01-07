@@ -239,7 +239,7 @@ CCTV16,mitv://generationnexxxt.com:18806/8a7dbbc3310d476eac89337f5d38ce60.ts
 港澳,#genre#
 港台電視31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb.ts
 HOY TV,mitv://generationnexxxt.com:18806/09382c3ce45248a5bb5e99ba826947a0.ts
-?翡翠台(备),mitv://generationnexxxt.com:18806/56438038dac64b7aaf83eb3e8f14f4f2.ts
+翡翠台(备),mitv://generationnexxxt.com:18806/56438038dac64b7aaf83eb3e8f14f4f2.ts
 J2,mitv://generationnexxxt.com:18806/2b3d41193b4e4d18a8f6bdf0b60f89b6.ts
 无线新闻台(备),mitv://generationnexxxt.com:18806/8bd37511cf274918a788663136285f34.ts
 无线新闻台,mitv://generationnexxxt.com:18806/c72a0a3b723c425ba7c4726992cbc085.ts
@@ -756,4 +756,3 @@ Star Movies Gold,mitv://generationnexxxt.com:18806/63aff98e0001c8fec93b545414e96
 EYE TV戏剧台,mitv://generationnexxxt.com:18806/110b1420affa4143b6a20769be5d621b.ts
 爱尔达影剧台,mitv://generationnexxxt.com:18806/8ded2c37069c4569abef57203df8f02a.ts
 亚洲剧台,mitv://generationnexxxt.com:18806/2fe038292af2427db67e14d053f3c9cf.ts
-
