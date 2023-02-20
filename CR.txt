@@ -95,9 +95,12 @@ NewTV精品電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.
 黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8#http://117.169.124.149:8080/live/jdianying/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 
 彎彎230219,#genre#
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 寰宇新聞,http://tvmvip110.club/live.php?id=hyxw
+壹新聞 HD,http://60.251.59.180:8501/.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8#https://ytm2.yuanhsing.cf/mnews.m3u8
+鏡新聞Mnews,http://tvmvip110.club/live.php?id=jxw
 東森新聞,http://tvmvip110.club/live.php?id=dsxw
-鏡電視,http://tvmvip110.club/live.php?id=jxw
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8#http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
@@ -163,8 +166,9 @@ MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 
 
 有效源230220,#genre#
-寰宇新闻,http://2022.stream-link.org/playlist/global_news
-寰宇台湾新闻,http://2022.stream-link.org/playlist/global_tw
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+壹新聞 HD,http://60.251.59.180:8501/.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8#https://ytm2.yuanhsing.cf/mnews.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
 东森财经新闻,http://123.51.230.108:18515/.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
