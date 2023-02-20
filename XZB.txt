@@ -99,6 +99,10 @@ NewTV精品電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.
 寰宇新聞,http://tvmvip110.club/live.php?id=hyxw
 東森新聞,http://tvmvip110.club/live.php?id=dsxw
 鏡電視,http://tvmvip110.club/live.php?id=jxw
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+三立新聞 LIVE,http://60.251.59.180:8506/ch18.m3u8#http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 TVBS,http://tvmvip110.club/live.php?id=tvbs
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
