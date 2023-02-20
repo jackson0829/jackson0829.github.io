@@ -1,5 +1,5 @@
 
-晴天台灣1008,#genre#
+晴天台灣230220,#genre#
 CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6
 民视,P2p://generationnexxxt.com:19806/15f5218e79ad46c3bd1cafa2103a1116
 人间卫视,P2p://generationnexxxt.com:19806/cb9851759ea84223bd6ba45245fe9a4e
