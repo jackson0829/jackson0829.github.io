@@ -377,64 +377,6 @@ Viva 美好购物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 Viva 美好购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 世新综合,http://61.58.60.230:9319/live/49.m3u8
 发现心嘉义,http://61.58.60.230:9319/live/101.m3u8
-生命电视台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-佛卫慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
-孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-卫视电影 HD,http://220.134.196.147:9549/index.m3u8#http://220.134.196.147:9549/index.m3u8
-龙祥时代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd#http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
-天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-PANDA影院,http://182.151.211.171:808/hls/127/index.m3u8
-My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
-女神经典影院,https://pull.kktv8.com/livekktv/99350550/playlist.m3u8#http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8#https://pull.kktv8.com/livekktv/99350550.flv#http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8#https://pull.kktv8.com/livekktv/99350550.flv
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
-票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-印度电影,http://23.237.10.66:16054
-每日影院,http://182.151.211.171:808/hls/128/index.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-峨嵋电影,http://182.151.211.171:808/hls/58/index.m3u8#http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140#http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
-峨嵋电影4K,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
-电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-芒果乐搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://120.84.96.72:808/hls/36/index.m3u8#http://120.84.96.73:808/hls/36/index.m3u8#http://120.84.96.78:808/hls/36/index.m3u8#http://120.84.96.85:808/hls/36/index.m3u8#http://120.84.96.89:808/hls/36/index.m3u8#http://120.84.96.96:808/hls/36/index.m3u8#http://120.84.96.120:808/hls/36/index.m3u8#http://120.84.96.125:808/hls/36/index.m3u8#http://120.84.96.126:808/hls/36/index.m3u8#http://120.84.96.196:808/hls/36/index.m3u8#http://120.84.96.233:808/hls/36/index.m3u8#http://120.84.96.72:808/hls/36/index.m3u8#http://120.84.96.73:808/hls/36/index.m3u8#http://120.84.96.78:808/hls/36/index.m3u8#http://120.84.96.85:808/hls/36/index.m3u8#http://120.84.96.89:808/hls/36/index.m3u8#http://120.84.96.96:808/hls/36/index.m3u8#http://120.84.96.120:808/hls/36/index.m3u8#http://120.84.96.125:808/hls/36/index.m3u8#http://120.84.96.126:808/hls/36/index.m3u8#http://120.84.96.196:808/hls/36/index.m3u8#http://120.84.96.233:808/hls/36/index.m3u8
-CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://120.84.96.72:808/hls/31/index.m3u8#http://120.84.96.73:808/hls/31/index.m3u8#http://120.84.96.78:808/hls/31/index.m3u8#http://120.84.96.85:808/hls/31/index.m3u8#http://120.84.96.89:808/hls/31/index.m3u8#http://120.84.96.96:808/hls/31/index.m3u8#http://120.84.96.120:808/hls/31/index.m3u8#http://120.84.96.125:808/hls/31/index.m3u8#http://120.84.96.126:808/hls/31/index.m3u8#http://120.84.96.196:808/hls/31/index.m3u8#http://120.84.96.233:808/hls/31/index.m3u8#http://120.84.96.72:808/hls/31/index.m3u8#http://120.84.96.73:808/hls/31/index.m3u8#http://120.84.96.78:808/hls/31/index.m3u8#http://120.84.96.85:808/hls/31/index.m3u8#http://120.84.96.89:808/hls/31/index.m3u8#http://120.84.96.96:808/hls/31/index.m3u8#http://120.84.96.120:808/hls/31/index.m3u8#http://120.84.96.125:808/hls/31/index.m3u8#http://120.84.96.126:808/hls/31/index.m3u8#http://120.84.96.196:808/hls/31/index.m3u8#http://120.84.96.233:808/hls/31/index.m3u8
-MYTV电影台 1 HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19407/index.m3u8
-MYTV电影台 2 HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19408/index.m3u8
-MYTV电影台 Kids HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19409/index.m3u8
-MYTV电影台 Hit HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19410/index.m3u8
-MYTV电影台 3 HD,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19411/index.m3u8
-FRESH电影 Soviet,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19301/index.m3u8
-FRESH电影 Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19300/index.m3u8
-FRESH电影 Russian,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19299/index.m3u8
-动作电影,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18050/index.m3u8
-KINOSHKA Thriller,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18055/index.m3u8
-START AIR  电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18036/index.m3u8
-START WORLD电影台,http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/18032/index.m3u8
-美亚电影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e#http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b#http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8#http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b#http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b#http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8#http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-莲花电影,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
-HBO原创,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb#http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee#http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO家庭,http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853#http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3#http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f#http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3#http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8#http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93#http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-东方影视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-CATCHPLAY Beyond,http://8.218.60.13:8085/channel.m3u8?fid=4gtv-live155&hd=720
-HITS频道,http://8.218.60.13:8085/channel.m3u8?fid=4gtv-live620&hd=720
-My Cinema Europe HD,http://8.218.60.13:8085/channel.m3u8?fid=4gtv-live157&hd=720
-CinemaWorld,http://8.218.60.13:8085/channel.m3u8?fid=4gtv-live069&hd=720
-Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda#http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda#http://220.134.196.147:9557/index.m3u8#http://220.134.196.147:9557/index.m3u8
-BOO惊悚台,http://23.237.10.66:16420#https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8#https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
-MEDIACORP U,http://line.premiumpowers.net:80/Manuel/1234567/941617
-卫视电影,http://line.premiumpowers.net:80/Manuel/1234567/941625
-StarMovies GOLD HD,http://220.134.196.147:9560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8#http://220.134.196.147:9560/index.m3u8#http://220.134.196.147:9560/index.m3u8
-纬来电影 HD,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-ROCK ENTERTAINMENT,http://line.premiumpowers.net:80/Manuel/1234567/941643
-CHC家庭电影,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
-CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-
-
-
 
 好听歌曲,#genre#
 #https://vdse.bdstatic.com//3d2f7556a9a0d75ff6d9df6fa9e0717e.mp4#https://vdse.bdstatic.com//3d2f7556a9a0d75ff6d9df6fa9e0717e.mp4#https://vdse.bdstatic.com//3d2f7556a9a0d75ff6d9df6fa9e0717e.mp4
