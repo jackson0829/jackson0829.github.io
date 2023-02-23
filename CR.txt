@@ -276,12 +276,12 @@ Taiwan Plus ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞(循環播放),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+包青天(華視),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 大陸尋奇(中視),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 靖天電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
