@@ -452,7 +452,6 @@ CCTV-5,http://23.237.10.66:16007
 Tele Cine,http://23.237.10.66:16195
 国外台-2,http://23.237.10.66:16471
 
-
 快播230222,#genre#
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 壹新闻 HD,http://60.251.59.180:8501/.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
