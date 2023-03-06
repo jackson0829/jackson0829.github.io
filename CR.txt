@@ -400,6 +400,58 @@ CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 Radio Clock,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 KBS Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 
+123&23源0306,#genre#
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立Live新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞,rtmp://119.81.124.89/sat/tv551#rtmp://219.80.97.77/sat/tv551
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+东森财经新闻,http://123.51.230.108:18515/.m3u8
+台视,http://2023.stream-link.org/playlist/ttv#http://23.237.10.66:16344
+台视,http://123.51.230.108:18543/.m3u8
+民视HD,http://23.237.10.66:16334
+民视无线台,http://23.237.10.66:16334
+民视新闻台,http://123.51.230.108:18663/.m3u8
+中天综合,http://23.237.10.66:16372
+东森戏剧,http://123.51.230.108:18538/.m3u8
+八大第一台,http://123.51.230.108:18539/.m3u8
+龙华日韩,http://123.51.230.108:18551/.m3u8
+龙华戏剧,http://123.51.230.108:18513/.m3u8
+东森戏剧,http://123.51.230.108:18538/.m3u8
+东风37,http://123.51.230.108:18560/.m3u8
+大爱1台,http://123.51.230.108:18567/.m3u8
+嘉佳卡通,http://23.237.10.66:16662
+星卫娱乐台,http://23.237.10.66:16359
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+好消息,http://123.51.230.108:18507/.m3u8
+Star World,http://123.51.230.108:18504/.m3u8
+纬来综合,http://123.51.230.108:18540/.m3u8
+纬来育乐,http://123.51.230.108:18541/.m3u8
+纬来体育,http://123.51.230.108:18509/.m3u8
+印度电影,http://23.237.10.66:16054
+NHK,http://123.51.230.108:18525/.m3u8
+浙江卫视,http://123.51.230.108:18534/.m3u8
+凤凰卫视,http://123.51.230.108:18536/.m3u8
+上海卫视,http://123.51.230.108:18535/.m3u8
+凤凰电视HD1,http://123.51.230.108:18580/.m3u8
+凤凰电视HD2,http://123.51.230.108:18581/.m3u8
+翡翠华丽,http://23.237.10.66:16410
+大时代 GreatTime,http://23.237.10.66:16406
+TVB华丽台,http://23.237.10.66:16410
+MULTI SHOW,http://23.237.10.66:16124
+丹麦-Sportv2,http://23.237.10.66:16180
+翡翠台,http://23.237.10.66:16410
+Mediacorp Suria,http://23.237.10.66:16492
+CGTN Documentary,http://23.237.10.66:16473
+DIDIK TV,http://23.237.10.66:16404#http://23.237.10.66:16405#http://23.237.10.66:16405
+CGTN,http://23.237.10.66:16428
+CCTV-5,http://23.237.10.66:16007
+Tele Cine,http://23.237.10.66:16195
+国外台-2,http://23.237.10.66:16471
 
 
 快播230222,#genre#
