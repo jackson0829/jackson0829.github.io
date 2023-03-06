@@ -348,8 +348,8 @@ YT Live230302,#genre#
 東森財經,rtmp://119.81.124.89/sat/tv571#rtmp://219.80.97.77/sat/tv571
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立Live新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-TVBS新聞,rtmp://119.81.124.89/sat/tv551#rtmp://219.80.97.77/sat/tv551
-TVBS國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新闻,rtmp://119.81.124.89/sat/tv551#rtmp://219.80.97.77/sat/tv551
+TVBS亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -404,8 +404,8 @@ KBS Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立Live新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-TVBS新聞,rtmp://119.81.124.89/sat/tv551#rtmp://219.80.97.77/sat/tv551
-TVBS國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新闻,rtmp://219.80.97.77/sat/tv551#rtmp://119.81.124.89/sat/tv551
+TVBS亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
