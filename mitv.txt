@@ -1,4 +1,52 @@
-晴天0521台湾,#genre#
+新闻0521,#genre#
+寰宇新闻台,mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
+寰宇新闻台湾台,mitv://generationnexxxt.com:19806/6458c4bf000411595c95699b34765f35
+镜新闻,mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
+壹电视新闻台,mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
+年代新闻,mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
+台视新闻台,mitv://generationnexxxt.com:19806/6458c34b000df71b5c8fbf0c55f221b5
+台视财经台,mitv://generationnexxxt.com:19806/6458c34c00065a835c8fc1003c896dab
+now新闻台,mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
+东森新闻台,mitv://generationnexxxt.com:19806/64677d68000bfdc49616bfd746a567a3
+中天新闻台,mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
+民视新闻台,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
+三立新闻台,mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
+TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+东森财经新闻台,mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
+非凡新闻台,mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
+TNN 16,mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6
+JKN 18,mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6
+三立iNEWS,mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137
+Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
+DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
+Euronews,mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+HKC新闻台,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
+非凡商业台,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
+HKC财经资讯台,mitv://generationnexxxt.com:19806/eaa39196584e4c4eaeda40279785dfc6
+国会频道1,mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c
+国会频道2,mitv://generationnexxxt.com:19806/3f4b0cb786764e0c942390995ed9ed44
+CBSN,mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4
+Fox News,mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801
+中视新闻台,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
+华视新闻,mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
+NHK新闻资讯台,mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0
+NDTV,mitv://generationnexxxt.com:19806/7b86d682dfcf4b51949751ec1cc0757a
+ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
+东森新闻台(备),mitv://generationnexxxt.com:19806/645c9fee000e01606ba59bc415d52492
+Fox News,mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
+BBC World News,mitv://generationnexxxt.com:19806/645a7af7000a546f634536013ab664df
+CNN USA,mitv://generationnexxxt.com:19806/645a7af7000439b06345346b56b46fcf
+CBC News,mitv://generationnexxxt.com:19806/645a7af6000dcedb634532f4456543a4
+MSNBC,mitv://generationnexxxt.com:19806/645a7af600072b0c6345313e244860b8
+CTV News,mitv://generationnexxxt.com:19806/645a7af60000d58b63452fa83b7e2bac
+Business News Network,mitv://generationnexxxt.com:19806/645a790b000e9fc8633db53a27441f5d
+CP24,mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
+The Weather Network,mitv://generationnexxxt.com:19806/645a790b00024322633db20e6f60185f
+The Weather Channel,mitv://generationnexxxt.com:19806/645a790a000b00de633db05826c974b9
+
+
+台湾0521,#genre#
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民视,mitv://generationnexxxt.com:19806/645d085e0005113d6d3d8ef25af73081
 人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
@@ -194,61 +242,18 @@ Taiwan+,mitv://generationnexxxt.com:19806/440274e63a1e4db099c42291fa80f43b
 东森购物2台,mitv://generationnexxxt.com:19806/44be4ceee59e4f5fb65ec5c2aa672e35
 东森购物1台,mitv://generationnexxxt.com:19806/cc3ef976a9114c769714c313df7f1faf
 
-晴天0521新闻,#genre#
-壹电视新闻台,mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
-年代新闻,mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
-now新闻台,mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
-东森新闻台,mitv://generationnexxxt.com:19806/64677d68000bfdc49616bfd746a567a3
-中天新闻台,mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
-民视新闻台,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
-三立新闻台,mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
-TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-东森财经新闻台,mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
-非凡新闻台,mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
-TNN 16,mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6
-JKN 18,mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6
-三立iNEWS,mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137
-Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
-DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
-Euronews,mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822
-France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
-HKC新闻台,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
-非凡商业台,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
-HKC财经资讯台,mitv://generationnexxxt.com:19806/eaa39196584e4c4eaeda40279785dfc6
-国会频道1,mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c
-国会频道2,mitv://generationnexxxt.com:19806/3f4b0cb786764e0c942390995ed9ed44
-CBSN,mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4
-Fox News,mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801
-中视新闻台,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
-寰宇新闻台,mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
-华视新闻,mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
-NHK新闻资讯台,mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0
-NDTV,mitv://generationnexxxt.com:19806/7b86d682dfcf4b51949751ec1cc0757a
-ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
-台视新闻台,mitv://generationnexxxt.com:19806/6458c34b000df71b5c8fbf0c55f221b5
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/6458c4bf000411595c95699b34765f35
-台视财经台,mitv://generationnexxxt.com:19806/6458c34c00065a835c8fc1003c896dab
-东森新闻台(备),mitv://generationnexxxt.com:19806/645c9fee000e01606ba59bc415d52492
-镜新闻,mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
-Fox News,mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
-BBC World News,mitv://generationnexxxt.com:19806/645a7af7000a546f634536013ab664df
-CNN USA,mitv://generationnexxxt.com:19806/645a7af7000439b06345346b56b46fcf
-CBC News,mitv://generationnexxxt.com:19806/645a7af6000dcedb634532f4456543a4
-MSNBC,mitv://generationnexxxt.com:19806/645a7af600072b0c6345313e244860b8
-CTV News,mitv://generationnexxxt.com:19806/645a7af60000d58b63452fa83b7e2bac
-Business News Network,mitv://generationnexxxt.com:19806/645a790b000e9fc8633db53a27441f5d
-CP24,mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
-The Weather Network,mitv://generationnexxxt.com:19806/645a790b00024322633db20e6f60185f
-The Weather Channel,mitv://generationnexxxt.com:19806/645a790a000b00de633db05826c974b9
 
-晴天0521音乐,#genre#
+
+音乐0521,#genre#
 MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 Music Japan TV,mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea
 MTV Live,mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
 Mezzo Live,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
 CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
 CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
-晴天0521体育
+
+
+体育0521,#genre#
 CCTV5,mitv://generationnexxxt.com:19806/0126636bbd494267ae7f17c8abc8521f
 CCTV5+,mitv://generationnexxxt.com:19806/631fd43e577344b6ab6bd628dfa384ca
 魅力足球,mitv://generationnexxxt.com:19806/4f8ae19901604006bdf0708826db9862
@@ -323,7 +328,7 @@ Sky Sports Cricket,mitv://generationnexxxt.com:19806/645a7908000370cd633da6a43c4
 Sky Sports Action,mitv://generationnexxxt.com:19806/645a7907000bcca0633da4df6c275140
 Golf Channel,mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
 
-晴天0521少儿,#genre#
+少儿0521,#genre#
 CCTV14,mitv://generationnexxxt.com:19806/bf1a9f45f37f49568953fe97efe2ccb9
 CN卡通频道,mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82
 星空卫视,mitv://generationnexxxt.com:19806/ea86987738b4465482e6f2a122a6b3f8
@@ -346,7 +351,7 @@ Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 Hands Up,mitv://generationnexxxt.com:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
 
 
-晴天0521历史人文,#genre#
+历史人文0521,#genre#
 CCTV9,mitv://generationnexxxt.com:19806/bd1be015bfe94e53aab75e8b4a12bfe1
 国家地理频道,mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
 探索频道,mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
@@ -380,7 +385,7 @@ TV5MONDE Style 生活时尚,mitv://generationnexxxt.com:19806/d7524c09437e4caf95
 Travel Channel,mitv://generationnexxxt.com:19806/644e9b240008c0cb34e2da7f6b043e97
 
 
-晴天0521电影,#genre#
+电影0521,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/8cf06c01d4a14947a753a183865d1031
 天映频道,mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
 天映经典,mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6
