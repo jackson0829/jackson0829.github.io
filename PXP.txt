@@ -238,7 +238,7 @@ NHK,http://220.135.124.158:8088/live/80_h265.ts
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
-大人_543,#genre#
+大人,#genre#
 47,http://220.135.124.158:8088/live/94_h265.ts
 48,http://220.135.124.158:8088/live/95_h265.ts
 49,http://220.135.124.158:8088/live/96_h265.ts
