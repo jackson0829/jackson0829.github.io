@@ -175,44 +175,6 @@ NASA,http://tv.redrainl.site:9500/live.m3u8?c=84
 ORCALAB,http://tv.redrainl.site:9500/live.m3u8?c=87
 Animal advanture,http://tv.redrainl.site:9500/live.m3u8?c=86
 
-
-TWTest,#genre#
-民視,rtmp://119.81.124.89/sat/tv051
-台視,rtmp://119.81.124.89/sat/tv071
-中視,rtmp://119.81.124.89/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
-TVBS新聞,rtmp://119.81.124.89/sat/tv551
-TVBS歡樂,rtmp://119.81.124.89/sat/tv421
-東森財經新聞,rtmp://119.81.124.89/sat/tv571
-緯來育樂,rtmp://119.81.124.89/sat/tv701
-緯來體育,rtmp://119.81.124.89/sat/tv721
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-MOMO綜合,rtmp://119.81.124.89/sat/tv761
-緯來日本,rtmp://119.81.124.89/sat/tv771
-博斯網球,rtmp://119.81.124.89/sat/md031
-博斯網球,rtmp://119.81.124.89/sat/md041
-博斯運動,rtmp://119.81.124.89/sat/md051
-民視,rtmp://219.80.97.77/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-TVBS新聞,rtmp://219.80.97.77/sat/tv551
-TVBS歡樂,rtmp://219.80.97.77/sat/tv421
-東森財經新聞,rtmp://219.80.97.77/sat/tv571
-緯來育樂,rtmp://219.80.97.77/sat/tv701
-緯來體育,rtmp://219.80.97.77/sat/tv721
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-MOMO綜合,rtmp://219.80.97.77/sat/tv761
-緯來日本,rtmp://219.80.97.77/sat/tv771
-博斯網球,rtmp://219.80.97.77/sat/md031
-博斯網球,rtmp://219.80.97.77/sat/md041
-博斯運動,rtmp://219.80.97.77/sat/md051
-
-
-
-
 TVpro230218,#genre#
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 壹新聞 HD,http://60.251.59.180:8501/.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8#http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
