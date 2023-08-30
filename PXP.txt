@@ -1,5 +1,5 @@
 
-晴天,#genre#
+晴天230829,#genre#
 台視新聞台,P2p://generationnexxxt.com:19806/b15cfa00997b433185d8bb8fc49a9b58
 寰宇新聞台灣台,P2p://generationnexxxt.com:19806/17cea65bbdd4497587905e2f6a06240a
 台視財經台,P2p://generationnexxxt.com:19806/614b9e5307774bb683a895391ca263d2
