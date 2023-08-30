@@ -1,5 +1,5 @@
 
-晴天230829,#genre#
+彎彎230829,#genre#
 
 寰宇新聞台灣台,P2p://generationnexxxt.com:19806/17cea65bbdd4497587905e2f6a06240a
 寰宇新聞台,P2p://generationnexxxt.com:19806/7e0e534ede5e4405a05ca5e668cb5fb1
@@ -174,6 +174,9 @@ EYE TV戲劇台,P2p://generationnexxxt.com:19806/a70928ae9f804b39a75838815c95f0f
 MTV,P2p://generationnexxxt.com:19806/a9bcedc7e41c4eacb83008786065a85d
 東森購物1台,P2p://generationnexxxt.com:19806/d6f1c9e84eb24e358ec5772b617f3837
 東森購物2台,P2p://generationnexxxt.com:19806/66a69171ec124d1bb1ba9ece9640217f
+
+
+港澳230829,#genre#
 CHC動作電影,P2p://generationnexxxt.com:19806/855bc155c26d489698a02a890f1684a2
 CHC高清电影,P2p://generationnexxxt.com:19806/78626ad4571f474fa6b5044c0d003d4e
 CHC家庭影院,P2p://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d237154047
@@ -232,6 +235,9 @@ Astro AOD HD 311,P2p://generationnexxxt.com:19806/9050c1d0fefc4576aa6339fc2f3383
 中天亞洲台,P2p://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
 天映經典,P2p://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
 Astro歡喜台,P2p://generationnexxxt.com:19806/808f3ef554f34e559f91e005ef819803
+
+
+全球230829,#genre#
 KBS World,P2p://generationnexxxt.com:19806/64c365ec000c405afd1b337051f04b9d
 TVS,P2p://generationnexxxt.com:19806/fc5a120a8cc0426d8d5c6bd316b8eed7
 tvN Movies HD,P2p://generationnexxxt.com:19806/e44fe8b971a04543a11e412959693f7a
