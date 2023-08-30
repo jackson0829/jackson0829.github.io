@@ -176,7 +176,7 @@ ORCALAB,http://tv.redrainl.site:9500/live.m3u8?c=87
 Animal advanture,http://tv.redrainl.site:9500/live.m3u8?c=86
 
 
-TW_Test,#genre#
+TWTest,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 台視,rtmp://119.81.124.89/sat/tv071
 中視,rtmp://119.81.124.89/sat/tv091
