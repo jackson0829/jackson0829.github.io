@@ -21,9 +21,6 @@ Boomerang,https://i.125011.xyz/live.php?auth=230930&id=boom
 東森戲劇,https://i.125011.xyz/live.php?auth=230930&id=dsxj
 東森洋片,https://i.125011.xyz/live.php?auth=230930&id=dsyp
 龍祥時代,https://i.125011.xyz/live.php?auth=230930&id=lxdy
-三立都會HD,http://154.36.187.125/藍山.php?cid=live1020&p=5003
-MUCH TV,http://154.36.187.125/藍山.php?cid=live1189&p=5003
-三立台灣,http://154.36.187.125/藍山.php?cid=live1021&p=5003
 好萊塢電影,https://i.125011.xyz/live.php?auth=230930&id=hlw
 靖天電影,https://i.125011.xyz/live.php?auth=230930&id=jtdy
 靖洋戲劇,https://i.125011.xyz/live.php?auth=230930&id=jtxj
