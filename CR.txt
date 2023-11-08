@@ -1,6 +1,7 @@
 
 SuperTV源231108,#genre#
-寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇新聞,https://i.125011.xyz/live.php?auth=230930&id=hyxw
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://ytm2.yuanhsing.cf/setmoney159.m3u8#https://ytm2.yuanhsing.cf/setmoney159.m3u8
