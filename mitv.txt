@@ -1,6 +1,7 @@
 晴天台湾231205,#genre#
 寰宇新闻台,mitv://generationnexxxt.com:19806/75bda75edec84a58bf2c84bd7becf293
 寰宇新闻台湾台,mitv://generationnexxxt.com:19806/f90e610b84a449629f78157c7fbe000f
+镜新闻,mitv://generationnexxxt.com:19806/eecef8b64014440aaf5a38902449c7ba
 壹电视新闻台,mitv://generationnexxxt.com:19806/2a942304bb09461991469a342d45be7c
 年代新闻,mitv://generationnexxxt.com:19806/02859632a4f44d129592493beeee6ba7
 东森新闻台,mitv://generationnexxxt.com:19806/832cf77e784847b3ad437d844669ba40
@@ -50,7 +51,6 @@ BBCWorldNews,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 BloombergTV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-
 卫视电影台,mitv://generationnexxxt.com:19806/284c20aa99dd44a0856f26ab6d896f4c
 东森电影台,mitv://generationnexxxt.com:19806/f24f7f109d69491da8fbd20cb1b2eebd
 纬来电影台,mitv://generationnexxxt.com:19806/6160319318a3418e821d8bc74632ab2a
@@ -171,7 +171,6 @@ EYETV戏剧台,mitv://generationnexxxt.com:19806/cd6da14318f94349af694a75016299b
 中视(备),mitv://generationnexxxt.com:19806/3fec360233c04a118b83033439d48e72
 华视(备),mitv://generationnexxxt.com:19806/84f1379996eb4e9c9098c84c076b3f73
 东森新闻台(备),mitv://generationnexxxt.com:19806/29ff5cb8d7ee4f6e99774cf306029c0f
-镜新闻,mitv://generationnexxxt.com:19806/eecef8b64014440aaf5a38902449c7ba
 MTV,mitv://generationnexxxt.com:19806/dc9b5997db4243209efa4ad5a131fb63
 东森购物1台,mitv://generationnexxxt.com:19806/798b8d0bafc64a8ba76ec72261161441
 东森购物2台,mitv://generationnexxxt.com:19806/5f772105c0ec4906b9027f245126171a
