@@ -1,3 +1,415 @@
+
+8bb88,#genre#
+  0,https://8bb88.cdnedge.live/file/avple-images/hls/617c5075f0db60036839e94c/playlist.m3u8
+  1,https://8bb88.cdnedge.live/file/avple-images/hls/618070514d383b66797a697c/playlist.m3u8
+  2,https://8bb88.cdnedge.live/file/avple-images/hls/618074134d383b66797a6982/playlist.m3u8
+  3,https://8bb88.cdnedge.live/file/avple-images/hls/618627fd26bdd144b598cbda/playlist.m3u8
+  4,https://8bb88.cdnedge.live/file/avple-images/hls/618d1a31608a75437203bdfe/playlist.m3u8
+  5,https://8bb88.cdnedge.live/file/avple-images/hls/618d1df1608a75437203be01/playlist.m3u8
+  6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8
+  7,https://8bb88.cdnedge.live/file/avple-images/hls/6193b96d1ab2cd467ae53596/playlist.m3u8
+  8,https://8bb88.cdnedge.live/file/avple-images/hls/6193bc011ab2cd467ae5359b/playlist.m3u8
+  9,https://8bb88.cdnedge.live/file/avple-images/hls/619508d2416cf262e9444a28/playlist.m3u8
+  10,https://8bb88.cdnedge.live/file/avple-images/hls/6197ac0df1d93a199d1cf177/playlist.m3u8
+  11,https://8bb88.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
+  12,https://8bb88.cdnedge.live/file/avple-images/hls/619c02fdf0d6ad68f95a08ab/playlist.m3u8
+  13,https://8bb88.cdnedge.live/file/avple-images/hls/619c0375f0d6ad68f95a08ac/playlist.m3u8
+  124,https://d862cp.cdnedge.live/file/avple-images/hls/618b97b552fe307992e9158b/playlist.m3u8
+  125,https://d862cp.cdnedge.live/file/avple-images/hls/6190b7813e002b78fa02b86c/playlist.m3u8
+  126,https://d862cp.cdnedge.live/file/avple-images/hls/6193bc3d1ab2cd467ae5359c/playlist.m3u8
+  127,https://d862cp.cdnedge.live/file/avple-images/hls/61965529647fa6021841bd50/playlist.m3u8
+  128,https://d862cp.cdnedge.live/file/avple-images/hls/619951b14a94103a79bc9486/playlist.m3u8
+  129,https://d862cp.cdnedge.live/file/avple-images/hls/619a41ed8a9163545f3c8173/playlist.m3u8
+  130,https://d862cp.cdnedge.live/file/avple-images/hls/619e96c1364f6c1f6030fe58/playlist.m3u8
+  131,https://d862cp.cdnedge.live/file/avple-images/hls/62c049e68a72962dc53aa5a2/playlist.m3u8
+  132,https://d862cp.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
+  133,https://d862cp.cdnedge.live/file/avple-images/hls/61730a0116713849c8fc4706/playlist.m3u8
+  134,https://d862cp.cdnedge.live/file/avple-images/hls/617835fd6275b513e05eef0a/playlist.m3u8
+  135,https://d862cp.cdnedge.live/file/avple-images/hls/617a0469933dae5425d49b8e/playlist.m3u8
+  136,https://d862cp.cdnedge.live/file/avple-images/hls/617c4ed1f0db60036839e949/playlist.m3u8
+  137,https://d862cp.cdnedge.live/file/avple-images/hls/617e2661eb87aa24a1c4102b/playlist.m3u8
+  138,https://d862cp.cdnedge.live/file/avple-images/hls/628cad88de01360ccb2f8e97/playlist.m3u8
+  139,https://d862cp.cdnedge.live/file/avple-images/hls/6249250addaa1830ff7bacb9/playlist.m3u8
+  140,https://d862cp.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
+  0,https://e2fa6.cdnedge.live/file/avple-images/hls/6202e4a6152c48301ba2ac78/playlist.m3u8
+  1,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd44779a324ef83699bb/playlist.m3u8
+  2,https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
+  3,https://e2fa6.cdnedge.live/file/avple-images/hls/61703dc1bc5c965ae4f56245/playlist.m3u8
+  4,https://e2fa6.cdnedge.live/file/avple-images/hls/61771d35ad20e84f6e46a0aa/playlist.m3u8
+  5,https://e2fa6.cdnedge.live/file/avple-images/hls/61771e25ad20e84f6e46a0ac/playlist.m3u8
+  6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8
+  7,https://e2fa6.cdnedge.live/file/avple-images/hls/617837656275b513e05eef0c/playlist.m3u8
+  8,https://e2fa6.cdnedge.live/file/avple-images/hls/617a051e933dae5425d49b90/playlist.m3u8
+  9,https://e2fa6.cdnedge.live/file/avple-images/hls/617c51a1f0db60036839e94f/playlist.m3u8
+  10,https://e2fa6.cdnedge.live/file/avple-images/hls/617e287deb87aa24a1c4102f/playlist.m3u8
+  11,https://e2fa6.cdnedge.live/file/avple-images/hls/618072314d383b66797a6980/playlist.m3u8
+  12,https://e2fa6.cdnedge.live/file/avple-images/hls/618335c586d3713512d4ddaf/playlist.m3u8
+  13,https://e2fa6.cdnedge.live/file/avple-images/hls/61869d2d8928100853d28993/playlist.m3u8
+  14,https://e2fa6.cdnedge.live/file/avple-images/hls/61892c4135829357ea3d3e9a/playlist.m3u8
+  15,https://e2fa6.cdnedge.live/file/avple-images/hls/618b96c552fe307992e91589/playlist.m3u8
+  16,https://e2fa6.cdnedge.live/file/avple-images/hls/6190b7eed11a877902683210/playlist.m3u8
+  17,https://e2fa6.cdnedge.live/file/avple-images/hls/6190b7f93e002b78fa02b86d/playlist.m3u8
+  18,https://e2fa6.cdnedge.live/file/avple-images/hls/6190b8713e002b78fa02b86f/playlist.m3u8
+  19,https://e2fa6.cdnedge.live/file/avple-images/hls/6197acc2f1d93a199d1cf179/playlist.m3u8
+  20,https://e2fa6.cdnedge.live/file/avple-images/hls/6197af56f1d93a199d1cf17a/playlist.m3u8
+  21,https://e2fa6.cdnedge.live/file/avple-images/hls/619952654a94103a79bc9488/playlist.m3u8
+  22,https://e2fa6.cdnedge.live/file/avple-images/hls/61a28745c4f43c7ba5009c24/playlist.m3u8
+  23,https://e2fa6.cdnedge.live/file/avple-images/hls/61a28961c4f43c7ba5009c28/playlist.m3u8
+  24,https://e2fa6.cdnedge.live/file/avple-images/hls/61a67da5a04cdb55de21fe94/playlist.m3u8
+  25,https://e2fa6.cdnedge.live/file/avple-images/hls/61a7d3d57aac5d7ef57bda21/playlist.m3u8
+  26,https://e2fa6.cdnedge.live/file/avple-images/hls/61a7d4117aac5d7ef57bda22/playlist.m3u8
+  27,https://e2fa6.cdnedge.live/file/avple-images/hls/61a940fd0791fe25b65cea19/playlist.m3u8
+  28,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd32779a324ef83699a0/playlist.m3u8
+  29,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd3d779a324ef83699b1/playlist.m3u8
+  30,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd41779a324ef83699b7/playlist.m3u8
+  105,https://je40u.cdnedge.live/file/avple-images/hls/62aaca9721a7da2e6584bc7f/playlist.m3u8
+  106,https://je40u.cdnedge.live/file/avple-images/hls/62aace5621a7da2e6584bc84/playlist.m3u8
+  107,https://je40u.cdnedge.live/file/avple-images/hls/62ac67c91ea6384bb6ca9f8d/playlist.m3u8
+  108,https://je40u.cdnedge.live/file/avple-images/hls/62bbef03ea3d425e0a93b7a1/playlist.m3u8
+  109,https://je40u.cdnedge.live/file/avple-images/hls/62bbf02fea3d425e0a93b7a4/playlist.m3u8
+  110,https://je40u.cdnedge.live/file/avple-images/hls/62bbf592ea3d425e0a93b7ad/playlist.m3u8
+  111,https://je40u.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+  112,https://je40u.cdnedge.live/file/avple-images/hls/62bd88b4d0fa6a48496bbf5f/playlist.m3u8
+  113,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+  114,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+  114,https://je40u.cdnedge.live/file/avple-images/hls/61703eedbc5c965ae4f56247/playlist.m3u8
+  115,https://je40u.cdnedge.live/file/avple-images/hls/6171a891f8003d17dfd1a737/playlist.m3u8
+  116,https://je40u.cdnedge.live/file/avple-images/hls/6173085d16713849c8fc4703/playlist.m3u8
+  117,https://je40u.cdnedge.live/file/avple-images/hls/61771a65ad20e84f6e46a0a5/playlist.m3u8
+  118,https://je40u.cdnedge.live/file/avple-images/hls/617789ac4835757d4271a1ec/playlist.m3u8
+  119,https://je40u.cdnedge.live/file/avple-images/hls/617c4e1df0db60036839e947/playlist.m3u8
+  120,https://je40u.cdnedge.live/file/avple-images/hls/617c50edf0db60036839e94d/playlist.m3u8
+  121,https://je40u.cdnedge.live/file/avple-images/hls/617e2716eb87aa24a1c4102c/playlist.m3u8
+  122,https://je40u.cdnedge.live/file/avple-images/hls/61806fda4d383b66797a697b/playlist.m3u8
+  123,https://je40u.cdnedge.live/file/avple-images/hls/6183354d86d3713512d4ddae/playlist.m3u8
+  124,https://je40u.cdnedge.live/file/avple-images/hls/618463a6fddb3b0ce1f32687/playlist.m3u8
+  125,https://je40u.cdnedge.live/file/avple-images/hls/6186261e26bdd144b598cbd6/playlist.m3u8
+  126,https://je40u.cdnedge.live/file/avple-images/hls/6186274926bdd144b598cbd9/playlist.m3u8
+  127,https://je40u.cdnedge.live/file/avple-images/hls/61869e1d8928100853d28995/playlist.m3u8
+  128,https://je40u.cdnedge.live/file/avple-images/hls/618b991e52fe307992e9158f/playlist.m3u8
+  129,https://je40u.cdnedge.live/file/avple-images/hls/618e6959f061a16282b2ee9a/playlist.m3u8
+  130,https://je40u.cdnedge.live/file/avple-images/hls/6190bac93e002b78fa02b873/playlist.m3u8
+  131,https://je40u.cdnedge.live/file/avple-images/hls/61de143126bc6674a0936d20/playlist.m3u8
+  132,https://je40u.cdnedge.live/file/avple-images/hls/624eec006d742407ed435446/playlist.m3u8
+  133,https://je40u.cdnedge.live/file/avple-images/hls/628cd91fde01360ccb2f8e9f/playlist.m3u8
+  0,https://q2cyl7.cdnedge.live/file/avple-images/hls/61846201fddb3b0ce1f32683/playlist.m3u8
+  1,https://q2cyl7.cdnedge.live/file/avple-images/hls/618624b526bdd144b598cbd3/playlist.m3u8
+  2,https://q2cyl7.cdnedge.live/file/avple-images/hls/61869c018928100853d28991/playlist.m3u8
+  3,https://q2cyl7.cdnedge.live/file/avple-images/hls/61892bc935829357ea3d3e99/playlist.m3u8
+  4,https://q2cyl7.cdnedge.live/file/avple-images/hls/618b999552fe307992e91590/playlist.m3u8
+  5,https://q2cyl7.cdnedge.live/file/avple-images/hls/6190b9613e002b78fa02b870/playlist.m3u8
+  6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8
+  7,https://q2cyl7.cdnedge.live/file/avple-images/hls/6192bae589e9d231c0a0b0e8/playlist.m3u8
+  8,https://q2cyl7.cdnedge.live/file/avple-images/hls/619a42298a9163545f3c8174/playlist.m3u8
+  9,https://q2cyl7.cdnedge.live/file/avple-images/hls/619c0286f0d6ad68f95a08aa/playlist.m3u8
+  10,https://q2cyl7.cdnedge.live/file/avple-images/hls/619d547d44b3af0456c438a7/playlist.m3u8
+  11,https://q2cyl7.cdnedge.live/file/avple-images/hls/61a287f9c4f43c7ba5009c26/playlist.m3u8
+  12,https://q2cyl7.cdnedge.live/file/avple-images/hls/61a5251da992bd3d5c3eb61a/playlist.m3u8
+  13,https://q2cyl7.cdnedge.live/file/avple-images/hls/61a940490791fe25b65cea17/playlist.m3u8
+  14,https://q2cyl7.cdnedge.live/file/avple-images/hls/61a940c10791fe25b65cea18/playlist.m3u8
+  15,https://q2cyl7.cdnedge.live/file/avple-images/hls/61accd46779a324ef83699bd/playlist.m3u8
+  16,https://q2cyl7.cdnedge.live/file/avple-images/hls/61b051aacb1e9c2565068be6/playlist.m3u8
+  17,https://q2cyl7.cdnedge.live/file/avple-images/hls/61b46f69f91a1b0eecb6e533/playlist.m3u8
+  
+u89ey,#genre#
+79,https://u89ey.cdnedge.live/file/avple-images/hls/6236b11e1222e41c629a932a/playlist.m3u8
+80,https://u89ey.cdnedge.live/file/avple-images/hls/6238245f3f90d26204d0e679/playlist.m3u8
+81,https://u89ey.cdnedge.live/file/avple-images/hls/6242c15681f80f77774148cd/playlist.m3u8
+82,https://u89ey.cdnedge.live/file/avple-images/hls/624426335b48055614930059/playlist.m3u8
+83,https://u89ey.cdnedge.live/file/avple-images/hls/6249a0afeb0b5f202d561603/playlist.m3u8
+84,https://u89ey.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d56161a/playlist.m3u8
+85,https://u89ey.cdnedge.live/file/avple-images/hls/624d7cc08d83843ab3a678c7/playlist.m3u8
+86,https://u89ey.cdnedge.live/file/avple-images/hls/6250349af06f665330ec2bdc/playlist.m3u8
+87,https://u89ey.cdnedge.live/file/avple-images/hls/6251a557b9fdae53fd99957c/playlist.m3u8
+88,https://u89ey.cdnedge.live/file/avple-images/hls/6251a557b9fdae53fd99957d/playlist.m3u8
+89,https://u89ey.cdnedge.live/file/avple-images/hls/6254986f3d5bac30b2603dc2/playlist.m3u8
+90,https://u89ey.cdnedge.live/file/avple-images/hls/6256b161bd35195668774558/playlist.m3u8
+91,https://u89ey.cdnedge.live/file/avple-images/hls/626bd95120859323fc450d75/playlist.m3u8
+92,https://u89ey.cdnedge.live/file/avple-images/hls/626fb4473ddea14c11aa4aac/playlist.m3u8
+93,https://u89ey.cdnedge.live/file/avple-images/hls/626fb8423ddea14c11aa4ab1/playlist.m3u8
+94,https://u89ey.cdnedge.live/file/avple-images/hls/627678103847697e5124b6dc/playlist.m3u8
+95,https://u89ey.cdnedge.live/file/avple-images/hls/627678c43847697e5124b6dd/playlist.m3u8
+96,https://u89ey.cdnedge.live/file/avple-images/hls/6276793c3847697e5124b6de/playlist.m3u8
+97,https://u89ey.cdnedge.live/file/avple-images/hls/627a5a0c1a1d9a347dd9853e/playlist.m3u8
+98,https://u89ey.cdnedge.live/file/avple-images/hls/627cdcf62568f9623a3e5421/playlist.m3u8
+99,https://u89ey.cdnedge.live/file/avple-images/hls/627d162bafbf916250ff4d8b/playlist.m3u8
+100,https://u89ey.cdnedge.live/file/avple-images/hls/627e66b4c60346652e396c80/playlist.m3u8
+101,https://u89ey.cdnedge.live/file/avple-images/hls/6280b154fc27be165aeb81d2/playlist.m3u8
+102,https://u89ey.cdnedge.live/file/avple-images/hls/6280b821fc27be165aeb81da/playlist.m3u8
+103,https://u89ey.cdnedge.live/file/avple-images/hls/6280bd0bfc27be165aeb81de/playlist.m3u8
+104,https://u89ey.cdnedge.live/file/avple-images/hls/6280be37fc27be165aeb81e0/playlist.m3u8
+105,https://u89ey.cdnedge.live/file/avple-images/hls/6284e288c71b08247ee18e2f/playlist.m3u8
+106,https://u89ey.cdnedge.live/file/avple-images/hls/6284e33bc71b08247ee18e31/playlist.m3u8
+107,https://u89ey.cdnedge.live/file/avple-images/hls/628798c2d28d4f134ac6904a/playlist.m3u8
+108,https://u89ey.cdnedge.live/file/avple-images/hls/6288471dd28d4f134ac69054/playlist.m3u8
+109,https://u89ey.cdnedge.live/file/avple-images/hls/6289a97bb982a351108bf732/playlist.m3u8
+110,https://u89ey.cdnedge.live/file/avple-images/hls/62aad0ac21a7da2e6584bc88/playlist.m3u8
+111,https://u89ey.cdnedge.live/file/avple-images/hls/62ac63931ea6384bb6ca9f87/playlist.m3u8
+112,https://u89ey.cdnedge.live/file/avple-images/hls/62ac65ec1ea6384bb6ca9f89/playlist.m3u8
+113,https://u89ey.cdnedge.live/file/avple-images/hls/62aecbbdc556631aff1378eb/playlist.m3u8
+114,https://u89ey.cdnedge.live/file/avple-images/hls/62b1b8cceec8264ea0826f2e/playlist.m3u8
+115,https://u89ey.cdnedge.live/file/avple-images/hls/62bbed9fea3d425e0a93b79e/playlist.m3u8
+116,https://u89ey.cdnedge.live/file/avple-images/hls/62bee355e8dd79755d817bbb/playlist.m3u8
+117,https://u89ey.cdnedge.live/file/avple-images/hls/62c168c8b70f0f5e88542c50/playlist.m3u8
+118,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+119,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+120,https://u89ey.cdnedge.live/file/avple-images/hls/628ab86ea1c1cd0b44683efe/playlist.m3u8
+121,https://u89ey.cdnedge.live/file/avple-images/hls/628ab95fa1c1cd0b44683f01/playlist.m3u8
+122,https://u89ey.cdnedge.live/file/avple-images/hls/628b5ed8478a7e4e23bce257/playlist.m3u8
+123,https://u89ey.cdnedge.live/file/avple-images/hls/628b5ed9478a7e4e23bce258/playlist.m3u8
+124,https://u89ey.cdnedge.live/file/avple-images/hls/628cc5adde01360ccb2f8e9c/playlist.m3u8
+125,https://u89ey.cdnedge.live/file/avple-images/hls/628cc65ede01360ccb2f8e9d/playlist.m3u8
+126,https://u89ey.cdnedge.live/file/avple-images/hls/628f6925531f007e5ba30af3/playlist.m3u8
+127,https://u89ey.cdnedge.live/file/avple-images/hls/628f8453531f007e5ba30afe/playlist.m3u8
+FOCS-016工藤拉拉,https://siwazywcdn2.com:5278/zhongwenzimu/6akEMW0r/index.m3u8
+  FSDSS-039美乃,https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+  FSDSS-179三浦乃爱,https://siwazywcdn2.com:5278/zhongwenzimu/uS0fPCmg/index.m3u8
+  JUFE-104,https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
+  JUFE-104,https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
+  WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
+老逗01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
+老逗02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
+老逗04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
+老逗05,https://video2.51daao.com/btt1/2021/07/20210708/638JxHDT/index.m3u8
+老逗06,https://video2.51daao.com/btt1/2021/07/20210708/p0Rc4r0U/index.m3u8
+122919-001,https://vip1.slbfsl.com/20220818/NIv30dQm/index.m3u8
+  122919-001,https://aosikazy12.com/20220929/UxHqai85/index.m3u8
+  122919-001,https://vod3.ttbfp5.com/20230402/lapGjIZH/index.m3u8
+  041210-345,https://vip1.slbfsl.com/20220818/C9vACssS/index.m3u8
+  041210-345,https://aosikazy12.com/20220929/iqUTZL9A/index.m3u8
+  122819-001,https://vip1.slbfsl.com/20220818/muZFQwbr/index.m3u8
+  122819-001,https://aosikazy12.com/20220929/7dcRQciZ/index.m3u8
+  122819-001,https://vod3.ttbfp5.com/20230402/tfPSfZZ0/index.m3u8
+  ハメタク３?特別編集版?,https://vip1.slbfsl.com/20220818/CosC4oYf/index.m3u8
+  ハメタク３?特別編集版?,https://aosikazy12.com/20220929/AoUHqOJz/index.m3u8
+  FC2PPV-1233512,https://vip1.slbfsl.com/20220818/TzDcD8Ah/index.m3u8
+  FC2PPV-1233512,https://aosikazy12.com/20220929/cTOx9X8F/index.m3u8
+  FC2PPV-1233512,https://vod3.ttbfp5.com/20230407/eJqn753A/index.m3u8
+  FC2PPV-1226620,https://vip1.slbfsl.com/20220818/kBbmLn4y/index.m3u8
+  FC2PPV-1226620,https://aosikazy12.com/20220929/RRvqSCzZ/index.m3u8
+  FC2PPV-1234565,https://vip1.slbfsl.com/20220818/ZfYfH9C6/index.m3u8
+  FC2PPV-1234565,https://aosikazy12.com/20220929/9wkupPdS/index.m3u8
+  FC2PPV-1234565,https://vod3.ttbfp5.com/20230409/mBYj4GQf/index.m3u8
+  File.1,https://vip1.slbfsl.com/20220818/2pf4qhUP/index.m3u8
+  File.1,https://aosikazy12.com/20220929/4G1vjG8V/index.m3u8
+  File.016,https://vip1.slbfsl.com/20220818/G8xaGLd7/index.m3u8
+  File.016,https://aosikazy12.com/20220929/bNIV0MmE/index.m3u8
+  （モザイク有り,https://vip1.slbfsl.com/20220818/93Hh6lHR/index.m3u8
+  （モザイク有り,https://vod3.ttbfp5.com/20230409/1BMrtuV4/index.m3u8
+  FC2PPV-1244095,https://vip1.slbfsl.com/20220818/BN5TvwMw/index.m3u8
+  FC2PPV-1244095,https://aosikazy12.com/20220929/CERN3y68/index.m3u8
+  FC2PPV-1233604,https://vip1.slbfsl.com/20220818/jqKkWyyd/index.m3u8
+  FC2PPV-1233604,https://aosikazy12.com/20220929/t8ohaxz8/index.m3u8
+  FC2PPV-1233604,https://vod3.ttbfp5.com/20230407/T4qAukhF/index.m3u8
+  FC2PPV-1244176,https://vip1.slbfsl.com/20220818/7L5YqnLK/index.m3u8
+  FC2PPV-1244083,https://vip1.slbfsl.com/20220818/iOoPY6MR/index.m3u8
+  FC2PPV-1244083,https://aosikazy12.com/20220929/pXewETjV/index.m3u8
+  FC2PPV-1244083,https://vod3.ttbfp5.com/20230411/bvixSHRz/index.m3u8
+  FC2PPV-1233280,https://vip1.slbfsl.com/20220818/KgBwuuXd/index.m3u8
+  FC2PPV-1233280,https://aosikazy12.com/20220929/B1EpeDn4/index.m3u8
+  ロシアンハーフの淫猥ボディに釘付け！,https://vip1.slbfsl.com/20220818/RnaA4nUJ/index.m3u8
+  ロシアンハーフの淫猥ボディに釘付け！,https://aosikazy12.com/20220929/vqDtGz6H/index.m3u8
+  ロシアンハーフの淫猥ボディに釘付け！,https://vod3.ttbfp5.com/20230330/XrrSkXRa/index.m3u8
+  FC2PPV-1244053,https://vip1.slbfsl.com/20220818/OIBBm9oz/index.m3u8
+  FC2PPV-1244053,https://aosikazy12.com/20220929/XyAe9nMa/index.m3u8
+  FC2PPV-1243939,https://vip1.slbfsl.com/20220818/9imKQSIQ/index.m3u8
+  FC2PPV-1243939,https://aosikazy12.com/20220929/Eh6SlwaI/index.m3u8
+  未公開,https://vip1.slbfsl.com/20220818/KWTP14NJ/index.m3u8
+  未公開,https://aosikazy12.com/20220929/L6edNzE1/index.m3u8
+  （モザイク有り）,https://vip1.slbfsl.com/20220818/JIeBdXz6/index.m3u8
+  （モザイク有り）,https://aosikazy12.com/20220929/91cycSZd/index.m3u8
+  FC2PPV-1230185,https://vip1.slbfsl.com/20220818/cfLQAd1X/index.m3u8
+  FC2PPV-1230185,https://aosikazy12.com/20220929/jcDj53ii/index.m3u8
+  流出,https://vip1.slbfsl.com/20220818/qqdqRwTP/index.m3u8
+  流出,https://aosikazy12.com/20221002/NhWaF731/index.m3u8
+  流出,https://vod3.ttbfp5.com/20230416/3300BkUm/index.m3u8
+  FC2PPV-1273728,https://vip1.slbfsl.com/20220818/uKVgYOkP/index.m3u8
+  FC2PPV-1273728,https://aosikazy12.com/20221002/Iicmd4ok/index.m3u8
+  大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://vip1.slbfsl.com/20220818/3icNeBht/index.m3u8
+  大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://aosikazy12.com/20221002/OIif3CVo/index.m3u8
+  大音量マン屁ブヒブヒッ！潮吹きビュービュー！激カワ美巨乳元CAが快感に耐え切れず恥ずかしい音を漏らしながら絶叫生中出しセックス！,https://vod3.ttbfp5.com/20230418/6WH9eFL1/index.m3u8
+  結局、返済出来ずに体で払う羽目に???,https://vip1.slbfsl.com/20220818/7sMwmp0G/index.m3u8
+  結局、返済出来ずに体で払う羽目に???,https://aosikazy12.com/20221002/Lsgva5bd/index.m3u8
+  【個撮】商業科のギャル③快楽に耐えきれず生の肉棒を入れられ甘い声を響かせる,https://vip1.slbfsl.com/20220818/VNWp8fuL/index.m3u8
+  【個撮】商業科のギャル③快楽に耐えきれず生の肉棒を入れられ甘い声を響かせる,https://aosikazy12.com/20221002/GgcFwhj3/index.m3u8
+  貸出し,https://vip1.slbfsl.com/20220818/1PfbFWpI/index.m3u8
+  貸出し,https://aosikazy12.com/20221002/sFXVhLWH/index.m3u8
+  【生ドル?未修正】矢〇亜希子激似が声を我慢して本気汁ダク生ハメ２連発!!,https://vip1.slbfsl.com/20220818/oMYV4pWn/index.m3u8
+  【生ドル?未修正】矢〇亜希子激似が声を我慢して本気汁ダク生ハメ２連発!!,https://aosikazy12.com/20221002/F3VmmoMv/index.m3u8
+  パパの言うことなら何でも聞くよ,https://vip2.slbfsl.com/20230330/cLTWN31a/index.m3u8
+  ねっとりベロチュー、みっちりセックス～グチョグチョにしてほしい,https://vip2.slbfsl.com/20230331/2cHwPFn3/index.m3u8
+  はいてる下着を買い取らせて下さい！,https://vip2.slbfsl.com/20230331/bNczsrvO/index.m3u8
+  9～,https://vip2.slbfsl.com/20230331/E4rKi9vD/index.m3u8
+  ハロウィンコスでイカせてア?ゲ?ル！,https://vip2.slbfsl.com/20230331/MxKvyGTt/index.m3u8
+  7?,https://vip2.slbfsl.com/20230331/ggHwX8YL/index.m3u8
+  パイパン娘が面接に来たから体験撮影で即ハメ生中出し,https://vip2.slbfsl.com/20230331/od4AUxII/index.m3u8
+  417,https://vip2.slbfsl.com/20230331/Fsvavlcl/index.m3u8
+  もうっ！そんなにオッパイ攻められたらビクビクしちゃう,https://vip2.slbfsl.com/20230402/eBj27cKi/index.m3u8
+  みことのオッパイを徹底的に責めてみました,https://vip2.slbfsl.com/20230402/YSHCoJtE/index.m3u8
+  メイドカフェ店員★ツインテールの萌え萌え美女はアニメ声のМ女！パイパンのオマンコに大量中出しをします！,https://vip2.slbfsl.com/20230402/6VBAM4sJ/index.m3u8
+  マン筋際立つぱっつぱつの競泳水着,https://vip2.slbfsl.com/20230402/5aJvcy0n/index.m3u8
+  ～欲求不満な友達のママ～,https://vip2.slbfsl.com/20230402/IzNklLM6/index.m3u8
+  ?寝顔がキュートな友達のママ?,https://vip2.slbfsl.com/20230402/r8L5uBWJ/index.m3u8
+  ムチムチデカ尻奧様,https://vip2.slbfsl.com/20230402/nveODNqC/index.m3u8
+  みっちりセックス～たくさんキスしてほしい！,https://vip2.slbfsl.com/20230402/7Iu6ZYUO/index.m3u8
+  メガネ外したら更にロリカワユス！,https://vip2.slbfsl.com/20230402/KY9kzGCF/index.m3u8
+  ~,https://vip2.slbfsl.com/20230402/LnDj3x8X/index.m3u8
+  マシュマロのようなおっぱい,https://vip2.slbfsl.com/20230402/Xt7AZqdl/index.m3u8
+  ポップ,https://vip2.slbfsl.com/20230403/uuXu7K6p/index.m3u8
+  りゅうを下品に調教！,https://vip2.slbfsl.com/20230403/DuA9FTph/index.m3u8
+  リピーター獲得！舐めたがり美人女将のトロける礼遇,https://vip2.slbfsl.com/20230403/lfQDXrJN/index.m3u8
+  エレガンス,https://vip2.slbfsl.com/20230403/Wzkay0AH/index.m3u8
+  もぞもぞ布団の中で,https://vip2.slbfsl.com/20230403/HtmCB1vy/index.m3u8
+  モデルコレクション,https://vip2.slbfsl.com/20230403/K9biWwuH/index.m3u8
+  ヤリたいときにヤレる！最高の愛人をハメまくる！！,https://vip2.slbfsl.com/20230403/YKhQ0M3R/index.m3u8
+  1,https://vip2.slbfsl.com/20230403/lZjrvFLx/index.m3u8
+  をオモチャ責め,https://vip2.slbfsl.com/20230404/01J7WImo/index.m3u8
+  奥様は卑猥な共犯者,https://vip2.slbfsl.com/20230404/O6eHkyUR/index.m3u8
+  傍に寄るだけでチンポを熱くさせる熟女をとことんヤりまくる,https://vip2.slbfsl.com/20230404/veJfjT5P/index.m3u8
+  奥さん、今はいてる下着を買い取らせて下さい,https://vip2.slbfsl.com/20230404/jbgF0EZ8/index.m3u8
+  ロリ顔＆ロリ体型の黒髪ＪＤ18歳が,https://vip2.slbfsl.com/20230404/EbL66Yke/index.m3u8
+  
+  人兽,#genre#
+  人兽18,https://siwazywcdn2.com:5278/zhongkouwei/tf2GPe59/index.m3u8
+人兽19,https://siwazywcdn2.com:5278/zhongkouwei/54IsxCPY/index.m3u8
+人兽20,https://siwazywcdn2.com:5278/zhongkouwei/6dOVCbgT/index.m3u8
+人兽21,https://siwazywcdn2.com:5278/zhongkouwei/q5TkLp1S/index.m3u8
+人兽22,https://siwazywcdn2.com:5278/zhongkouwei/aezKldHA/index.m3u8
+人兽24,https://siwazywcdn2.com:5278/zhongkouwei/G4PdOn0J/index.m3u8
+人兽25,https://siwazywcdn2.com:5278/zhongkouwei/0s4RQdoa/index.m3u8
+人兽26,https://siwazywcdn2.com:5278/zhongkouwei/DCctIhWK/index.m3u8
+人兽27,https://siwazywcdn2.com:5278/zhongkouwei/fGgH6DOK/index.m3u8
+人兽28,https://siwazywcdn2.com:5278/zhongkouwei/FIcZMtkQ/index.m3u8
+人兽29,https://siwazywcdn2.com:5278/zhongkouwei/1U5NLOHx/index.m3u8
+人兽30,https://siwazywcdn2.com:5278/zhongkouwei/aoIcGOSb/index.m3u8
+人兽31,https://siwazywcdn2.com:5278/zhongkouwei/wqzoZk70/index.m3u8
+人兽32,https://siwazywcdn2.com:5278/zhongkouwei/T8Zq7eup/index.m3u8
+人兽33,https://siwazywcdn2.com:5278/zhongkouwei/gVayU1IG/index.m3u8
+人兽34,https://siwazywcdn2.com:5278/zhongkouwei/5UiE0hxw/index.m3u8
+人兽35,https://siwazywcdn2.com:5278/zhongkouwei/0XFAORcB/index.m3u8
+人兽36,https://siwazywcdn2.com:5278/zhongkouwei/sLmGafKx/index.m3u8
+人兽37,https://siwazywcdn2.com:5278/zhongkouwei/dsaUMXgI/index.m3u8
+人兽38,https://siwazywcdn2.com:5278/zhongkouwei/UQx8mYEz/index.m3u8
+人兽39,https://siwazywcdn2.com:5278/zhongkouwei/sg1TYIxd/index.m3u8
+人兽40,https://siwazywcdn2.com:5278/zhongkouwei/5JsqoinD/index.m3u8
+人兽41,https://siwazywcdn2.com:5278/zhongkouwei/0m2whCf7/index.m3u8
+人兽42,https://siwazywcdn2.com:5278/zhongkouwei/FkPqhu9r/index.m3u8
+人兽43,https://siwazywcdn2.com:5278/zhongkouwei/rjvm7U9N/index.m3u8
+人兽44,https://siwazywcdn2.com:5278/zhongkouwei/1fcskrpK/index.m3u8
+人兽45,https://siwazywcdn2.com:5278/zhongkouwei/UotVsre6/index.m3u8
+人兽46,https://siwazywcdn2.com:5278/zhongkouwei/yiXwoT2v/index.m3u8
+人兽47,https://siwazywcdn2.com:5278/zhongkouwei/7USo0n8c/index.m3u8
+人兽48,https://siwazywcdn2.com:5278/zhongkouwei/0ovs9mM4/index.m3u8
+人兽49,https://siwazywcdn2.com:5278/zhongkouwei/4MAOmrQD/index.m3u8
+人兽50,https://siwazywcdn2.com:5278/zhongkouwei/vR2kEn6i/index.m3u8
+老板2波援交妹第01集,https://lbbf9.com/20200225/OdKc0p8c/index.m3u8
+老板2波援交妹第02集,https://lbbf9.com/20200225/VhmvzJR5/index.m3u8
+老板2波援交妹第03集,https://lbbf9.com/20200225/TlG20h4V/index.m3u8
+老板2波援交妹第04集,https://lbbf9.com/20200225/B54PTXtF/index.m3u8
+老板2波援交妹第05集,https://lbbf9.com/20200225/Cl9ik7Lz/index.m3u8
+老板2波援交妹第06集,https://lbbf9.com/20200225/43qGv2we/index.m3u8
+1.2米大长腿第01集,https://lbbf9.com/20200225/GmbOWiPB/index.m3u8
+1.2米大长腿第02集,https://lbbf9.com/20200225/IfoWBV5a/index.m3u8
+國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
+國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
+國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
+國產源擼閣④,https://lajiao-bo.com/20190501/HtOWsWii/index.m3u8
+國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
+國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
+國產源擼閣⑦,https://lbbf9.com/20191027/Ng1QIETF/index.m3u8
+國產源擼閣⑧,https://lbbf9.com/20191112/mHGSHyLg/index.m3u8
+國產源擼閣⑩,https://lbbf9.com/20191112/hritZ6s1/index.m3u8
+童心未泯國產源①,https://lbbf9.com/20191113/Z5tt1lLV/index.m3u8
+童心未泯國產源②,https://lbbf9.com/20191113/te2K6ssy/index.m3u8
+童心未泯國產源⑤,https://lbbf9.com/20191113/blhH8Gfa/index.m3u8
+童心未泯國產源⑥,https://lbbf9.com/20191113/70oWnMVT/index.m3u8
+童心未泯國產源⑦,https://lbbf9.com/20191113/HQWapd2G/index.m3u8
+童心未泯國產源⑧,https://lbbf9.com/20191113/1Zdq30pq/index.m3u8
+童心未泯國產源⑨,https://lbbf9.com/20191030/uRLVDUbl/index.m3u8
+童心未泯國產源⑩,https://lbbf9.com/20191030/NViQtRx2/index.m3u8
+香港三级23,https://lbbf9.com/20200521/qzExaFVB/index.m3u8
+香港三级24,https://lbbf9.com/20200414/foB4dTFu/index.m3u8
+香港三级25,https://lbbf9.com/20200414/dLUOZtRC/index.m3u8
+香港三级26,https://lbbf9.com/20200521/Xqz2rxnM/index.m3u8
+香港三级27,https://lbbf9.com/20200521/AK8sGWXK/index.m3u8
+香港三级28,https://lbbf9.com/20200521/IMsAMz5x/index.m3u8
+香港三级1,https://vip2.fhbf9.com/20210804/LA6xZi6C/index.m3u8
+香港三级2,https://vip2.fhbf9.com/20210804/u7OESSzE/index.m3u8
+香港三级3,https://vip2.fhbf9.com/20210804/Mgg4sPQ6/index.m3u8
+香港三级3,https://vip2.fhbf9.com/20210804/HqLAXCZD/index.m3u8
+香港三级4,https://vip2.fhbf9.com/20210804/WjzFihXG/index.m3u8
+香港三级5,https://vip2.fhbf9.com/20210804/6MfXmDp0/index.m3u8
+香港三级6,https://vip2.fhbf9.com/20210804/oKa5if6u/index.m3u8
+香港三级7,https://vip2.fhbf9.com/20210804/C4rSP86S/index.m3u8
+香港三级9,https://vip2.fhbf9.com/20210804/kq8zlWOc/index.m3u8
+香港三级10,https://vip2.fhbf9.com/20210804/RgIubLMz/index.m3u8
+香港三级11,https://vip2.fhbf9.com/20210804/yGZWgJSA/index.m3u8
+花花公子genre#,#
+
+花花公子 ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
+菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
+EROXXX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B9:87&stream=773973&extension=ts&play_token=VFnUEDgvPl
+HUSTLER ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774035&extension=ts&play_token=VFnUEDgvPl
+HUSTLER ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774030&extension=ts&play_token=VFnUEDgvPl
+ШAΛYH ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D1:47&stream=773974&extension=ts&play_token=VFnUEDgvPl
+XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774047&extension=ts&play_token=VFnUEDgvPl
+2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774048&extension=ts&play_token=VFnUEDgvPl
+3,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774049&extension=ts&play_token=VFnUEDgvPl
+N1ADULT ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D3:03&stream=773978&extension=ts&play_token=VFnUEDgvPl
+DORCELTV ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D9:81&stream=773985&extension=ts&play_token=VFnUEDgvPl
+DORCELTV ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774029&extension=ts&play_token=VFnUEDgvPl
+P PRIVATE ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774032&extension=ts&play_token=VFnUEDgvPl
+DOEIT ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774034&extension=ts&play_token=VFnUEDgvPl
+babestv ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:83&stream=773997&extension=ts&play_token=VFnUEDgvPl
+babestv ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774028&extension=ts&play_token=VFnUEDgvPl
+babes ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E4:79&stream=774020&extension=ts&play_token=VFnUEDgvPl
+HOT PLEASURE,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774040&extension=ts&play_token=VFnUEDgvPl
+SL HOT-1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128764&extension=ts&play_token=VFnUEDgvPl
+SL HOT-2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=267612&extension=ts&play_token=VFnUEDgvPl
+SL HOT-3,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128770&extension=ts&play_token=VFnUEDgvPl
+SL HOT-4,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138510&extension=ts&play_token=VFnUEDgvPl
+SL HOT-5,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138526&extension=ts&play_token=VFnUEDgvPl
+SL HOT-6,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138504&extension=ts&play_token=VFnUEDgvPl
+SL HOT-7,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309877&extension=ts&play_token=VFnUEDgvPl
+SL HOT-8,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309870&extension=ts&play_token=VFnUEDgvPl
+SL HOT-9,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309869&extension=ts&play_token=VFnUEDgvPl
+大放尿GW特大号,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-188/2000kb/hls/index.m3u8
+大放尿特集魁,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-072/2000kb/hls/index.m3u8
+大放尿特集1,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-077/2000kb/hls/index.m3u8
+大放尿特集2,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-083/2000kb/hls/index.m3u8
+大放尿特集3,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-090/2000kb/hls/index.m3u8
+大放尿1,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-113_A/2000kb/hls/index.m3u8
+大放尿2,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-113_B/2000kb/hls/index.m3u8
+大放尿3,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-129_A/2000kb/hls/index.m3u8
+大放尿4,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-129_B/2000kb/hls/index.m3u8
+大放尿5,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-141/2000kb/hls/index.m3u8
+大放尿6,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-153/2000kb/hls/index.m3u8
+大放尿7,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-166_A/2000kb/hls/index.m3u8
+大放尿8,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-166_B/2000kb/hls/index.m3u8
+大放尿9,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-198_A/2000kb/hls/index.m3u8
+大放尿10,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-198_B/2000kb/hls/index.m3u8
+大放尿11,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-221/2000kb/hls/index.m3u8
+大放尿12,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-222/2000kb/hls/index.m3u8
+大放尿13,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-223/2000kb/hls/index.m3u8
+大放尿14,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-237/2000kb/hls/index.m3u8
+大放尿15,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-238/2000kb/hls/index.m3u8
+大放尿16,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-257/2000kb/hls/index.m3u8
+大放尿17,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-258_A/2000kb/hls/index.m3u8
+大放尿18,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-258_B/2000kb/hls/index.m3u8
+大放尿19,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-275/2000kb/hls/index.m3u8
+大放尿20,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-276/2000kb/hls/index.m3u8
+大放尿21,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-294/2000kb/hls/index.m3u8
+大放尿22,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-295/2000kb/hls/index.m3u8
+大放尿23,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-327/2000kb/hls/index.m3u8
+大放尿24,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-328/2000kb/hls/index.m3u8
+大放尿25,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-329/2000kb/hls/index.m3u8
+大放尿26,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-356/2000kb/hls/index.m3u8
+大放尿27,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-357/2000kb/hls/index.m3u8
+大放尿28,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-358/2000kb/hls/index.m3u8
+大放尿29,https://newhy-videos3.0afaf5e.com/20211110/GACHIP-365/2000kb/hls/index.m3u8
+
+
 彩虹頻道,#genre#
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
