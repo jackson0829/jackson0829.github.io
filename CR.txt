@@ -1,5 +1,5 @@
 
-TW240210,#genre#
+45源240210,#genre#
 寰宇新闻台,http://45.89.104.154/mlTW8866.php?id=huanyuxinwen_twn
 非凡新闻,http://45.89.104.154/mlTW8866.php?id=feifannews_twn
 年代新闻台,http://45.89.104.154/mlTW8866.php?id=niandainews_twn
