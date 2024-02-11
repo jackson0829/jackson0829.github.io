@@ -77,6 +77,7 @@ SexAV240210,#genre#
 花絮-公共场合,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
 花絮-幕后花絮•1,https://v4.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
 花絮-幕后花絮•2,https://v4.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
+中國歷史AV,#genre#
 3D肉蒲团,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qh/yf/wo/e9/cc0187d5f4064e60a8d9507ccdbeaf4a.m3u8?
 一路向西,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fd/ea/eu/2q/7bd22841f6dd4b768ab5d1e38419bf4b.m3u8?
 鸭王,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fo/4n/1u/xg/304cc44af0334b39b0989c4e224ec966.m3u8?
@@ -335,7 +336,7 @@ SexAV240210,#genre#
 「老司机探花」性感御姐掰穴插逼 私密部位一览无遗,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/e8/uy/pp/0d/597e20a7cd1b4f4b9141d90af3df1471.m3u8?
 「银先生探花」美乳少妇极致后入口交 多体位高清偷拍,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/t7/9l/gp/1l/8c767cf9fc834a52a80694848e0e01ef.m3u8?
 
-JapanAV240210,#genre#
+麻豆AV240210,#genre#
 MSD-0161/防火防盜防闺蜜,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/m7/8t/hq/kv/da306e5145c64c8f9ae5e0c61fb33fd7.m3u8?
 MSD-159/寂寞白领猎艳江湖小盜/小偷取金不成遭取精,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/gp/ha/qb/x9/27117964739c4f668d91c78def6ea7ca.m3u8?
 MSD-137/热恋情侣重聚炮,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/x3/q1/02/vg/a3f1a279e76f4d59b1a8f83ee1848570.m3u8?
@@ -446,6 +447,8 @@ MSD-004/妇女的不论之恋,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/
 MSD-003/菜鸟特务,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
 MSD-001/乱伦迷情药,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
+
+外國AV,#genre#
 Cum 4k,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6190/index.m3u8
 Extasy 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5014/index.m3u8
 Tiny 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6258/index.m3u8
@@ -565,6 +568,8 @@ Brunette,http://cdn.adultiptv.net/brunette.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
+
+日本AV240210,genre#
 7月-703ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
 7月-731水戸,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
 7月-743大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
@@ -4047,7 +4052,7 @@ Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 Fake Taxi HD2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-欧美电影,#genre#
+日本caribAV,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
