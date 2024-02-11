@@ -569,7 +569,7 @@ Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
 
-日本AV240210,genre#
+日本AV240210A,#genre#
 7月-703ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
 7月-731水戸,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
 7月-743大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
@@ -861,6 +861,7 @@ havd-781早乙女,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/404aa8f0/i
 havd-802管野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/241e4558/index.m3u8
 havd-816和希,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/1883b6a0/index.m3u8
 hbad-148西野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/535a2f48/index.m3u8
+日本AV240210B,#genre#
 heyzo0705杏奈,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
 heyzo1199希笑,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
 heyzo1243水谷,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
@@ -1045,6 +1046,7 @@ ntr-066 若菜奈央,https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/b7e0cfc
 OCHA-096,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/dbde7157/index.m3u8
 ocs-037奏音弥生,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/85268141/index.m3u8
 orec-883思春期,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/77b1cb1d/index.m3u8
+日本AV240210C,#genre#
 pondo273水谷,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
 pondo311水谷,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
 pondo350西川,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
