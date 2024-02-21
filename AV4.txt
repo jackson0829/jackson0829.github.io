@@ -1,4 +1,4 @@
-成人频道_1,#genre#
+成人1,#genre#
 🦈801,https://je40u.cdnedge.live/file/avple-images/hls/62ee66a90fcbac72c609a143/playlist.m3u8
 🦈802,https://d862cp.cdnedge.live/file/avple-images/hls/62ee63a06e86264ecd8ae1c8/playlist.m3u8
 🦈803,https://u89ey.cdnedge.live/file/avple-images/hls/62ee05dcb65ee73dde1f5cac/playlist.m3u8
@@ -62,7 +62,7 @@
 🦈862,https://je40u.cdnedge.live/file/avple-images/hls/62e8d74ee80d4e1dd0b8c5c1/playlist.m3u8
 🦈863,https://e2fa6.cdnedge.live/file/avple-images/hls/62e8d4f5e80d4e1dd0b8c5c0/playlist.m3u8
 
-成人频道_2,#genre#
+成人2,#genre#
 😃801,https://d862cp.cdnedge.live/file/avple-images/hls/62e6bc3d25698b745fc62e3e/playlist.m3u8
 😃802,https://e2fa6.cdnedge.live/file/avple-images/hls/62e68f4a0727f630f978989f/playlist.m3u8
 😃803,https://e2fa6.cdnedge.live/file/avple-images/hls/62e68e970727f630f978989d/playlist.m3u8
@@ -101,7 +101,7 @@
 ↓712,https://w9n76.cdnedge.live/file/avple-images/hls/62e1612aae8e25784a42cffa/playlist.m3u8
 
 
-成人频道_3,#genre#
+成人3,#genre#
 🍄701,https://1xp60.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1986/playlist.m3u8
 🍄702,https://d862cp.cdnedge.live/file/avple-images/hls/62d40c2e33356255121f1985/playlist.m3u8
 🍄703,https://q2cyl7.cdnedge.live/file/avple-images/hls/62d40b0133356255121f1983/playlist.m3u8
@@ -149,7 +149,7 @@
 🍌736,https://8bb88.cdnedge.live/file/avple-images/hls/62d014dd3f2a4e362eb52b52/playlist.m3u8
 🍌737,https://1xp60.cdnedge.live/file/avple-images/hls/62d013753f2a4e362eb52b51/playlist.m3u8
 
-成人频道_4,#genre#
+成人4,#genre#
 👀701,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
 👀702,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
 👀703,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
@@ -210,7 +210,7 @@
 🐴634,https://1xp60.cdnedge.live/file/avple-images/hls/62b9b6b74cd7211d4f02180c/playlist.m3u8
 🐴635,https://1xp60.cdnedge.live/file/avple-images/hls/62b64e19fcc60515a0303de6/playlist.m3u8
 
-成人频道_5,#genre#
+成人5,#genre#
 🐶601,https://1xp60.cdnedge.live/file/avple-images/hls/62b4346cea01b50f6781dc5f/playlist.m3u8
 🐶602,https://w9n76.cdnedge.live/file/avple-images/hls/62b433b8ea01b50f6781dc5e/playlist.m3u8
 🐶603,https://w9n76.cdnedge.live/file/avple-images/hls/62b4337fea01b50f6781dc5d/playlist.m3u8
@@ -367,7 +367,7 @@
 🍓698,https://w9n76.cdnedge.live/file/avple-images/hls/62957788180f8c65c7d908af/playlist.m3u8
 🍓699,https://u89ey.cdnedge.live/file/avple-images/hls/629578ef180f8c65c7d908b2/playlist.m3u8
 
-成人频道_6,#genre#
+成人6,#genre#
 🍓6100,https://d862cp.cdnedge.live/file/avple-images/hls/6295761e180f8c65c7d908ac/playlist.m3u8
 🍓6101,https://q2cyl7.cdnedge.live/file/avple-images/hls/629574b7180f8c65c7d908aa/playlist.m3u8
 🍓6102,https://1xp60.cdnedge.live/file/avple-images/hls/629574f2180f8c65c7d908ab/playlist.m3u8
@@ -475,7 +475,7 @@
 🍓6205,https://zo392.cdnedge.live/file/avple-images/hls/6280b245fc27be165aeb81d4/playlist.m3u8
 🍓6206,https://u89ey.cdnedge.live/file/avple-images/hls/6280b154fc27be165aeb81d2/playlist.m3u8
 
-成人频道_7,#genre#
+成人7,#genre#
 🍓502,https://w9n76.cdnedge.live/file/avple-images/hls/6290be2987412532ac7f4cfe/playlist.m3u8
 🍓503,https://zo392.cdnedge.live/file/avple-images/hls/628f85bd531f007e5ba30b01/playlist.m3u8
 🍓504,https://u89ey.cdnedge.live/file/avple-images/hls/628f8543531f007e5ba30b00/playlist.m3u8
@@ -672,7 +672,7 @@
 🍓5202,https://10j99.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdc/playlist.m3u8
 🍓5203,https://e2fa6.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdb/playlist.m3u8
 
-成人频道_8,#genre#
+成人8,#genre#
 🍓401,https://u89ey.cdnedge.live/file/avple-images/hls/6257f50aa840bf2dd2ce4358/playlist.m3u8
 🍓402,https://10j99.cdnedge.live/file/avple-images/hls/6256da62bd3519566877455d/playlist.m3u8
 🍓403,https://q2cyl7.cdnedge.live/file/avple-images/hls/6256b304bd3519566877455c/playlist.m3u8
@@ -853,7 +853,7 @@
 🍓4179,https://1xp60.cdnedge.live/file/avple-images/hls/623239d98cc9324f4943612d/playlist.m3u8
 🍓4180,https://e2fa6.cdnedge.live/file/avple-images/hls/62323a128cc9324f4943612e/playlist.m3u8
 
-成人频道_9,#genre#
+成人9,#genre#
 🍓301,https://d862cp.cdnedge.live/file/avple-images/hls/622fca68e14ae771445e4800/playlist.m3u8
 🍓302,https://e2fa6.cdnedge.live/file/avple-images/hls/622fc8c1e14ae771445e47fd/playlist.m3u8
 🍓303,https://8bb88.cdnedge.live/file/avple-images/hls/622fc84ae14ae771445e47fc/playlist.m3u8
@@ -994,7 +994,7 @@
 🍓3139,https://w9n76.cdnedge.live/file/avple-images/hls/6209b3eef074eb1e0fe62717/playlist.m3u8
 🍓3140,https://1xp60.cdnedge.live/file/avple-images/hls/6209b42bf074eb1e0fe62718/playlist.m3u8
 
-成人频道_10,#genre#
+成人10,#genre#
 🍓201,https://w9n76.cdnedge.live/file/avple-images/hls/6206efe3c6e4cd6e597c7185/playlist.m3u8
 🍓202,https://je40u.cdnedge.live/file/avple-images/hls/6206efa6c6e4cd6e597c7184/playlist.m3u8
 🍓203,https://u89ey.cdnedge.live/file/avple-images/hls/6205a47ad69d37216eb636de/playlist.m3u8
@@ -1121,7 +1121,7 @@
 🍓2125,https://10j99.cdnedge.live/file/avple-images/hls/61e249d99e31551b4fa3bead/playlist.m3u8
 🍓2126,https://zo392.cdnedge.live/file/avple-images/hls/61e249259e31551b4fa3beab/playlist.m3u8
 
-成人频道_11,#genre#
+成人11,#genre#
 🍓101,https://10j99.cdnedge.live/file/avple-images/hls/61e11a91b12f2d3579c3423f/playlist.m3u8
 🍓102,https://zo392.cdnedge.live/file/avple-images/hls/61e11965b12f2d3579c3423d/playlist.m3u8
 🍓103,https://d862cp.cdnedge.live/file/avple-images/hls/61e11a19b12f2d3579c3423e/playlist.m3u8
@@ -1265,7 +1265,7 @@
 🍓1142,https://d862cp.cdnedge.live/file/avple-images/hls/61bad13dd56b7626e975d4e8/playlist.m3u8
 🍓1143,https://je40u.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
 
-成人频道_12,#genre#
+成人12,#genre#
 🍓1201,https://1xp60.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
 🍓1202,https://1xp60.cdnedge.live/file/avple-images/hls/61b817f997618e5cc644ad44/playlist.m3u8
 🍓1203,https://q2cyl7.cdnedge.live/file/avple-images/hls/61b8183597618e5cc644ad45/playlist.m3u8
@@ -1519,7 +1519,7 @@
 🍓12253,https://10j99.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 🍓12254,https://je40u.cdnedge.live/file/avple-images/hls/6173085d16713849c8fc4703/playlist.m3u8
 
-成人频道_13,#genre#
+成人13,#genre#
 🍓1101,https://10j99.cdnedge.live/file/avple-images/hls/6171a981f8003d17dfd1a739/playlist.m3u8
 🍓1102,https://1xp60.cdnedge.live/file/avple-images/hls/6171a909f8003d17dfd1a738/playlist.m3u8
 🍓1103,https://je40u.cdnedge.live/file/avple-images/hls/6171a891f8003d17dfd1a737/playlist.m3u8
@@ -1552,7 +1552,7 @@
 🍓1130,https://u89ey.cdnedge.live/file/avple-images/hls/6168872582e0243986ca6ac2/playlist.m3u8
 🍓1131,https://8bb88.cdnedge.live/file/avple-images/hls/6168879d82e0243986ca6ac3/playlist.m3u8
 
-成人频道_14,#genre#
+成人14,#genre#
 🍎何苗01,https://d862cp.cdnedge.live/file/avple-images/hls/61051cd6c778956038fdd09e/playlist.m3u8
 🍎何苗02,https://8bb88.cdnedge.live/file/avple-images/hls/60e6f101295d6915521367be/playlist.m3u8
 🍎何苗03,https://e2fa6.cdnedge.live/file/avple-images/hls/60ddd96d41b32117d66a0b90/playlist.m3u8
@@ -1636,7 +1636,7 @@
 13,https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 14,https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
 
-成人频道_15,#genre#
+成人15,#genre#
 🌏1101,https://u89ey1.cdnedge.live/file/avple-asserts/hls/636263a357da9326a9b1cdcb/playlist.m3u8
 🌏1102,https://8bb881.cdnedge.live/file/avple-asserts/hls/636269f557da9326a9b1cdd7/playlist.m3u8
 🌏1103,https://8bb881.cdnedge.live/file/avple-asserts/hls/6362694657da9326a9b1cdd5/playlist.m3u8
@@ -1751,7 +1751,7 @@
 🌏1082,https://zo3921.cdnedge.live/file/avple-asserts/hls/63581d46f6a4fb2bb60a9001/playlist.m3u8
 🌏1083,https://zo3921.cdnedge.live/file/avple-asserts/hls/63581ae4f6a4fb2bb60a9000/playlist.m3u8
 
-成人频道_16,#genre#
+成人16,#genre#
 🍫1001,https://d862cp1.cdnedge.live/file/avple-asserts/hls/6353f83ac5cf844cb6d68284/playlist.m3u8
 🍫1002,https://u89ey1.cdnedge.live/file/avple-asserts/hls/6353f83ac5cf844cb6d68283/playlist.m3u8
 🍫1003,https://8bb881.cdnedge.live/file/avple-asserts/hls/63536d01cb07ae18bbbcc405/playlist.m3u8
@@ -1805,7 +1805,7 @@
 🍬1025,https://8bb881.cdnedge.live/file/avple-asserts/hls/634bfbc7054a773d29ec1e1f/playlist.m3u8
 🍬1026,https://d862cp1.cdnedge.live/file/avple-asserts/hls/634be2ed5c062344b76024be/playlist.m3u8
 
-成人频道_17,#genre#
+成人17,#genre#
 🍭1001,https://d862cp1.cdnedge.live/file/avple-asserts/hls/634be23a5c062344b76024bc/playlist.m3u8
 🍭1002,https://10j991.cdnedge.live/file/avple-asserts/hls/634be23a5c062344b76024bb/playlist.m3u8
 🍭1003,https://u89ey1.cdnedge.live/file/avple-asserts/hls/634bd6fa5c062344b76024ba/playlist.m3u8
@@ -1888,7 +1888,7 @@
 🍸904,https://zo392.cdnedge.live/file/avple-images/hls/6334481f40dd715faa4977d8/playlist.m3u8
 🍸905,https://1xp60.cdnedge.live/file/avple-images/hls/6334472c40dd715faa4977d7/playlist.m3u8
 🍸906,https://10j99.cdnedge.live/file/avple-images/hls/6334489540dd715faa4977d9/playlist.m3u8
-成人频道_18,#genre#
+成人18,#genre#
 🥤901,https://w9n76.cdnedge.live/file/avple-images/hls/6332e17e8c53ef345f14e772/playlist.m3u8
 🥤902,https://8bb88.cdnedge.live/file/avple-images/hls/6332e1f68c53ef345f14e773/playlist.m3u8
 🥤903,https://e2fa6.cdnedge.live/file/avple-images/hls/6332e22f8c53ef345f14e774/playlist.m3u8
@@ -1966,7 +1966,7 @@
 🍷933,https://u89ey.cdnedge.live/file/avple-images/hls/63272ab5227dd84933e44a50/playlist.m3u8
 🍷934,https://e2fa6.cdnedge.live/file/avple-images/hls/63272ab5227dd84933e44a4a/playlist.m3u8
 
-成人频道_19,#genre#
+成人19,#genre#
 🍾901,https://1xp60.cdnedge.live/file/avple-images/hls/6324b9c7c2c2b03978ffd222/playlist.m3u8
 🍾902,https://w9n76.cdnedge.live/file/avple-images/hls/6324b9c6c2c2b03978ffd221/playlist.m3u8
 🍾903,https://d862cp.cdnedge.live/file/avple-images/hls/6324b76fc2c2b03978ffd220/playlist.m3u8
@@ -2085,7 +2085,7 @@
 🐣963,https://8bb88.cdnedge.live/file/avple-images/hls/630cbf7e4cd2c231d6ebd8c3/playlist.m3u8
 🐣964,https://zo392.cdnedge.live/file/avple-images/hls/630ca9b24cd2c231d6ebd8c2/playlist.m3u8
 
-成人频道_20,#genre#
+成人20,#genre#
 🍋801,https://e2fa6.cdnedge.live/file/avple-images/hls/630f519f3c7f894488546be7/playlist.m3u8
 🍋802,https://e2fa6.cdnedge.live/file/avple-images/hls/630f519e3c7f894488546be6/playlist.m3u8
 🍋803,https://8bb88.cdnedge.live/file/avple-images/hls/630f0714f6f3c02fb820950d/playlist.m3u8
