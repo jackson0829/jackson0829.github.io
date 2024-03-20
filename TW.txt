@@ -1,4 +1,4 @@
-台湾测试频道,#genre#
+台湾(mitv),#genre#
 
 寰宇新闻,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
