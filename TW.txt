@@ -629,6 +629,29 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 
 
 
+彎彎(rtmp),#genre#,
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,http://cloud.yumixiu768.com/tmp/123.m3u8 
+ELEVEN-1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN-2,rtmp://f13h.mine.nu/sat/tv741
+MOMO TV,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+台灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+
 
 
 
