@@ -629,7 +629,7 @@ HBO原創巨獻,P2p://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16
 
 
 
-彎彎(rtmp),#genre#,
+彎彎(rtmp),#genre#
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
