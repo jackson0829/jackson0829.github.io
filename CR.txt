@@ -109,27 +109,6 @@ ELEVEN2,rtmp://twcdn.top/sat/tv741
 博斯无限Ⅱ,rtmp://twcdn.top/sat/md051
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 
-高速油管,#genre#
-寰宇新闻,http://43.224.33.165/python/youtube.php?id=6IquAgfvYmc
-寰宇财经,http://43.224.33.165/python/youtube.php?id=25SE1bbTv9k
-镜新闻mnews,http://43.224.33.165/python/youtube.php?id=5n0y6b0Q25o
-东森新闻,http://43.224.33.165/python/youtube.php?id=2dfAzcDf8Zg
-三立新闻,http://43.224.33.165/python/youtube.php?id=FoBfXvlOR6I
-三立+,http://43.224.33.165/python/youtube.php?id=oZdzzvxTfUY
-TVBS新闻,http://43.224.33.165/python/youtube.php?id=2mCSYvcfhtc
-东森财经,http://43.224.33.165/python/youtube.php?id=WHEPzbFA3hw
-中天新闻2台,http://43.224.33.165/python/youtube.php?id=WPfPjbOLNfE
-中天新闻,http://43.224.33.165/python/youtube.php?id=oIgbl7t0S_w
-台视新闻,http://43.224.33.165/python/youtube.php?id=xL0ch83RAK8#http://43.224.33.165/python/youtube.php?id=xL0ch83RAK8#http://43.224.33.165/python/youtube.php?id=xL0ch83RAK8
-中视新闻,http://43.224.33.165/python/youtube.php?id=TCnaIE_SAtM
-公视新闻,http://43.224.33.165/python/youtube.php?id=quwqlazU-c8
-公视,http://43.224.33.165/python/youtube.php?id=quwqlazU-c8
-民视新闻,http://43.224.33.165/python/youtube.php?id=ylYJSBUgaMA
-中视经典综艺,http://43.224.33.165/python/youtube.php?id=ADDSmXoPDY8
-台湾地震监视,http://43.224.33.165/python/youtube.php?id=Owke6Quk7T0
-国会频道１,http://43.224.33.165/python/youtube.php?id=4HysYHJ6GkY
-国会频道2,http://43.224.33.165/python/youtube.php?id=Lj8OWF6nzcg
-
 
 TW240214,#genre#
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
