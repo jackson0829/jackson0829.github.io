@@ -1,7 +1,4 @@
-
-
-
-(Mitv & P2p)240513,#genre#
+晴天240513,#genre#
 寰宇新聞台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 壹電視新聞台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae#P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae#mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae#mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 壹電視新聞台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
@@ -107,8 +104,7 @@ HBO,P2p://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6#P2p://gene
 AXN,P2p://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 
-七星P2p,#genere#
-
+七星P2p,#genre#
 寰宇新聞台灣台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 壹電視新聞台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
