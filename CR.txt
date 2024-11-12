@@ -1,81 +1,81 @@
-🇹🇼台湾频道,#genre#
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+🇹🇼台灣頻道,#genre#
+寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-tvbs闽南频道,http://37.27.111.214:8080/live/23/hls.m3u8
-民视闽南频道,http://37.27.111.214:8080/live/6/hls.m3u8
-中视闽南频道,http://37.27.111.214:8080/live/7/hls.m3u8
-华视闽南频道,http://37.27.111.214:8080/live/8/hls.m3u8
-民视第一频道,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾频道,http://37.27.111.214:8080/live/5/hls.m3u8
-三立综合频道,http://37.27.111.214:8080/live/31/hls.m3u8
-tvbs欢乐频道,http://37.27.111.214:8080/live/24/hls.m3u8
-靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvbs新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvbs閩南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+三立新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+tvbs閩南頻道,http://37.27.111.214:8080/live/23/hls.m3u8
+民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
+中視閩南頻道,http://37.27.111.214:8080/live/7/hls.m3u8
+華視閩南頻道,http://37.27.111.214:8080/live/8/hls.m3u8
+民視第一頻道,http://37.27.111.214:8080/live/4/hls.m3u8
+民視台灣頻道,http://37.27.111.214:8080/live/5/hls.m3u8
+三立綜合頻道,http://37.27.111.214:8080/live/31/hls.m3u8
+tvbs歡樂頻道,http://37.27.111.214:8080/live/24/hls.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-tvbs闽南,http://37.27.111.214:8080/live/23/hls.m3u8
-民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
-中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8
-中视闽南,rtmp://f13h.mine.nu/sat/tv091
-中视闽南,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-中视闽南,rtmp://f13h.mine.nu/sat/tv091
-华视闽南,rtmp://f13h.mine.nu/sat/tv111
-华视闽南,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
-台视闽南,rtmp://f13h.mine.nu/sat/tv071
-民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-tvbs欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-泰国购物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
-亚洲旅游频道,http://37.27.111.214:8080/live/10/hls.m3u8
-博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
-探案电影频道,http://37.27.111.214:8080/live/11/hls.m3u8
-猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
-亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
-Nick动画频壹,http://37.27.111.214:8080/live/12/hls.m3u8
-Nick动画频贰,http://37.27.111.214:8080/live/22/hls.m3u8
-MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+tvbs閩南,http://37.27.111.214:8080/live/23/hls.m3u8
+民視閩南,http://37.27.111.214:8080/live/6/hls.m3u8
+中視閩南,http://37.27.111.214:8080/live/7/hls.m3u8
+中視閩南,rtmp://f13h.mine.nu/sat/tv091
+中視閩南,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+中視閩南,rtmp://f13h.mine.nu/sat/tv091
+華視閩南,rtmp://f13h.mine.nu/sat/tv111
+華視閩南,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+華視閩南,http://37.27.111.214:8080/live/8/hls.m3u8
+台視閩南,rtmp://f13h.mine.nu/sat/tv071
+民視第一,http://37.27.111.214:8080/live/4/hls.m3u8
+民視台灣,http://37.27.111.214:8080/live/5/hls.m3u8
+tvbs歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
+龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
+三立綜合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+靖天電影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+泰國購物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+豬哥亮歌廳國,http://37.27.111.214:8080/live/35/hls.m3u8
+亞洲旅遊頻道,http://37.27.111.214:8080/live/10/hls.m3u8
+博斯高球頻壹,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯運動頻壹,http://37.27.111.214:8080/live/14/hls.m3u8
+探案電影頻道,http://37.27.111.214:8080/live/11/hls.m3u8
+豬哥亮歌廳國,http://37.27.111.214:8080/live/35/hls.m3u8
+亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
+Nick動畫頻壹,http://37.27.111.214:8080/live/12/hls.m3u8
+Nick動畫頻貳,http://37.27.111.214:8080/live/22/hls.m3u8
+MoMo親子國,http://37.27.111.214:8080/live/3/hls.m3u8
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-amc电影频英,http://61.221.215.25:8800/hls/43/index.m3u8
-ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
-Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
-momoTV频特,rtmp://f13h.mine.nu/sat/tv761
-动物星球频国,http://61.221.215.25:8800/hls/57/index.m3u8
+amc電影頻英,http://61.221.215.25:8800/hls/43/index.m3u8
+ASC搜索頻英,http://61.221.215.25:8800/hls/50/index.m3u8
+Diso綜合頻英,http://61.221.215.25:8800/hls/1/index.m3u8
+momoTV頻特,rtmp://f13h.mine.nu/sat/tv761
+動物星球頻國,http://61.221.215.25:8800/hls/57/index.m3u8
 
 Z88ubtv,#genre#
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
