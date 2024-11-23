@@ -5,7 +5,12 @@
 松視3臺(型男),http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 MIFD-117方言少女,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
 mifd070永?,https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-
+潘朵啦玩美台,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8 
+惊艳成人电影台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8 
+香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8 
+松视1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8 
+松视2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8 
+松视3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8 
 
 VIP高清秒播11,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
