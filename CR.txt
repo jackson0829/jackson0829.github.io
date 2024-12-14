@@ -155,14 +155,6 @@ GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/l
 
 
 💝litv241127,#genre#
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-東森新聞頻道,http://211.72.65.236:8540/http/61.67.128.137:8081/hls/63/805/ch10.m3u8
-tvbs新聞頻道,http://211.72.65.236:8574/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-三立新聞頻道,http://211.72.65.236:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
-東森財經頻道,http://211.72.65.236:8546/http/61.67.128.137:8081/hls/63/805/ch11.m3u8
 中天新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 東森新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv072
