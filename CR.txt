@@ -1,11 +1,12 @@
 💝Live-AKTV,#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -157,14 +158,15 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 💝litv241127,#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 中天新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 東森新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-tvbs新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 鏡新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 民視新聞4Gtv,http://litv.zapi.us.kg/?id=litv-ftv13
 中視新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv074
@@ -253,12 +255,13 @@ Amc電影頻道,http://211.72.65.236:8583/http/61.67.128.137:8092/upload/115/AMC
 💝4GTV,#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv152#https://litv.zapi.us.kg/?id=4gtv-4gtv152#http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes#http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes#http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes#http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
-tvbs新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 鏡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 鏡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 中天新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv009#https://litv.zapi.us.kg/?id=4gtv-4gtv009#http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w#http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
@@ -347,8 +350,9 @@ Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 鏡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 東森新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 東森財經新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv153
 TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8
@@ -604,10 +608,8 @@ GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8#http://live.streaming
 
 
 💝SuperTV源231108,#genre#
-東森電視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-非凡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -696,13 +698,8 @@ momoTV頻特,rtmp://f13h.mine.nu/sat/tv761
 
 
 💝彎彎源231110,#genre#
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
@@ -719,14 +716,9 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8#http://38.64.
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 #http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 #http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 #http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8#http://220.134.196.147:9574/ch49.m3u8
-中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
-華視HD台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv1.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -735,9 +727,6 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-信吉電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 台灣蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
