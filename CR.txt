@@ -1,7 +1,6 @@
 💝Live-AKTV,#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-非凡新聞4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -347,15 +346,16 @@ Ginx_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
+鏡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 東森新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 東森財經新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv153
 TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv010
 中視新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-鏡新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 中天新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 華視新聞,https://litv.zapi.us.kg/?id=4gtv-4gtv052
