@@ -3,7 +3,6 @@
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -163,7 +162,6 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
@@ -263,7 +261,6 @@ Amc電影頻道,http://211.72.65.236:8583/http/61.67.128.137:8092/upload/115/AMC
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
@@ -359,7 +356,6 @@ Ginx_TV,http://litv.zapi.us.kg/?id=-053
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 鏡新聞,https://litv.zapi.us.kg/?id=-075
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -454,7 +450,6 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 
 💝灣灣頻道,#genre#
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 CTV中視HD,rtmp://f13h.mine.nu/sat/tv091
 CTS華視HD,rtmp://f13h.mine.nu/sat/tv111
