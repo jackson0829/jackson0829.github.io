@@ -566,7 +566,7 @@
 日韓AV498,https://video2.51daao.com/btt1/2021/10/20211014/mhW3gT7c/index.m3u8
 日韓AV499,https://vip2.lbbf9.com/20211102/FUBEor7Z/index.m3u8
 日韓AV500,https://vip5.ddyunbo.com/20230303/xBNgL1hT/index.m3u8
-【日韓AV02】,#genre
+【日韓AV02】,#genre#
 日韓AV501,https://vip6.ljbfbf.com/20230321/85lYozTb/index.m3u8
 日韓AV502,https://jkunbf.com/20230303/gOSYMXz2/index.m3u8
 日韓AV503,https://vip6.ljbfbf.com/20221005/UkL0IjvK/index.m3u8
@@ -1032,7 +1032,7 @@
 日韓AV998,https://video.myzybo.com/20220814/MzUyNWU5MT/075734/1280/hls/encrypt/index.m3u8
 日韓AV999,https://video.myzybo.com/20221030/MzdlZjMyNj/090758/1280/hls/encrypt/index.m3u8
 日韓AV1000,https://video.bttbo.com/20221206/NmNhYTg4YT/050835/1280/hls/encrypt/index.m3u8
-【日韓AV03】,#genre
+【日韓AV03】,#genre#
 日韓AV1001,https://video.myzybo.com/20230210/MTcwMDBiMm/074157/1280/hls/encrypt/index.m3u8
 日韓AV1002,https://video.myzybo.com/20230210/NjA3OTgzNm/074555/1280/hls/encrypt/index.m3u8
 日韓AV1003,https://video.myzybo.com/20230210/OWU0YTFjOW/074941/1280/hls/encrypt/index.m3u8
@@ -1491,7 +1491,7 @@
 日韓AV1498,https://vip2.slbfsl.com/20230120/SuU8qSzB/index.m3u8
 日韓AV1499,https://video1.rhsj520.com/nyrm3/20190112/axxy/MDS-865/index.m3u8
 日韓AV1500,https://video.myzybo.com/20230413/MzdlZDE5Mj/091744/1280/hls/encrypt/index.m3u8
-【日韓AV04】,#genre
+【日韓AV04】,#genre#
 日韓AV1503,https://videomy.yongaomy.com/20211106/00s0jYJy/index.m3u8
 日韓AV1504,https://video.myzybo.com/20230220/YzJhNDRjM2/074226/1280/hls/encrypt/index.m3u8
 日韓AV1505,https://videomy.yongaomy.com/20220417/9yLdRtYh/index.m3u8
@@ -1938,7 +1938,7 @@
 日韓AV1998,https://videomy.yongaomy.com/20220621/jFume6D5/index.m3u8
 日韓AV1999,https://video.myzybo.com/20220803/NjM3MDc3MW/092443/1280/hls/encrypt/index.m3u8
 日韓AV2000,https://video.myzybo.com/20230408/NWI2Y2EzZT/202911/1280/hls/encrypt/index.m3u8
-【日韓AV05】,#genre
+【日韓AV05】,#genre#
 日韓AV2001,https://videomy.yongaomy.com/20200821/ctRZTzmw/index.m3u8
 日韓AV2002,https://videomy.yongaomy.com/20200821/JRFDaySF/index.m3u8
 日韓AV2003,https://ginocdn.bybzj.com/20180602/Lzhl7E6r/index.m3u8
@@ -2395,7 +2395,7 @@
 日韓AV2498,https://videomy.yongaomy.com/20220623/gGETC7cW/index.m3u8
 日韓AV2499,https://video.myzybo.com/20220716/NTc5OTNlOW/094544/1280/hls/encrypt/index.m3u8
 日韓AV2500,https://video.myzybo.com/20220817/YTM1ZmJjYT/092535/1280/hls/encrypt/index.m3u8
-【日韓AV06】,#genre
+【日韓AV06】,#genre#
 日韓AV2502,https://video.myzybo.com/20220820/MzlkZjZjNT/095028/1280/hls/encrypt/index.m3u8
 日韓AV2503,https://video.myzybo.com/20220925/YTQxZDRiOD/081758/1280/hls/encrypt/index.m3u8
 日韓AV2504,https://video.myzybo.com/20221105/MzlkMDIxMW/084107/1280/hls/encrypt/index.m3u8
@@ -2818,7 +2818,7 @@
 日韓AV2997,https://video35.zdavsp.com/video/20221023/811f4cc2799209d56ae600c35a857051/index.m3u8
 日韓AV2998,https://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/SSPD-117/index.m3u8
 日韓AV2999,https://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/SVDVD-470/index.m3u8
-【日韓AV07】,#genre
+【日韓AV07】,#genre#
 日韓AV3005,https://vip5.ddyunbo.com/20221020/lL8NnJ9O/index.m3u8
 日韓AV3007,https://videomy.yongaomy.com/20200426/6aNzpyB8/index.m3u8
 日韓AV3008,https://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/VEMA-096/index.m3u8
@@ -3258,7 +3258,7 @@
 日韓AV3497,https://vip7.3sybf.com/20221017/kn99O21s/index.m3u8
 日韓AV3498,https://videomy.yongaomy.com/20210628/SfJgCYx7/index.m3u8
 日韓AV3499,https://video1.rhsj520.com/nyrm3/cjod/cjod-168/1500kb/hls/index.m3u8
-【日韓AV08】,#genre
+【日韓AV08】,#genre#
 日韓AV3501,https://videomy.yongaomy.com/20210502/kGkcZacw/index.m3u8
 日韓AV3503,https://videomy.yongaomy.com/20220104/YcWwB5h8/index.m3u8
 日韓AV3504,https://video.myzybo.com/20220712/ZDkzY2FhYj/112010/1280/hls/encrypt/index.m3u8
@@ -3691,7 +3691,7 @@
 日韓AV3998,https://video24.avnyg.com/video/20220507/0172e34cfbf9b48c7794e47a8e20590b/index.m3u8
 日韓AV3999,https://bobolj.com/20201112/GGyPbrGX/index.m3u8
 日韓AV4000,https://play.hgm4u9.com/20221110/E0WinEq7/index.m3u8
-【日韓AV09】,#genre
+【日韓AV09】,#genre#
 日韓AV4001,https://vip8.3sybf.com/20230523/jRR1HBbG/index.m3u8
 日韓AV4002,https://play.hgm4u9.com/20221110/pd6Sn6gT/index.m3u8
 日韓AV4003,https://3sybf.com/20200602/f2b9we0B/index.m3u8
@@ -4134,7 +4134,7 @@
 日韓AV4498,https://askzybf.com/20221117/bC6upjHK/index.m3u8
 日韓AV4499,https://cdn3.lajiao-bo.com/20191126/ryIgFCRI/index.m3u8
 日韓AV4500,https://cdn3.lajiao-bo.com/20191208/PdDrO08q/index.m3u8
-【日韓AV10】,#genre
+【日韓AV10】,#genre#
 日韓AV4501,https://cdn3.lajiao-bo.com/20191225/V9MOkq5F/index.m3u8
 日韓AV4502,https://videomy.yongaomy.com/20200424/CipuDVC6/index.m3u8
 日韓AV4504,https://askzybf.com/20221223/fwf45nGt/index.m3u8
@@ -4577,7 +4577,7 @@
 日韓AV4998,https://bf.kokcdn.com/20230629/LBP3onOQ/index.m3u8
 日韓AV4999,https://play.hgm4u9.com/20221109/nybvCIPz/index.m3u8
 日韓AV5000,https://bf1.semaobf1.com/20221204/AD0F838111F48BAB/hls/1000k/index.m3u8
-【日韓AV11】,#genre
+【日韓AV11】,#genre#
 日韓AV5001,https://vip6.ljbfbf.com/20221017/kZzsvaM8/index.m3u8
 日韓AV5002,https://cdn.yrplay4.com/20230627/HLRaBhWO/index.m3u8
 日韓AV5003,https://vip6.ljbfbf.com/20230317/ppmpjjh8/index.m3u8
@@ -5019,7 +5019,7 @@
 日韓AV5498,https://videomy.yongaomy.com/20220314/z5N5xQjZ/index.m3u8
 日韓AV5499,https://videomy.yongaomy.com/20220408/IfHZUOmB/index.m3u8
 日韓AV5500,https://videomy.yongaomy.com/20220514/VvC8t71H/index.m3u8
-【日韓AV12】,#genre
+【日韓AV12】,#genre#
 日韓AV5501,https://videomy.yongaomy.com/20220606/PfmkS3s9/index.m3u8
 日韓AV5502,https://videomy.yongaomy.com/20220628/fWi8sFFY/index.m3u8
 日韓AV5503,https://video.myzybo.com/20220726/NzMwMGIyNj/100417/1280/hls/encrypt/index.m3u8
@@ -5459,7 +5459,7 @@
 日韓AV5998,https://video.myzybo.com/20221216/ZmVkNjM1Ym/082453/1280/hls/encrypt/index.m3u8
 日韓AV5999,https://video.myzybo.com/20221217/NGI5NzM2MT/080016/1280/hls/encrypt/index.m3u8
 日韓AV6000,https://videomy.yongaomy.com/20210728/OnENA8lR/index.m3u8
-【日韓AV13】,#genre
+【日韓AV13】,#genre#
 日韓AV6001,https://videomy.yongaomy.com/20220309/2GkxMkbQ/index.m3u8
 日韓AV6002,https://videomy.yongaomy.com/20220406/Yzq6brh9/index.m3u8
 日韓AV6003,https://videomy.yongaomy.com/20220415/b1gJHOi5/index.m3u8
@@ -5901,7 +5901,7 @@
 日韓AV6497,https://video1.rhsj520.com/nyrm3/snis/6/SNIS-168/1500kb/hls/index.m3u8
 日韓AV6499,https://video14.avnyg.com/video/20220307/8aec53d964b0e3b38dc1c9dcdc0f761f/index.m3u8
 日韓AV6500,https://video1.rhsj520.com/nyrm3/snis/6/SNIS-226/1500kb/hls/index.m3u8
-【日韓AV14】,#genre
+【日韓AV14】,#genre#
 日韓AV6501,https://video1.rhsj520.com/nyrm3/snis/6/SNIS-246/1500kb/hls/index.m3u8
 日韓AV6503,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/12/WANZ-552/index.m3u8
 日韓AV6504,https://videomy.yongaomy.com/20210331/08ofgEYN/index.m3u8
@@ -6343,7 +6343,7 @@
 日韓AV6998,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/1/ABS-076/index.m3u8
 日韓AV6999,https://videocdnbaidu.rhsj520.com/3/MRHQL/ABS-103/1500kb/hls/index.m3u8
 日韓AV7000,https://3.ddyunbo.com/20200912/bo58IcUN/index.m3u8
-【日韓AV15】,#genre
+【日韓AV15】,#genre#
 日韓AV7001,https://videocdnbaidu.rhsj520.com/3/MRHQL/aby-014/1500kb/hls/index.m3u8
 日韓AV7002,https://videocdnbaidu.rhsj520.com/3/MRHQL/MAS-103/1500kb/hls/index.m3u8
 日韓AV7003,https://video1.rhsj520.com/nyrm3/snis/2/ofje-176/1500kb/hls/index.m3u8
@@ -6803,7 +6803,7 @@
 日韓AV7498,https://video1.rhsj520.com/nyrm3/20190109/qtxz/IPZ-292/index.m3u8
 日韓AV7499,https://video1.rhsj520.com/nyrm3/20190109/qtxz/ipz-380/index.m3u8
 日韓AV7500,https://video1.rhsj520.com/nyrm3/20190109/qtxz/IPZ-420/index.m3u8
-【日韓AV16】,#genre
+【日韓AV16】,#genre#
 日韓AV7501,https://video1.rhsj520.com/nyrm3/20190109/qtxz/STAR-257/index.m3u8
 日韓AV7502,https://video1.rhsj520.com/nyrm3/20190109/qtxz/STAR-306/index.m3u8
 日韓AV7503,https://video1.rhsj520.com/nyrm3/20190109/qtxz/SHKD-568/index.m3u8
@@ -7250,7 +7250,7 @@
 日韓AV7998,https://video.zmwbf.com/20220623/Yjc5NjE0M2/151736/1280/hls/encrypt/index.m3u8
 日韓AV7999,https://videomy.yongaomy.com/20211013/mJGAZkRk/index.m3u8
 日韓AV8000,https://videomy.yongaomy.com/20211017/WuiMufqv/index.m3u8
-【日韓AV17】,#genre
+【日韓AV17】,#genre#
 日韓AV8001,https://videomy.yongaomy.com/20210814/3BCbITzQ/index.m3u8
 日韓AV8002,https://videomy.yongaomy.com/20211127/4LtN10ha/index.m3u8
 日韓AV8003,https://videomy.yongaomy.com/20210915/kaDhREMk/index.m3u8
@@ -7692,7 +7692,7 @@
 日韓AV8498,https://video.myzybo.com/20230126/OWVmNjNjNz/080221/1280/hls/encrypt/index.m3u8
 日韓AV8499,https://video.myzybo.com/20220626/YzQ0MzA5OD/090039/1280/hls/encrypt/index.m3u8
 日韓AV8500,https://video.myzybo.com/20220805/NDBmNDBhNz/095624/1280/hls/encrypt/index.m3u8
-【日韓AV18】,#genre
+【日韓AV18】,#genre#
 日韓AV8501,https://vip6.ljbfbf.com/20221212/olj8gU7N/index.m3u8
 日韓AV8502,https://video.zmwbf.com/20221017/ZWNkNTUzNz/174814/1280/hls/encrypt/index.m3u8
 日韓AV8503,https://video.myzybo.com/20220727/OTQ4MzY5ZD/095600/1280/hls/encrypt/index.m3u8
@@ -8131,7 +8131,7 @@
 日韓AV8998,https://videomy.yongaomy.com/20220626/HRFPukYK/index.m3u8
 日韓AV8999,https://video.myzybo.com/20220822/OGQ5MjFiMj/093220/1280/hls/encrypt/index.m3u8
 日韓AV9000,https://video.myzybo.com/20220823/ZjA5OWY0Y2/085311/1280/hls/encrypt/index.m3u8
-【日韓AV19】,#genre
+【日韓AV19】,#genre#
 日韓AV9001,https://video.myzybo.com/20221111/NTBlZDVkND/075923/1280/hls/encrypt/index.m3u8
 日韓AV9002,https://video.myzybo.com/20221112/M2YxNTUwOD/080708/1280/hls/encrypt/index.m3u8
 日韓AV9003,https://video.myzybo.com/20230221/MmJhZjhlND/080422/1280/hls/encrypt/index.m3u8
@@ -8488,7 +8488,7 @@
 日韓AV9498,https://video.myzybo.com/20221126/NWEwOWI3OT/081909/1280/hls/encrypt/index.m3u8
 日韓AV9499,https://video.myzybo.com/20230308/N2E2NjE5Yz/185352/1280/hls/encrypt/index.m3u8
 日韓AV9500,https://video.myzybo.com/20230502/YThhYWZlNz/081435/1280/hls/encrypt/index.m3u8
-【日韓AV20】,#genre
+【日韓AV20】,#genre#
 日韓AV9501,https://video.myzybo.com/20221214/MGM4ZGVmMm/082100/1280/hls/encrypt/index.m3u8
 日韓AV9502,https://video.myzybo.com/20221214/YTZjY2JlNz/082828/1280/hls/encrypt/index.m3u8
 日韓AV9503,https://video.myzybo.com/20230207/ZTE4NDBlOT/083411/1280/hls/encrypt/index.m3u8
@@ -8931,7 +8931,7 @@
 日韓AV9998,https://jkunbf.com/20230302/wYDOOr29/index.m3u8
 日韓AV9999,https://awslsn1.sisuoyun.com/81820200305/ZF0229041/1000kb/hls/index.m3u8
 日韓AV10000,https://data2.huakuibf3.com/20220324/879AF4DCD5E9F57C/hls/2000k/index.m3u8
-【日韓AV21】,#genre
+【日韓AV21】,#genre#
 日韓AV10001,https://play1.laoyacdn.com/20220223/tImGOOPN/index.m3u8
 日韓AV10004,https://videomy.yongaomy.com/20220213/NLd2atxd/index.m3u8
 日韓AV10005,https://video2.51daao.com/btt1/2021/04/20210407/VXEalkVP/index.m3u8
@@ -9398,7 +9398,7 @@
 日韓AV10498,https://video.myzybo.com/20221103/MmNiODMxMT/093811/1280/hls/encrypt/index.m3u8
 日韓AV10499,https://video.myzybo.com/20230212/MDJmOTM2N2/104551/1280/hls/encrypt/index.m3u8
 日韓AV10500,https://video.myzybo.com/20230213/NzViYzk3ZG/090351/1280/hls/encrypt/index.m3u8
-【日韓AV22】,#genre
+【日韓AV22】,#genre#
 日韓AV10501,https://video.myzybo.com/20230213/NGQxYjQ5NT/122458/1280/hls/encrypt/index.m3u8
 日韓AV10502,https://video.myzybo.com/20230515/ZGNjMzkyOT/102005/1280/hls/encrypt/index.m3u8
 日韓AV10503,https://video.bttbo.com/20230216/OWI4N2JkMW/193502/1280/hls/encrypt/index.m3u8
@@ -9848,7 +9848,7 @@
 日韓AV10998,https://video.bttbo.com/20221219/YTFlMTdjMj/034105/1280/hls/encrypt/index.m3u8
 日韓AV10999,https://video.myzybo.com/20230222/MmFjMmRhZj/085642/1280/hls/encrypt/index.m3u8
 日韓AV11000,https://video.myzybo.com/20230415/MWFmMWQ0Nj/082342/1280/hls/encrypt/index.m3u8
-【日韓AV23】,#genre
+【日韓AV23】,#genre#
 日韓AV11001,https://video.bttbo.com/20220730/YjY4ZjAyYj/203351/1280/hls/encrypt/index.m3u8
 日韓AV11002,https://video.bttbo.com/20221016/OTdhMjM3ZW/074824/1280/hls/encrypt/index.m3u8
 日韓AV11003,https://video.myzybo.com/20230209/ZDkwOGY0ZD/081256/1280/hls/encrypt/index.m3u8
@@ -10293,7 +10293,7 @@
 日韓AV11498,https://vip6.ljbfbf.com/20230502/K5A5O1yZ/index.m3u8
 日韓AV11499,https://vip6.ljbfbf.com/20230516/vE1I4qHX/index.m3u8
 日韓AV11500,https://videocdn2.quweikm.com/20180801/MVL2RWQ304/index.m3u8
-【日韓AV24】,#genre
+【日韓AV24】,#genre#
 日韓AV11503,https://vip6.ljbfbf.com/20230516/670J63Md/index.m3u8
 日韓AV11505,https://cdn3.lajiao-bo.com/20200109/zDCtky0E/index.m3u8
 日韓AV11506,https://video.jcwbf.com/20220617/ZmQ5YmY2NT/225214/1280/hls/encrypt/index.m3u8
@@ -10726,7 +10726,7 @@
 日韓AV11997,https://video2.feimanzb.com/20180420/IJT4DEF058/650kb/hls/index.m3u8
 日韓AV11998,https://videocdn2.quweikm.com/20181101/IJ9MWET075/index.m3u8
 日韓AV12000,https://videomy.yongaomy.com/20191205/7EyX2o7S/index.m3u8
-【日韓AV25】,#genre
+【日韓AV25】,#genre#
 日韓AV12001,https://video2.51daao.com/btt1/2021/07/20210705/3JCFK5eT/index.m3u8
 日韓AV12002,https://bf1.semaobf1.com/20211115/DC8B2368B03D62AB/hls/2000k/index.m3u8
 日韓AV12004,https://dadi-bo.com/20190202/SmkiDPoE/index.m3u8
@@ -11164,7 +11164,7 @@
 日韓AV12497,https://video2.51daao.com/btt1/2021/06/20210626/eEIlRwPY/index.m3u8
 日韓AV12498,https://videomy.yongaomy.com/20220113/M0QCVen3/index.m3u8
 日韓AV12500,https://video2.51daao.com/btt1/2021/10/20211027/As0FCjpZ/index.m3u8
-【日韓AV26】,#genre
+【日韓AV26】,#genre#
 日韓AV12501,https://videomy.yongaomy.com/20211112/jnmHH4zQ/index.m3u8
 日韓AV12502,https://videomy.yongaomy.com/20220323/z9jRFG0G/index.m3u8
 日韓AV12503,https://videomy.yongaomy.com/20220426/vEkOYHbv/index.m3u8
@@ -11604,7 +11604,7 @@
 日韓AV12998,https://videomy.yongaomy.com/20211202/63RYtLe4/index.m3u8
 日韓AV12999,https://videomy.yongaomy.com/20200104/sOooYBaj/index.m3u8
 日韓AV13000,https://videomy.yongaomy.com/20220104/WiROluGz/index.m3u8
-【日韓AV27】,#genre
+【日韓AV27】,#genre#
 日韓AV13001,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/6048856a/index.m3u8
 日韓AV13003,https://video.zmwbf.com/20221010/M2JiNTI1MD/180923/1280/hls/encrypt/index.m3u8
 日韓AV13006,https://video.myzybo.com/20220908/MzBmZWQyMD/101815/1280/hls/encrypt/index.m3u8
@@ -12030,7 +12030,7 @@
 日韓AV13498,https://218158.vod.redtraffic.xyz/ph588006e5461e0/play.m3u8
 日韓AV13499,https://12156.vod.adultiptv.net/ph5910ba3a71910/play.m3u8
 日韓AV13500,https://10238.vod.adultiptv.net/ph59116f8d82904/play.m3u8
-【日韓AV28】,#genre
+【日韓AV28】,#genre#
 日韓AV13501,https://218158.vod.redtraffic.xyz/ph5a2dccba757bf/play.m3u8
 日韓AV13502,https://1244.vod.redtraffic.xyz/ph59919dcecc5e2/play.m3u8
 日韓AV13503,https://12204.vod.redtraffic.xyz/ph58df8697b4edd/play.m3u8
@@ -12504,7 +12504,7 @@
 日韓AV13988,https://60106.vod.redtraffic.xyz/ph56b71cb238bce/play.m3u8
 日韓AV13989,https://218158.vod.redtraffic.xyz/ph5914a82e707aa/play.m3u8
 日韓AV13990,https://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
-【日韓AV29】,#genre
+【日韓AV29】,#genre#
 日韓AV14147,https://video2.51daao.com/btt1/2021/04/20210421/uerOlDXv/index.m3u8
 日韓AV14148,https://video2.51daao.com/btt1/2021/04/20210421/Q6vpCHnh/index.m3u8
 日韓AV14149,https://video2.51daao.com/btt1/2021/04/20210419/F98YDzuz/index.m3u8
@@ -12753,7 +12753,7 @@
 日韓AV14556,https://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8
 日韓AV14557,https://13216.vod.redtraffic.xyz/ph57e3d9618a6bd/play.m3u8
 日韓AV14558,https://1244.vod.adultiptv.net/ph57c46d6c4cbde/play.m3u8
-【步兵合集】,#genre
+【步兵合集】,#genre#
 步兵合集1,https://video2.51daao.com/btt1/2020/08/20200805/X41j7v13/index.m3u8
 步兵合集2,https://video2.51daao.com/btt1/2020/05/20200510/Mi8gGjh5/index.m3u8
 步兵合集3,https://video2.51daao.com/btt1/2021/04/20210421/pXCBgQkq/index.m3u8
@@ -13062,7 +13062,7 @@
 步兵合集395,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
 步兵合集396,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
 步兵合集397,https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
-【東京熱AV】,#genre
+【東京熱AV】,#genre#
 東京熱1,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8
 東京熱2,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8
 東京熱3,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8#https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8
@@ -13090,7 +13090,7 @@
 東京熱25,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
 東京熱26,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 東京熱27,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
-【加勒比AV】,#genre
+【加勒比AV】,#genre#
 加勒比1,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 加勒比2,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122014-761/index.m3u8
 加勒比3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
@@ -13121,7 +13121,7 @@
 加勒比28,https://video1.rhsj520.com/nyrm3/jlb-112/010711-584/1500kb/hls/index.m3u8
 加勒比29,https://video1.rhsj520.com/nyrm3/jlb-112/101110-505/1500kb/hls/index.m3u8
 加勒比30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0439/index.m3u8
-【一本道AV】,#genre
+【一本道AV】,#genre#
 一本道1,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 一本道2,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
 一本道3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
@@ -13172,3 +13172,4 @@
 一本道48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 一本道95,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
 一本道96,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
+
