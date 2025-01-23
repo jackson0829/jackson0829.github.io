@@ -1,6 +1,8 @@
 台彩虹頻道,#genre#
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
 香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+松视1台,http://suo.im/c4FP2
+彩虹电影,http://suo.im/9sOLD 
 潘多拉完美臺(型男),http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 松視3臺(型男),http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 MIFD-117方言少女,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
