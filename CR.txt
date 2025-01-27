@@ -94,11 +94,9 @@ Ginx_TV4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 
 💝TW250116,#genre#
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8#https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8#https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8#https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv#https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
-三立新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8#http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14#https://stream1.freetv.fun/san-li-xin-wen-5.ctv#https://stream1.freetv.fun/san-li-xin-wen-4.m3u8#https://stream1.freetv.fun/san-li-xin-wen-3.m3u8#http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8#http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14#https://stream1.freetv.fun/san-li-xin-wen-5.ctv#https://stream1.freetv.fun/san-li-xin-wen-4.m3u8#https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
+三立新聞,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14#https://stream1.freetv.fun/san-li-xin-wen-5.ctv#https://stream1.freetv.fun/san-li-xin-wen-4.m3u8#https://stream1.freetv.fun/san-li-xin-wen-3.m3u8#http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8#http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14#https://stream1.freetv.fun/san-li-xin-wen-5.ctv#https://stream1.freetv.fun/san-li-xin-wen-4.m3u8#https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 
 TVBS新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#http://61.221.215.25:8800/hls/9/index.m3u8#http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://125.227.210.55:8186/VideoInput/play.ts#https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8#http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://125.227.210.55:8186/VideoInput/play.ts
@@ -108,7 +106,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8#http://38.64.7
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-13.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-16.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-20.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-22.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-6.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://ku9.fr.to/smt.php?id=ttvnews_twn#https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-9.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-13.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-14.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-16.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-20.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://ku9.fr.to/smt.php?id=ttvnews_twn#https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8#https://stream1.freetv.fun/tai-shi-xin-wen-9.m3u8
 華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8#http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8#https://stream1.freetv.fun/hua-shi-2.m3u8#http://37.27.111.214:8080/live/8/hls.m3u8#http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8#https://stream1.freetv.fun/hua-shi-2.m3u8
 中天新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8#http://cdn.iptv8k.top/dl/jspd.php?id=1#https://stream1.freetv.fun/zhong-tian-xin-wen-2.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv#https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv#https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8#https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009#http://cdn.iptv8k.top/dl/jspd.php?id=1#https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv#https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv#https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
+中天新聞,http://cdn.iptv8k.top/dl/jspd.php?id=1#https://stream1.freetv.fun/zhong-tian-xin-wen-2.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv#https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv#https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8#https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009#http://cdn.iptv8k.top/dl/jspd.php?id=1#https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8#https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv#https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv#https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
 中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8#https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8#http://ku9.fr.to/smt.php?id=ctiasia_twn#https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8#http://ku9.fr.to/smt.php?id=ctiasia_twn
 民視新聞,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-15.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-12.ctv#https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-10.ctv#https://stream1.freetv.fun/min-shi-xin-wen-5.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-17.ctv#https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13#https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-15.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-8.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-12.ctv#https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-10.ctv#https://stream1.freetv.fun/min-shi-xin-wen-5.m3u8#https://stream1.freetv.fun/min-shi-xin-wen-17.ctv
@@ -206,12 +204,7 @@ AMC電影,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 
 
 💝Live-AKTV,#genre#
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=-010
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -365,8 +358,6 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 
 💝litv241127,#genre#
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -464,11 +455,7 @@ Amc電影頻道,http://211.72.65.236:8583/http/61.67.128.137:8092/upload/115/AMC
 
 
 💝litv.zapi,#genre#
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -559,11 +546,7 @@ Ginx_TV,http://litv.zapi.us.kg/?id=-053
 
 💝Litv頻道💝全網,#genre#
 
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台灣台,https://litv.zapi.us.kg/?id=litv-longturn15
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 鏡新聞,https://litv.zapi.us.kg/?id=-075
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
@@ -656,8 +639,6 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 
 
 💝灣灣頻道,#genre#
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 CTV中視HD,rtmp://f13h.mine.nu/sat/tv091
 CTS華視HD,rtmp://f13h.mine.nu/sat/tv111
 台視HD,rtmp://f13h.mine.nu/sat/tv071
@@ -856,13 +837,9 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 💝台灣AKTV,#genre#
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvbs新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-三立新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
